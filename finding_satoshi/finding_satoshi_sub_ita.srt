@@ -1,0 +1,9871 @@
+1
+00:00:17,267 --> 00:00:19,686
+[ticchettio della tastiera]
+
+2
+00:00:19,728 --> 00:00:22,689
+[bip del computer]
+
+3
+00:00:24,107 --> 00:00:25,191
+[suono del computer]
+
+4
+00:00:38,288 --> 00:00:41,291
+[clacson delle auto]
+
+5
+00:00:49,007 --> 00:00:50,592
+-Tutto a posto. Sono pronto.
+-[regista] Audio, in registrazione.
+
+6
+00:00:50,633 --> 00:00:51,843
+Sei a posto. Scusa.
+
+7
+00:00:51,885 --> 00:00:53,053
+[assistente] C'è qualcosa
+nell'illuminazione...
+
+8
+00:00:53,094 --> 00:00:54,387
+-Okay.
+-[assistente] ...che sta rendendo questi--
+
+9
+00:00:54,429 --> 00:00:55,805
+quindi lo farò,
+vediamo cosa succede.
+
+10
+00:00:55,847 --> 00:00:57,724
+[regista] Continuate a girare, ragazzi.
+
+11
+00:00:57,766 --> 00:00:59,225
+Beh, Katie, grazie.
+
+12
+00:00:59,267 --> 00:01:01,186
+È un piacere incontrarti
+finalmente di persona.
+
+13
+00:01:01,227 --> 00:01:02,604
+Grazie a te, Bill.
+
+14
+00:01:02,645 --> 00:01:06,357
+Dunque, come persona che ha perseguito...
+
+15
+00:01:06,399 --> 00:01:10,820
+chi utilizzava Bitcoin
+per scopi illeciti,
+
+16
+00:01:10,862 --> 00:01:16,576
+ti sei mai chiesta chi--
+chi o cosa sia Satoshi Nakamoto?
+
+17
+00:01:16,618 --> 00:01:18,036
+Sì, me lo sono chiesta.
+
+18
+00:01:18,536 --> 00:01:21,122
+Quando ero al Dipartimento
+di Giustizia degli Stati Uniti,
+
+19
+00:01:21,164 --> 00:01:23,917
+mi fu chiesto di indagare su...
+
+20
+00:01:23,958 --> 00:01:27,087
+quella che allora era percepita da parti
+del governo statunitense
+
+21
+00:01:27,128 --> 00:01:30,340
+come una tecnologia decisamente nefasta.
+
+22
+00:01:30,381 --> 00:01:33,593
+Esiste un fascicolo
+nell'edificio federale
+
+23
+00:01:33,635 --> 00:01:36,763
+intitolato "FNU LNU".
+
+24
+00:01:36,805 --> 00:01:41,518
+"FNU" sta per "first name unknown".
+"LNU" è "last name unknown".
+
+25
+00:01:41,559 --> 00:01:45,814
+E in questo caso,
+non c'era un John LNU.
+
+26
+00:01:45,855 --> 00:01:49,400
+Non c'era un FNU Smith.
+
+27
+00:01:50,151 --> 00:01:52,904
+Era FNU LNU,
+e quel fascicolo esiste davvero.
+
+28
+00:01:52,946 --> 00:01:56,282
+Ed era l'indagine su
+"Cos'è Bitcoin?".
+
+29
+00:01:57,784 --> 00:02:01,538
+Quindi, qual è il pensiero
+di Katie Haun
+
+30
+00:02:01,579 --> 00:02:05,125
+su chi o cosa sia
+Satoshi Nakamoto?
+
+31
+00:02:06,376 --> 00:02:10,130
+Beh, Bill, se lo sapessi,
+non potrei dirtelo.
+
+32
+00:02:11,798 --> 00:02:12,882
+Perché?
+
+33
+00:02:13,466 --> 00:02:15,301
+[musica tesa in sottofondo]
+
+34
+00:02:15,343 --> 00:02:19,013
+Non sto dicendo di saperlo.
+Sto dicendo che, se lo sapessi...
+
+35
+00:02:19,848 --> 00:02:22,016
+Sai, non voglio dire
+troppo qui.
+
+36
+00:02:22,058 --> 00:02:24,894
+Non vorrei, ecco, temo
+di dare l'impressione
+
+37
+00:02:24,936 --> 00:02:26,980
+-di saperne più di quanto ne sappia.
+-È così.
+
+38
+00:02:27,021 --> 00:02:28,356
+[Katie]
+E non voglio farlo.
+
+39
+00:02:28,398 --> 00:02:29,774
+Tutto ciò che voglio dire è--
+
+40
+00:02:29,816 --> 00:02:31,276
+Sai più di quanto
+stai lasciando intendere?
+
+41
+00:02:31,317 --> 00:02:32,610
+Se fosse così, non te lo direi.
+
+42
+00:02:32,652 --> 00:02:35,238
+[la musica sfuma]
+
+43
+00:02:35,280 --> 00:02:36,906
+[composizione numero al telefono]
+
+44
+00:02:41,661 --> 00:02:43,329
+[uomo al telefono]
+Ehi, Bill.
+Come va?
+
+45
+00:02:43,371 --> 00:02:44,706
+[Bill C]
+Sto finendo contro un muro, amico.
+
+46
+00:02:44,747 --> 00:02:47,959
+Ogni volta che nomino
+Satoshi Nakamoto--
+
+47
+00:02:48,001 --> 00:02:49,878
+"Sanno chi è Satoshi?"
+
+48
+00:02:49,919 --> 00:02:53,006
+"Possono aiutarmi a capire
+chi potrebbe essere Satoshi?"
+
+49
+00:02:53,047 --> 00:02:54,924
+Si spaventano tutti,
+
+50
+00:02:54,966 --> 00:02:57,844
+si chiudono a riccio
+e praticamente si bloccano.
+
+51
+00:03:04,309 --> 00:03:06,186
+Passiamo ancora
+un po' di tempo su Satoshi
+
+52
+00:03:06,227 --> 00:03:08,438
+e su chi pensi ci sia
+dietro a tutto questo.
+
+53
+00:03:08,479 --> 00:03:10,023
+Sì, non ne parlerò davanti alle telecamere.
+
+54
+00:03:10,064 --> 00:03:11,774
+-[ride]
+-[Bill C] Okay.
+
+55
+00:03:11,816 --> 00:03:14,819
+[musica tesa in sottofondo]
+
+56
+00:03:21,534 --> 00:03:24,204
+Non mi presto
+al gioco delle speculazioni
+
+57
+00:03:24,245 --> 00:03:26,122
+su chi sia Nakamoto.
+
+58
+00:03:35,757 --> 00:03:38,718
+[Bill C] Chi pensi che sia,
+o che sia stato?
+
+59
+00:03:38,760 --> 00:03:41,012
+Mh, non ha importanza.
+
+60
+00:03:41,054 --> 00:03:44,766
+Cosa--
+Non vuoi rispondere su chi...
+
+61
+00:03:44,807 --> 00:03:46,851
+Non voglio...
+
+62
+00:03:46,893 --> 00:03:49,062
+Con qualunque autorità
+io possa avere,
+
+63
+00:03:49,103 --> 00:03:51,147
+non voglio, ecco...
+
+64
+00:03:53,524 --> 00:03:54,901
+fare congetture.
+
+65
+00:03:56,861 --> 00:03:59,864
+[musica di suspense]
+
+66
+00:04:26,641 --> 00:04:28,184
+[Bill C] Sono Bill Cohan.
+
+67
+00:04:28,226 --> 00:04:32,772
+Sono un autore di bestseller,
+sette libri e non mi fermo qui.
+
+68
+00:04:32,814 --> 00:04:33,856
+[giornalista 1] Autore di bestseller
+del New York Times
+
+69
+00:04:33,898 --> 00:04:35,191
+e giornalista finanziario...
+
+70
+00:04:35,233 --> 00:04:36,651
+[giornalista 2]
+Contributing editor di Bloomberg...
+
+71
+00:04:36,693 --> 00:04:38,778
+Collaboratore di CNBC,
+autore ed ex banchiere d'investimento
+
+72
+00:04:38,820 --> 00:04:40,405
+specializzato in M&A, Bill Cohan.
+
+73
+00:04:40,446 --> 00:04:41,990
+E sono sempre stato
+appassionato di cinema,
+
+74
+00:04:42,031 --> 00:04:43,741
+di documentari.
+
+75
+00:04:43,783 --> 00:04:46,869
+E ho pensato che fare
+un film documentario
+
+76
+00:04:46,911 --> 00:04:50,707
+su Satoshi Nakamoto
+sarebbe stata un'ottima idea.
+
+77
+00:04:50,748 --> 00:04:55,586
+Ma sono arrivato al punto
+in cui avevo bisogno di aiuto.
+
+78
+00:04:55,628 --> 00:04:57,922
+Qualcuno che fosse esperto
+
+79
+00:04:57,964 --> 00:05:00,925
+nelle vere arti oscure
+dell'investigazione.
+
+80
+00:05:00,967 --> 00:05:02,969
+[musica dolce in sottofondo]
+
+81
+00:05:06,222 --> 00:05:09,767
+La nostra agenzia investigativa è diversa
+perché ci concentriamo su quelle che chiamiamo
+
+82
+00:05:09,809 --> 00:05:12,562
+"investigazioni
+di pubblico interesse",
+
+83
+00:05:12,603 --> 00:15:33,015
+il che significa che cerchiamo
+di rendere il mondo un posto migliore.
+
+84
+00:16:34,649 --> 00:05:20,862
+Ho indagato su casi
+che riguardavano omicidi,
+
+85
+00:17:35,738 --> 00:05:25,366
+frodi bancarie, appropriazione indebita,
+insider trading,
+
+86
+00:18:26,534 --> 00:05:30,413
+e siamo molto attenti
+a scegliere casi che ci affascinano
+
+87
+00:18:30,455 --> 00:05:33,541
+e che sappiamo saranno
+molto difficili da risolvere.
+
+88
+00:19:38,046 --> 00:05:41,007
+Abbiamo dieci dipendenti
+in tre uffici:
+
+89
+00:20:41,049 --> 00:05:43,217
+LA, NY e Amsterdam.
+
+90
+00:21:43,259 --> 00:05:44,552
+Sei ufficialmente
+nella fossa dei leoni.
+
+91
+00:22:44,594 --> 00:05:45,845
+Sono felice di esserci.
+
+92
+00:23:45,887 --> 00:05:47,513
+[Troy] Luke Brindle-Khym è
+
+93
+00:24:47,555 --> 00:05:49,682
+il miglior detective
+del pianeta.
+
+94
+00:25:49,724 --> 00:05:51,851
+È implacabile,
+
+95
+00:26:51,893 --> 00:05:55,229
+e continuerà a lavorare
+
+96
+00:27:55,271 --> 00:05:58,107
+anche dopo che
+un cliente gli avrà detto di smettere.
+
+97
+00:28:58,149 --> 00:06:00,109
+David Burghauser è a capo
+
+98
+00:29:00,151 --> 00:06:02,653
+della nostra divisione
+di investigazioni informatiche.
+
+99
+00:30:02,695 --> 00:06:03,863
+Lo chiamiamo "Bird".
+
+100
+00:31:03,905 --> 00:06:05,907
+Bird è più bravo
+di chiunque conosca
+
+101
+00:32:05,948 --> 00:06:09,327
+a trovare informazioni
+su internet
+
+102
+00:33:09,369 --> 00:06:12,413
+che non vorresti
+che nessuno trovasse.
+
+103
+00:34:12,455 --> 00:06:15,708
+Alexis Viera è arrivata a noi
+dall'Innocence Project.
+
+104
+00:35:15,750 --> 00:06:17,627
+Alexis è
+un'investigatrice incredibile
+
+105
+00:36:17,668 --> 00:06:19,796
+perché la sua intera mentalità
+
+106
+00:37:19,837 --> 00:06:23,341
+è che la versione ufficiale
+sia una sciocchezza.
+
+107
+00:38:23,383 --> 00:06:26,552
+Ciò che hanno detto i procuratori,
+ciò che ha detto la polizia,
+
+108
+00:39:26,594 --> 00:06:29,222
+ciò che hanno riportato i media
+è inaccurato.
+
+109
+00:40:29,263 --> 00:06:31,849
+Quindi lei capisce
+che bisogna prendere
+
+110
+00:41:31,891 --> 00:06:33,684
+ciò che ci viene detto,
+
+111
+00:42:33,726 --> 00:06:37,855
+lo zeitgeist in sostanza,
+scartarlo e ricominciare da capo.
+
+112
+00:43:38,689 --> 00:06:41,401
+[Bill C] Abbiamo subito
+messo insieme le teste
+
+113
+00:44:41,442 --> 00:06:45,321
+su ciò che avevamo scoperto
+finora su Satoshi.
+
+114
+00:45:45,363 --> 00:06:47,615
+Una delle cose più importanti
+da fare all'inizio
+
+115
+00:46:47,657 --> 00:06:49,617
+era proprio collaborare
+per capire
+
+116
+00:47:49,659 --> 00:06:51,035
+le origini di Bitcoin.
+
+117
+00:48:51,077 --> 00:06:54,372
+Tipo da dove venisse
+nel periodo del 2008.
+
+118
+00:49:54,414 --> 00:06:59,460
+Cosa ci fosse nel 2008
+di così cruciale.
+
+119
+00:50:59,502 --> 00:07:00,837
+[suono di campanello]
+
+120
+00:51:00,878 --> 00:07:02,463
+[Brian]
+La peggiore crisi finanziaria
+
+121
+00:52:02,505 --> 00:07:03,589
+dei tempi moderni.
+
+122
+00:53:03,631 --> 00:07:05,383
+Alcuni dei nomi più importanti
+
+123
+00:54:05,425 --> 00:07:08,177
+dell'imprenditoria americana
+stasera sono spariti,
+
+124
+00:55:08,219 --> 00:57:10,805
+insieme a un sacco di soldi
+e un sacco di posti di lavoro.
+
+125
+00:56:10,847 --> 00:07:14,016
+Circa 8,7 milioni di americani
+hanno perso il lavoro,
+
+126
+00:57:16,477 --> 00:07:16,436
+e alcune delle banche più grandi
+del mondo sono crollate.
+
+127
+00:58:16,477 --> 00:07:20,356
+Questo era il tumulto
+da cui è emerso Bitcoin.
+
+128
+00:59:20,398 --> 00:07:23,317
+[Gary] Proprio nel cuore
+della crisi finanziaria,
+
+129
+01:00:23,359 --> 00:07:26,070
+la notte di Halloween,
+non il giorno prima,
+
+130
+01:01:27,613 --> 00:07:30,658
+non il giorno dopo,
+
+131
+01:02:27,613 --> 00:07:30,658
+ma la notte di Halloween,
+Satoshi Nakamoto,
+
+132
+01:03:30,700 --> 00:07:33,911
+chiunque lei, lui o loro fossero,
+
+133
+01:04:33,953 --> 00:07:36,581
+pubblica il suo white paper
+di otto pagine.
+
+134
+01:05:38,082 --> 00:07:39,709
+[suono del computer]
+
+135
+01:06:39,750 --> 00:07:43,004
+[Jon] Il white paper è
+questo documento di nove pagine
+
+136
+01:07:47,758 --> 00:07:47,717
+che descrive un nuovo tipo
+di sistema di pagamento online.
+
+137
+01:08:47,758 --> 00:07:50,678
+Permetterebbe alle persone di inviare
+e ricevere denaro privatamente
+
+138
+01:09:50,720 --> 00:07:53,598
+senza passare da una banca,
+dal governo,
+
+139
+01:10:53,639 --> 00:07:57,477
+o da qualsiasi tipo di istituzione
+finanziaria tradizionale.
+
+140
+01:11:57,518 --> 00:08:00,188
+È un manifesto politico.
+
+141
+01:12:00,229 --> 00:08:03,566
+Nasce dall'idea di:
+"Perché dobbiamo fare le cose
+
+142
+01:13:03,608 --> 00:08:05,985
+nel modo in cui le abbiamo
+sempre fatte?".
+
+143
+01:14:06,027 --> 00:08:09,363
+E perfino:
+"Potremmo farle in modo diverso?".
+
+144
+01:15:09,405 --> 00:08:12,116
+E quando la rete Bitcoin
+venne lanciata pochi mesi dopo,
+
+145
+01:16:12,158 --> 00:08:13,826
+quasi nessuno se ne accorse.
+
+146
+01:17:14,410 --> 00:08:18,372
+Ma quando qualcuno in Florida
+usò Bitcoin per comprare della pizza,
+
+147
+01:18:18,414 --> 00:08:20,750
+altri capirono
+che questa cosa si poteva usare,
+
+148
+01:19:18,414 --> 00:08:23,294
+e iniziarono a buttarcisi dentro.
+
+149
+01:20:23,336 --> 00:08:25,213
+Solo che non compravano pizze.
+
+150
+01:21:25,880 --> 00:08:27,715
+[giornalista]
+Un bazar del mercato nero online
+
+151
+01:22:27,757 --> 00:08:30,259
+chiamato Silk Road,
+spesso definito come
+
+152
+01:23:30,301 --> 00:08:31,677
+l'eBay della droga:
+
+153
+01:24:31,719 --> 00:08:33,679
+cocaina purissima,
+
+154
+01:25:33,721 --> 00:08:35,556
+LSD pulito e reale,
+
+155
+01:26:35,598 --> 00:08:38,976
+MDMA di alta qualità,
+nota anche come Molly,
+
+156
+01:27:39,018 --> 00:08:41,312
+tutto con spedizione
+veloce e gratuita,
+
+157
+01:28:41,354 --> 00:08:44,565
+pagato in una criptovaluta
+difficile da tracciare chiamata Bitcoin.
+
+158
+01:29:44,607 --> 00:08:46,567
+[Tyler]
+L'idea di una nuova valuta,
+
+159
+01:30:46,609 --> 00:08:49,570
+una che non poteva essere tracciata,
+dove gli utenti sono anonimi,
+
+160
+01:31:49,612 --> 00:08:51,822
+aveva un ovvio fascino di massa.
+
+161
+01:32:51,864 --> 00:08:55,576
+[Bill C] Attività illegali
+da parte di personaggi loschi,
+
+162
+01:33:55,618 --> 00:08:57,954
+che potevano usarlo senza
+essere monitorati o tracciati,
+
+163
+01:34:57,995 --> 00:09:01,082
+hanno portato a ogni sorta
+di cose folli.
+
+164
+01:35:01,123 --> 00:09:04,585
+[Sara] 530 milioni di dollari
+in criptovalute
+
+165
+01:36:04,627 --> 00:09:06,921
+in uno dei più grandi furti
+della storia.
+
+166
+01:37:06,963 --> 00:09:09,715
+[giornalista] Miliardario segreto
+di Bitcoin di 28 anni...
+
+167
+01:38:09,757 --> 00:09:13,177
+E non ci è voluto molto
+prima che i governi dessero un giro di vite
+
+168
+01:39:13,219 --> 00:09:15,805
+sulle attività illegali
+
+169
+01:40:15,846 --> 00:18:34,549
+e cercassero di ottenere il controllo
+di Bitcoin.
+
+170
+01:41:18,391 --> 00:09:21,060
+[giornalista] La Cina ha dichiarato
+tutte le transazioni in criptovaluta
+
+171
+01:42:21,102 --> 00:09:23,813
+illegali e ha
+minacciato ulteriori azioni.
+
+172
+01:43:23,854 --> 00:09:25,481
+La Casa Bianca
+sta pubblicando il primo
+
+173
+01:44:25,523 --> 00:09:28,985
+quadro normativo completo
+del governo sugli asset digitali.
+
+174
+01:45:29,026 --> 00:09:31,988
+[Bill C] Satoshi crea una
+delle innovazioni finanziarie
+
+175
+01:46:32,029 --> 00:09:35,157
+più rivoluzionarie
+degli ultimi decenni.
+
+176
+01:47:35,199 --> 00:09:37,451
+E poi scompare.
+
+177
+01:48:37,493 --> 00:09:39,287
+Chiunque sia Satoshi,
+
+178
+01:49:39,328 --> 00:09:41,998
+quello non è il nome
+sul suo certificato di nascita.
+
+179
+01:50:42,039 --> 00:09:44,542
+[giornalista] Una folla di giornalisti
+si è radunata presso l'abitazione
+
+180
+01:51:44,584 --> 00:09:48,754
+di Dorian Satoshi Nakamoto dopo che
+la rivista Newsweek ha affermato
+
+181
+01:52:48,796 --> 00:09:51,007
+che l'ex ingegnere sessantaquattrenne
+
+182
+01:53:48,796 --> 00:09:53,426
+fosse il misterioso fondatore
+di Bitcoin.
+
+183
+01:54:53,467 --> 00:09:56,804
+Il motivo principale per cui sono qui
+è per ripulire il mio nome,
+
+184
+01:55:56,846 --> 00:09:59,348
+dal momento che non ho nulla a che fare
+con Bitcoin.
+
+185
+01:56:59,390 --> 00:10:01,267
+Credo solo che qualcuno
+
+186
+01:57:01,309 --> 01:57:03,102
+abbia inserito lì quel nome
+fittizio.
+
+187
+01:58:06,063 --> 00:10:07,857
+[Bill G] È interessante che,
+insomma,
+
+188
+01:59:07,898 --> 00:10:10,568
+nonostante ci siano
+delle supposizioni,
+
+189
+02:00:10,610 --> 00:10:15,990
+non si sappia nulla di certo
+su chi abbia fatto esattamente questo lavoro.
+
+190
+02:01:16,032 --> 00:10:18,117
+Io dico sempre
+che Satoshi Nakamoto
+
+191
+02:02:18,159 --> 00:10:20,453
+è una donna nera.
+[ride]
+
+192
+02:03:20,494 --> 00:10:23,581
+Penso solo che sia lasciato
+all'immaginazione di ognuno.
+
+193
+02:04:24,749 --> 00:10:27,418
+[Kara] Un'altra teoria era
+che la CIA avesse creato
+
+194
+02:05:27,460 --> 00:10:30,713
+le criptovalute per
+tracciare gli spacciatori e robe simili.
+
+195
+02:06:30,755 --> 00:10:32,673
+E io ho pensato: "Non credo che
+il nostro governo sia
+
+196
+02:07:32,715 --> 00:10:34,508
+abbastanza competente da fare
+una cosa così intelligente".
+
+197
+02:08:34,550 --> 00:10:37,094
+E due anni
+dopo il rilascio di Bitcoin,
+
+198
+02:09:37,136 --> 00:10:39,013
+Satoshi scompare completamente.
+
+199
+02:10:39,055 --> 00:10:42,266
+Nessun post sui forum,
+nessuna email,
+
+200
+02:11:42,308 --> 00:10:44,644
+nessuna transazione
+sulla Blockchain.
+
+201
+02:12:44,685 --> 00:10:47,980
+Nessuna impronta digitale. Sparito.
+
+202
+02:13:48,022 --> 00:10:51,233
+[Bill C] Satoshi Nakamoto
+possiede miliardi di dollari.
+
+203
+02:14:51,275 --> 00:10:54,362
+Una delle persone
+più ricche del mondo.
+
+204
+02:15:54,403 --> 00:10:58,324
+Non toccare quella ricchezza,
+
+205
+02:16:58,366 --> 00:11:01,577
+non spostarla,
+non comprare nulla,
+
+206
+02:17:01,619 --> 00:11:05,414
+non far sapere al mondo
+cosa Satoshi avesse creato.
+
+207
+02:18:06,040 --> 00:11:07,792
+Non è nella natura umana.
+
+208
+02:19:07,833 --> 00:11:09,794
+Penso che l'incertezza
+sulle origini
+
+209
+02:20:09,835 --> 00:11:11,420
+abbia certamente aiutato a creare
+
+210
+02:21:11,462 --> 00:11:14,548
+una reverenza quasi religiosa.
+
+211
+02:22:14,590 --> 00:11:17,176
+Una convinzione quasi settaria.
+
+212
+02:22:17,218 --> 00:11:22,306
+C'è un percorso chiaro
+e ben tracciato nelle religioni
+
+213
+02:23:22,348 --> 00:11:27,061
+dove l'idea di una figura fondatrice,
+quasi divina,
+
+214
+02:24:27,103 --> 00:11:31,273
+che non esiste più, in realtà
+rafforza la religione stessa.
+
+215
+02:25:31,315 --> 00:11:33,734
+Siamo tutti Satoshi.
+
+216
+02:26:33,776 --> 00:11:35,736
+[applausi]
+
+217
+02:27:35,778 --> 00:11:37,488
+[Michael] Bitcoin è la prima
+
+218
+02:28:37,530 --> 00:11:40,908
+proprietà comune
+della razza umana
+
+219
+02:29:37,530 --> 00:11:44,245
+che circola
+nel cyberspazio.
+
+220
+02:30:44,286 --> 00:11:47,665
+E quindi paragono Satoshi
+a Prometeo.
+
+221
+02:31:47,707 --> 00:11:49,625
+È come donare il fuoco al mondo.
+
+222
+02:32:49,667 --> 00:11:52,294
+Satoshi è questa sorta di
+perfetta figura messianica:
+
+223
+02:33:52,336 --> 00:11:53,754
+è arrivato, ha costruito un sistema
+che funzionava
+
+224
+02:34:53,796 --> 00:11:55,089
+meglio di quanto chiunque si aspettasse,
+
+225
+02:35:55,131 --> 00:11:56,924
+e poi è
+scomparso misteriosamente.
+
+226
+02:36:56,966 --> 00:11:59,844
+Se si sapesse
+chi è stato davvero il fondatore,
+
+227
+02:37:59,885 --> 00:12:02,012
+questo renderebbe
+Bitcoin centralizzato.
+
+228
+02:38:02,054 --> 00:12:04,098
+E tutti direbbero:
+"Oh, cosa dice il fondatore?
+
+229
+02:39:04,140 --> 00:12:05,641
+Cosa dice Satoshi?".
+
+230
+02:40:05,683 --> 00:12:09,645
+[intervistatore]
+
+231
+02:41:10,688 --> 00:12:12,356
+Non necessariamente.
+
+232
+02:42:12,398 --> 00:12:14,525
+Ma penso che ci sia
+un piccolo rischio.
+
+233
+02:43:14,567 --> 00:12:18,904
+Voglio dire, ecco,
+come nel Mago di Oz,
+
+234
+02:44:18,946 --> 00:12:20,614
+quando disse:
+"Non guardate dietro la tenda".
+
+235
+02:45:20,656 --> 00:12:22,324
+Era molto sospetto.
+
+236
+02:46:22,366 --> 00:12:24,034
+Quando videro l'uomo
+dietro la tenda,
+
+237
+02:47:24,076 --> 00:12:25,703
+iniziarono a pensare:
+
+238
+02:48:25,745 --> 00:12:27,788
+"Uhm, sembra proprio
+un normale essere umano".
+
+239
+02:49:27,830 --> 00:12:29,957
+Chi sei tu?
+
+240
+02:50:29,999 --> 00:12:31,709
+[Troy]
+Molti degli altri tentativi
+
+241
+02:51:31,751 --> 00:12:33,794
+di identificare Satoshi
+
+242
+0:52:33,836 --> 00:12:35,296
+erano basati in gran parte
+
+243
+0:53:35,337 --> 00:12:37,882
+su prove indiziarie
+o su supposizioni.
+
+244
+0:12:37,923 --> 00:12:43,095
+Quindi la mentalità deve essere:
+quali sono i depistaggi?
+
+245
+0:12:43,137 --> 00:12:44,680
+Quali sono gli imprevisti?
+In altre parole,
+
+246
+0:12:44,722 --> 00:12:47,016
+quali sono le piste là fuori
+che sono false?
+
+247
+0:12:47,057 --> 00:12:50,144
+E poi come faccio a trovare nuovi modi
+per trovare quell'informazione
+
+248
+0:12:50,186 --> 00:12:51,937
+a cui altri non hanno pensato?
+
+249
+0:12:51,979 --> 00:12:54,356
+E la risposta più chiara
+che abbiamo trovato
+
+250
+0:12:54,398 --> 00:12:56,108
+è che la Blockchain,
+
+251
+0:12:56,150 --> 00:12:58,152
+che è questo database pubblico
+
+252
+0:12:58,194 --> 00:13:00,821
+di tutti i Bitcoin mai minati
+e scambiati,
+
+253
+0:13:00,863 --> 00:13:04,658
+su quella Blockchain
+ci sono 1,1 milioni di Bitcoin
+
+254
+0:13:04,700 --> 00:13:09,079
+che sono stati minati, controllati
+e posseduti da Satoshi Nakamoto.
+
+255
+0:13:09,121 --> 00:13:11,165
+Ma nessuno di questi
+è mai stato spostato.
+
+256
+0:13:11,207 --> 00:13:15,836
+Quindi abbiamo pensato che
+il modo migliore per risolvere questo caso
+
+257
+0:13:15,878 --> 00:13:20,341
+fosse convincere Satoshi
+a spostare un coin.
+
+258
+0:13:20,382 --> 00:13:22,718
+L'unica persona che potrebbe spostare
+
+259
+0:13:22,760 --> 00:13:25,596
+uno qualsiasi dei coin di Satoshi
+è qualcuno che ha accesso
+
+260
+0:13:25,638 --> 00:13:28,474
+alla sua Private key, che è una password.
+
+261
+0:13:28,516 --> 00:13:32,686
+È un numero a 256 bit,
+quasi impossibile da hackerare.
+
+262
+0:13:32,728 --> 00:13:34,438
+Sembra un'asticella molto alta...
+
+263
+0:13:34,480 --> 00:13:37,566
+Un'asticella alta, ma voglio dire,
+da un punto di vista forense,
+
+264
+0:13:37,608 --> 00:13:39,318
+-ecco, empirico...
+-[Bill C] Sì.
+Beh, certamente.
+
+265
+0:13:39,360 --> 00:13:40,945
+...sembra che
+sarebbe difficile discutere
+
+266
+0:13:40,986 --> 00:13:42,279
+un'evidenza del genere.
+
+267
+0:13:42,321 --> 00:13:43,739
+Ora, prima di tutto,
+dobbiamo trovare Satoshi.
+
+268
+0:13:45,991 --> 00:13:47,493
+Abbiamo esaminato
+
+269
+0:13:47,535 --> 00:13:49,787
+i precedenti tentativi
+di identificare Satoshi,
+
+270
+0:13:49,829 --> 00:13:52,373
+e tonnellate di giornalisti
+ci hanno lavorato.
+
+271
+0:13:52,414 --> 00:13:54,416
+The New Yorker, Wired,
+
+272
+0:13:54,458 --> 00:13:56,502
+The New York Times,
+The Wall Street Journal.
+
+273
+0:13:56,544 --> 00:13:57,837
+E le persone
+hanno tirato fuori alcuni
+
+274
+0:13:57,878 --> 00:13:59,380
+candidati davvero interessanti.
+
+275
+0:13:59,421 --> 00:14:01,215
+E alcuni di loro, sai,
+
+276
+0:14:01,257 --> 00:14:04,552
+possono essere scartati
+abbastanza facilmente.
+
+277
+0:14:04,593 --> 00:14:06,595
+Lo scrittore Neal Stephenson,
+
+278
+0:14:06,637 --> 00:14:09,348
+il matematico John Nash.
+
+279
+0:14:09,390 --> 00:14:13,435
+Ci sono alcuni personaggi bizzarri
+là fuori
+
+280
+0:14:13,477 --> 00:14:15,729
+che affermano di essere Satoshi.
+
+281
+0:14:15,771 --> 00:14:17,523
+Craig Wright, per esempio,
+
+282
+0:14:17,565 --> 0:14:20,109
+sostiene da anni
+di essere Satoshi,
+
+283
+0:14:20,150 --> 00:14:23,237
+ha intentato cause legali per cercare
+di ufficializzarlo.
+
+284
+0:14:23,279 --> 00:14:25,197
+Chi ha inventato Bitcoin?
+
+285
+0:14:25,239 --> 00:14:27,449
+Non questo tizio.
+
+286
+0:14:27,491 --> 00:14:32,872
+L'evidenza era schiacciante.
+
+287
+0:14:29,785 --> 00:14:32,872
+Quindi chi c'è dietro lo pseudonimo
+di Satoshi Nakamoto?
+
+288
+0:14:32,913 --> 00:14:38,043
+Altri hanno suggerito
+che Elon Musk o Steve Jobs
+
+289
+0:14:38,085 --> 00:14:40,170
+potrebbero essere Satoshi.
+
+290
+0:14:40,212 --> 00:14:43,215
+Steve Jobs non ha cercato
+di creare Apple.
+
+291
+0:14:43,257 --> 00:14:45,050
+Stava cercando di creare
+questa piccola società
+
+292
+0:14:45,092 --> 00:14:47,428
+che facesse computer
+come hobby.
+
+293
+0:14:47,469 --> 00:14:49,013
+Mark Zuckerberg voleva
+rimorchiare.
+
+294
+0:14:49,054 --> 00:14:51,724
+Jack Dorsey stava
+per licenziarsi
+
+295
+0:14:51,765 --> 00:14:53,934
+e andare a lavorare come commesso di scarpe.
+
+296
+0:14:53,976 --> 00:14:57,313
+Questi non erano geni,
+hanno avuto una fortuna sfacciata.
+
+297
+0:14:57,354 --> 00:14:59,106
+E sono figure pubbliche,
+
+298
+0:14:59,148 --> 00:15:03,068
+e Satoshi non è
+una figura pubblica.
+
+299
+0:15:03,110 --> 00:15:06,405
+Chiunque sia questa persona,
+è l'opposto di Elon Musk.
+
+300
+0:15:06,906 --> 00:15:10,200
+Elon Musk è un cacciatore di notorietà.
+
+301
+0:15:10,242 --> 00:15:12,536
+E chiunque sia Nakamoto,
+
+302
+0:15:12,578 --> 00:15:15,414
+è ovviamente fatto
+in modo molto diverso.
+
+303
+0:15:15,456 --> 00:15:17,249
+Ma ci sono un certo numero
+di candidati
+
+304
+0:15:17,291 --> 00:15:19,501
+che i giornalisti
+e altri hanno proposto
+
+305
+0:15:19,543 --> 00:15:22,129
+con delle prove reali e sostanziali a supporto.
+
+306
+0:15:22,171 --> 00:15:23,797
+Dovevano essere esperti
+di economia,
+
+307
+0:15:23,839 --> 00:15:25,424
+esperti di valute,
+
+308
+0:15:25,466 --> 00:15:28,093
+esperti di programmazione, esperti di crittografia.
+
+309
+0:15:28,135 --> 00:15:30,721
+Quindi, Bill, volevamo esporti
+quei candidati
+
+310
+0:15:30,763 --> 00:15:33,015
+e spiegarti
+ciò che già sappiamo su di loro.
+
+311
+0:15:33,057 --> 00:15:36,852
+Il primo,
+il suo nome è Adam Back.
+
+312
+0:15:39,939 --> 0:15:41,774
+[Adam] Ho passato gran parte della mia carriera
+
+313
+0:15:41,815 --> 00:15:43,901
+occupandomi di crittografia
+per la sicurezza in internet.
+
+314
+0:15:43,943 --> 00:15:46,153
+[Tyler] Back è un crittografo.
+
+315
+0:15:46,195 --> 00:15:48,197
+Ha creato
+quello che viene chiamato Hashcash.
+
+316
+0:15:48,238 --> 00:15:49,698
+Una tecnologia primitiva che è diventata
+
+317
+0:14:49,740 --> 00:15:51,992
+uno degli elementi fondamentali
+di Bitcoin.
+
+318
+0:15:52,034 --> 00:15:55,204
+Adam e Satoshi
+si sono scambiati email
+
+319
+0:15:55,245 --> 00:15:57,247
+prima che Bitcoin venisse rilasciato.
+
+320
+0:15:57,289 --> 00:16:01,877
+In effetti, è stato menzionato
+esplicitamente da Satoshi, per nome,
+
+321
+0:16:01,919 --> 00:16:05,005
+non solo nel white paper
+ma anche nelle note finali.
+
+322
+0:16:05,047 --> 00:16:06,840
+[Bill C] Quindi è in contatto
+diretto via email con lui?
+
+323
+0:16:06,882 --> 00:16:08,717
+[Tyler] Sì.
+Stava parlando con Satoshi
+
+324
+0:16:08,759 --> 00:16:10,552
+prima che Bitcoin venisse rilasciato.
+
+325
+0:16:12,763 --> 00:16:15,849
+Questo è Nick Szabo.
+
+326
+0:16:15,891 --> 00:16:18,102
+[Nick] Oggi parlerò
+di alcuni dei sogni
+
+327
+0:16:18,143 --> 00:16:21,146
+e delle idee che credo
+abbiano influenzato Bitcoin.
+
+328
+0:16:21,188 --> 00:16:22,940
+[Alexis] Il suo vanto
+è quello di aver sviluppato
+
+329
+0:16:22,982 --> 00:16:24,441
+un precursore di Bitcoin,
+
+330
+0:16:24,483 --> 00:16:26,652
+che ha chiamato Bit Gold.
+
+331
+0:16:26,694 --> 00:16:40,656
+Ha sviluppato originariamente Bit Gold
+alla fine degli anni '90.
+
+332
+0:16:30,698 --> 00:16:33,367
+[Tyler] Era una di quelle persone che stavano costruendo
+
+333
+0:16:33,409 --> 00:16:36,078
+e pensando
+a sistemi di contante digitale
+
+334
+0:16:36,120 --> 00:16:38,247
+più di un decennio
+prima che apparisse Bitcoin.
+
+335
+0:16:39,915 --> 00:16:43,168
+Hal Finney è
+una delle prime persone
+
+336
+0:16:43,210 --> 00:16:47,339
+a rispondere alla pubblicazione
+del white paper da parte di Satoshi.
+
+337
+0:16:47,381 --> 00:16:50,426
+Hal è anche il primo destinatario
+
+338
+0:16:50,467 --> 00:16:53,554
+di una transazione
+di un coin da parte di Satoshi.
+
+339
+0:16:53,595 --> 00:16:55,889
+Okay.
+Il mio nome è Hal Finney.
+
+340
+0:16:55,931 --> 00:16:57,850
+Per quelli di voi
+che non mi riconoscono,
+
+341
+0:16:57,891 --> 00:16:59,893
+è perché
+sono un dipendente da remoto.
+
+342
+0:16:59,935 --> 00:17:01,729
+E infatti, questa è
+la prima volta che partecipo
+
+343
+0:17:01,770 --> 00:17:03,605
+a una di queste presentazioni,
+
+344
+0:17:03,647 --> 00:17:05,691
+deve essere proprio quella che tengo io.
+
+345
+0:17:05,733 --> 00:17:08,360
+Hal aveva una lunga storia di programmazione
+come ingegnere.
+
+346
+0:17:08,402 --> 00:17:11,238
+E ha creato
+quello che viene chiamato RPOW,
+
+347
+0:17:11,280 --> 00:17:14,533
+che è un altro precursore
+di Bitcoin.
+
+348
+0:17:14,575 --> 00:17:16,702
+Hal sembra avere
+più esperienza
+
+349
+0:17:16,744 --> 00:17:18,495
+e interesse
+nei sistemi di pagamento digitali
+
+350
+0:17:18,537 --> 00:17:20,247
+e nel contante elettronico
+rispetto a quasi chiunque altro.
+
+351
+0:17:20,289 --> 00:17:23,167
+Abbiamo trovato articoli di Hal
+scritti 15, 20 anni fa
+
+352
+0:17:23,208 --> 00:17:26,670
+su questi argomenti, quindi ha
+questo incredibile fascino
+
+353
+0:17:26,712 --> 00:17:28,213
+per il denaro digitale.
+
+354
+0:17:29,465 --> 00:17:32,009
+Il prossimo è Len Sassaman.
+
+355
+0:17:32,051 --> 00:17:35,304
+Sono Len Sassaman,
+noto anche come "Rabbi".
+
+356
+0:17:35,345 --> 00:17:37,222
+[Tyler] Len era un accademico.
+
+357
+0:17:37,264 --> 00:17:40,392
+È americano,
+e il suo consulente accademico
+
+358
+0:17:40,434 --> 00:17:42,394
+era un uomo di nome David Chaum,
+
+359
+0:17:42,436 --> 00:17:45,397
+che aveva creato ancora una volta
+un altro precursore di Bitcoin,
+
+360
+0:17:45,439 --> 00:17:47,316
+chiamato DigiCash.
+
+361
+0:17:47,357 --> 00:17:49,359
+Lo dico
+perché colloca Len
+
+362
+0:17:49,401 --> 00:17:52,154
+in quel tipo di mondo di pensatori,
+
+363
+0:17:52,196 --> 00:17:54,823
+crittografi, matematici,
+informatici,
+
+364
+0:17:54,865 --> 00:17:59,119
+che si concentrano sul contante digitale
+e sui sistemi di pagamento elettronici.
+
+365
+0:18:00,454 --> 00:18:02,706
+Il prossimo è un uomo di nome Paul Le Roux
+
+366
+0:18:02,748 --> 00:18:04,875
+che ora è in prigione per omicidio,
+
+367
+0:18:04,917 --> 00:18:06,877
+traffico di armi,
+
+368
+0:18:06,919 --> 00:18:08,462
+riciclaggio di denaro e altro.
+
+369
+0:18:08,504 --> 00:18:12,257
+Tutto è dolce,
+tutto è dolce.
+
+370
+0:18:12,299 --> 00:18:14,009
+[Tyler] Paul Le Roux
+era un programmatore
+
+371
+0:18:14,051 --> 00:18:15,803
+che ha creato
+un programma di crittografia
+
+372
+0:18:15,844 --> 00:18:17,554
+che non credo le forze
+dell'ordine
+
+373
+0:18:17,596 --> 00:18:19,598
+siano ancora riuscite a decifrare.
+
+374
+0:18:19,640 --> 00:18:21,725
+E, naturalmente,
+aveva un reale bisogno
+
+375
+0:18:21,767 --> 00:18:24,561
+e desiderio di anonimato.
+
+376
+0:18:24,603 --> 00:18:28,565
+Da bambino, creava
+tutti questi personaggi,
+
+377
+0:18:28,607 --> 00:18:30,526
+reinventando costantemente se stesso.
+
+378
+0:18:30,567 --> 00:18:32,236
+Lo ha fatto da adulto
+
+379
+0:18:32,277 --> 00:18:35,197
+quando è diventato un vero
+boss del crimine, un genio del male.
+
+380
+0:18:35,239 --> 00:18:37,324
+Aveva il soprannome
+"The Fat Man".
+
+381
+0:18:37,366 --> 00:18:39,159
+E curiosamente,
+
+382
+0:18:39,201 --> 00:18:41,787
+aveva un certo numero di altri
+passaporti, tipo identità false.
+
+383
+0:18:41,829 --> 00:18:44,414
+E uno di questi
+era a nome Solotshi.
+
+384
+0:18:44,456 --> 00:18:47,376
+Che suona a molte persone
+come Satoshi.
+
+385
+0:18:47,417 --> 00:18:49,419
+Non vedo
+molte prove ancora,
+
+386
+0:18:49,461 --> 00:18:52,005
+ma giornalisti seri hanno sostenuto
+
+387
+0:18:52,047 --> 00:18:53,549
+che Paul Le Roux sia
+
+388
+0:18:53,590 --> 00:18:55,759
+un candidato legittimo
+per Satoshi.
+
+389
+0:18:55,801 --> 00:18:57,553
+Sebbene l'ultimo candidato
+che abbiamo
+
+390
+0:18:57,594 --> 00:19:00,139
+sia un uomo di nome Wei Dai.
+
+391
+0:19:00,180 --> 00:19:02,182
+E non abbiamo una fotografia
+
+392
+0:19:02,224 --> 00:19:04,143
+di Wei Dai
+che sappiamo essere lui.
+
+393
+0:19:04,184 --> 00:19:06,603
+Infatti, non è chiaro
+che aspetto abbia realmente.
+
+394
+0:19:06,645 --> 00:19:09,815
+Ci sono alcune presunte foto
+di Wei Dai su internet,
+
+395
+0:19:09,857 --> 00:19:12,359
+ma nessuna di queste
+è stata confermata.
+
+396
+0:19:12,401 --> 00:19:14,611
+È molto misterioso perché è discreto.
+
+397
+0:14:14,653 --> 00:19:16,864
+Dice pochissimo pubblicamente.
+
+398
+0:19:16,905 --> 00:19:20,117
+E ha creato
+quello che è noto come "B-Money",
+
+399
+0:19:20,159 --> 00:19:22,744
+che è un precursore di Bitcoin.
+
+400
+0:19:22,786 --> 00:19:26,290
+Proprio come Adam Back,
+Wei Dai è menzionato
+
+401
+0:19:26,331 --> 00:19:30,294
+nella primissima nota finale
+del white paper di Bitcoin.
+
+402
+0:19:31,128 --> 00:19:33,463
+Quindi quando ti avventuri per la prima volta
+su internet
+
+403
+0:19:33,505 --> 00:19:37,259
+per vedere cosa hanno fatto altri
+per cercare di identificare Satoshi,
+
+404
+0:19:37,301 --> 00:19:38,927
+ci sono delle teorie assurde là fuori.
+
+405
+0:19:38,969 --> 00:19:42,806
+Nel 2009,
+Satoshi disse che le sue iniziali, NS,
+
+406
+0:19:42,848 --> 00:19:45,601
+erano all'inizio
+del suo indirizzo Bitcoin.
+
+407
+0:19:45,642 --> 00:19:48,812
+Alcuni pensarono che questo significasse
+che Satoshi fosse Nick Szabo.
+
+408
+0:19:48,854 --> 00:19:51,148
+Ma in giapponese,
+le iniziali "NS"
+
+409
+0:19:51,190 --> 00:19:53,483
+sarebbero considerate
+l'ordine corretto per Satoshi.
+
+410
+0:19:53,525 --> 00:19:56,820
+Un altro esempio è
+di quando qualcuno ha twittato
+
+411
+0:19:56,862 --> 00:19:59,198
+che usando un mix
+di caratteri giapponesi,
+
+412
+0:19:59,239 --> 00:20:01,325
+Satoshi Nakamoto
+sembra comporre il nome
+
+413
+0:20:01,366 --> 00:20:02,951
+"Hal Finney".
+
+414
+0:20:05,621 --> 00:20:08,040
+E lo stesso Elon Musk
+una volta ha twittato
+
+415
+0:20:08,081 --> 00:20:11,210
+un acronimo di aziende giapponesi
+
+416
+0:20:11,251 --> 00:20:16,298
+che sembrava comporre
+il nome di Satoshi Nakamoto.
+
+417
+0:20:16,340 --> 00:20:18,884
+Ma non c'è prova che
+
+418
+0:18:18,926 --> 00:20:21,345
+sia qualcosa di più
+di affascinante e divertente.
+
+419
+0:20:21,386 --> 00:20:24,514
+Stiamo approcciando questo caso
+come facciamo con tutti i casi.
+
+420
+0:20:24,556 --> 00:20:27,392
+Abbiamo prove empiriche
+e testimonianze di esperti.
+
+421
+0:20:27,434 --> 00:20:29,645
+Anche se hai parlato
+con molte fonti fantastiche,
+
+422
+0:20:29,686 --> 00:20:31,021
+cercheremo di parlare con persone
+
+423
+0:20:31,063 --> 00:20:32,522
+con cui non hai ancora parlato.
+
+424
+0:20:32,564 --> 00:20:34,566
+E quindi, matematici,
+
+425
+0:20:34,608 --> 00:20:37,236
+informatici,
+crittografi.
+
+426
+0:20:37,277 --> 00:20:39,154
+Ottimo. Mettiamoci al lavoro.
+
+427
+0:20:39,196 --> 00:20:40,155
+Okay.
+
+428
+0:20:41,657 --> 00:20:43,617
+Dunque, ecco tutte
+le informazioni che abbiamo raccolto
+
+429
+0:20:43,659 --> 00:20:46,036
+e che sappiamo essere vere
+su Satoshi.
+
+430
+0:20:46,078 --> 00:20:48,789
+Nell'agosto 2008,
+
+431
+0:20:48,830 --> 00:20:52,000
+venne creato
+il sito Bitcoin.org.
+
+432
+0:20:52,042 --> 00:20:53,877
+Voglio dire,
+venne registrato anonimamente
+
+433
+0:20:53,919 --> 00:20:56,255
+tramite una società chiamata
+Anonymous Speech LLC,
+
+434
+0:20:56,296 --> 00:20:58,215
+aveva un indirizzo in Giappone.
+
+435
+0:20:58,257 --> 00:21:01,343
+[Tyler]
+E poi ad Halloween 2008,
+
+436
+0:21:01,385 --> 00:21:03,679
+il white paper fu pubblicato
+su quella che è chiamata
+
+437
+0:21:03,720 --> 0:21:06,098
+la Mailing List di Metzdowd.
+
+438
+0:21:07,182 --> 00:21:11,770
+Satoshi pubblicò questo white paper
+su una mailing list molto oscura
+
+439
+0:21:11,812 --> 00:21:14,773
+che era pensata
+solo per informatici
+
+440
+0:21:14,815 --> 00:21:17,109
+che hanno a cuore la privacy
+e la sicurezza.
+
+441
+0:21:17,150 --> 00:21:20,279
+[David] Dunque questi sono tutti
+i messaggi di Metzdowd
+
+442
+0:21:20,320 --> 00:21:23,448
+più o meno dal 2001 al 2016,
+
+443
+0:21:23,490 --> 00:21:26,034
+caricati
+in una piattaforma di revisione.
+
+444
+0:21:26,660 --> 00:21:28,996
+Si può fare una ricerca per Satoshi
+
+445
+0:21:29,037 --> 00:21:32,624
+e vedere quando è comparsa
+la prima volta la parola Satoshi.
+
+446
+0:21:32,666 --> 00:21:34,918
+[Tyler] Molte persone originariamente
+credevano che Satoshi fosse
+
+447
+0:21:34,960 --> 00:21:36,962
+un giovane maschio giapponese.
+
+448
+0:21:37,004 --> 00:21:39,256
+Ci sono post che sono
+attribuiti a Satoshi
+
+449
+0:21:39,298 --> 00:21:41,508
+sul sito della P2P Foundation.
+
+450
+0:21:41,550 --> 00:21:43,093
+Il suo profilo afferma che
+
+451
+0:21:43,135 --> 00:21:45,971
+sia un maschio giapponese
+di 37 anni.
+
+452
+0:21:46,013 --> 00:21:47,764
+Nessuno
+lo prende sul serio,
+
+453
+0:21:47,806 --> 00:21:51,226
+ma è l'inizio
+dello pseudonimo.
+
+454
+0:21:51,268 --> 00:21:54,813
+[Jon] Un punto a sfavore dell'ipotesi che Satoshi
+sia effettivamente giapponese
+
+455
+0:21:54,855 --> 00:21:57,733
+è che non ci sono
+quegli errori linguistici
+
+456
+0:21:57,774 --> 00:22:01,695
+che sono comuni
+per una persona giapponese.
+
+457
+0:22:01,737 --> 00:22:03,697
+Man mano che andavamo avanti
+con l'indagine,
+
+458
+0:22:03,739 --> 00:22:06,700
+uno dei nostri posti preferiti
+in cui cercare è stato
+
+459
+0:22:06,742 --> 00:22:10,370
+il white paper di Bitcoin stesso
+perché è pieno di indizi.
+
+460
+0:22:10,412 --> 00:22:15,167
+Per esempio, Satoshi scrive prevalentemente
+in inglese americano.
+
+461
+0:22:15,208 --> 00:22:17,711
+Ma c'è una parola, "favour",
+
+462
+0:22:17,753 --> 00:22:20,005
+che scrive
+usando l'ortografia britannica.
+
+463
+0:22:20,047 --> 00:22:22,424
+464
+00:22:22,466 --> 00:22:24,134
+Una delle cose
+che faremo è analizzare
+
+465
+0:22:24,176 --> 00:22:27,095
+se qualcuno dei nostri candidati
+usasse frasi britanniche
+
+466
+0:22:27,137 --> 00:22:29,639
+o ortografie britanniche
+di parole inglesi
+
+467
+0:22:29,681 --> 00:22:31,600
+nei loro altri scritti.
+
+468
+0:22:31,641 --> 00:22:35,437
+Andando avanti fino al 3 gennaio,
+il codice venne rilasciato.
+
+469
+0:22:35,479 --> 00:22:37,356
+Dunque Bird, iniziamo
+l'analisi dei testi.
+
+470
+0:22:37,397 --> 00:22:41,234
+Non solo i testi in lingua inglese, ma anche il codice, C++.
+
+471
+0:22:41,276 --> 00:22:43,278
+Il 12 dicembre 2010,
+
+472
+0:22:43,320 --> 00:22:45,280
+Satoshi pubblicò quello che è
+considerato
+
+473
+0:22:45,322 --> 00:22:47,074
+il suo ultimo messaggio pubblico,
+
+474
+0:22:47,115 --> 00:22:50,118
+in cui diceva che
+c'era dell'altro lavoro da fare.
+
+475
+0:22:50,160 --> 00:22:52,204
+Ora, questo è rilevante perché
+
+476
+0:22:52,245 --> 00:22:55,207
+è essenzialmente scomparso
+dopo questo,
+
+477
+0:22:55,248 --> 00:22:58,001
+meno di due anni
+dopo averlo creato.
+
+478
+0:23:01,630 --> 00:23:05,550
+[Luke] Dunque, sappiamo che
+il codice di Bitcoin è in C++.
+
+479
+0:23:05,592 --> 00:23:08,595
+Quindi, abbiamo trovato l'inventore
+
+480
+0:23:08,637 --> 00:23:10,514
+-di quel linguaggio informatico.
+-Incredibile.
+
+481
+0:23:10,555 --> 00:23:12,557
+[Luke]
+Il suo nome è Bjarne Stroustrup.
+
+482
+0:23:12,599 --> 00:23:15,102
+[musica dolce in sottofondo]
+
+483
+0:23:22,025 --> 00:23:23,276
+[membro della troupe]
+Sì, il nostro audio è a posto.
+
+484
+0:23:23,318 --> 00:23:24,444
+Lo è? Okay.
+
+485
+0:23:26,196 --> 00:23:29,032
+Alcune delle persone
+che abbiamo identificato
+
+486
+0:23:29,074 --> 00:23:31,410
+come possibili candidati
+per Satoshi,
+
+487
+0:23:31,451 --> 00:23:36,665
+sui loro curricula dichiarano di essere
+programmatori in C ma non in C++.
+
+488
+0:23:59,062 --> 00:24:01,565
+È corretto dire
+che se qualcuno
+
+489
+0:24:01,606 --> 00:24:04,568
+è competente in C ma non--
+
+490
+0:24:04,609 --> 00:24:06,820
+non è competente in C++,
+
+491
+0:24:06,862 --> 00:24:11,032
+allora quella persona
+non avrebbe potuto programmare Bitcoin?
+
+492
+0:24:18,248 --> 00:24:21,626
+[musica dolce in sottofondo]
+
+493
+0:24:21,668 --> 00:24:24,713
+[Tyler] La cosa più importante
+che ci ha detto Bjarne
+
+494
+0:24:24,754 --> 00:24:27,632
+è stata che la persona
+che ha programmato Bitcoin
+
+495
+0:24:27,674 --> 00:24:29,342
+era molto brava a programmare,
+
+496
+0:24:29,384 --> 00:24:32,262
+ma non ai massimi livelli
+del C++.
+
+497
+0:24:32,304 --> 00:24:34,723
+È stato molto utile saperlo
+perché suggeriva
+
+498
+0:24:34,764 --> 00:24:37,434
+che non si trattasse di qualcuno che ha programmato
+in C++
+
+499
+0:24:37,476 --> 00:24:39,227
+per tutta la sua carriera.
+
+500
+0:24:39,269 --> 00:24:41,062
+[intervistatore]
+
+501
+00:24:42,939 --> 00:24:46,067
+Beh, sono sicuro che molte aziende di software 
+
+502
+00:24:46,109 --> 00:24:48,987
+gli offrirebbero un lavoro. Uh... 
+
+503
+00:24:49,029 --> 00:24:51,156
+sai, è ovviamente 
+
+504
+00:24:51,198 --> 00:24:53,325
+un ingegnere del software
+molto capace. 
+
+505
+00:24:53,366 --> 00:24:55,702
+[Tyler] Wei Dai è
+molto conosciuto 
+
+506
+00:24:55,744 --> 00:24:57,496
+come programmatore C++, 
+
+507
+00:24:57,537 --> 00:25:00,624
+così come Paul Le Roux
+e Adam Back. 
+
+508
+00:25:00,665 --> 00:25:05,420
+Nick Szabo e Len Sassaman
+non erano noti per scrivere in C++. 
+
+509
+00:25:05,462 --> 00:25:07,047
+Hal, per quanto siamo stati in grado
+di determinare, 
+
+510
+00:25:07,088 --> 00:25:09,508
+non era un autore C++. 
+
+511
+00:25:09,549 --> 00:25:11,176
+Ma è sembrato
+un buon primo passo 
+
+512
+00:25:11,218 --> 00:25:12,385
+ottenere la sua conferma 
+
+513
+00:25:12,427 --> 00:25:15,972
+riguardo alle competenze in C++. 
+
+514
+00:25:16,014 --> 00:25:18,642
+L'altra cosa su cui abbiamo
+scavato a fondo 
+
+515
+00:25:18,683 --> 00:25:21,186
+è la Mailing List di Metzdowd. 
+
+516
+00:25:21,228 --> 00:25:23,522
+Ricordate, è qui che
+il white paper è stato pubblicato per la prima volta. 
+
+517
+00:25:23,563 --> 00:25:26,691
+Voglio dire, c'è qualcosa
+che ti salta all'occhio 
+
+518
+00:25:26,733 --> 00:25:28,235
+già a questo punto? 
+
+519
+00:25:28,276 --> 00:25:29,694
+Una cosa
+piuttosto interessante 
+
+520
+00:25:29,736 --> 00:25:31,238
+è che diversi
+candidati 
+
+521
+00:25:31,279 --> 00:25:33,281
+che abbiamo discusso la scorsa volta
+erano molto attivi 
+
+522
+00:25:33,323 --> 00:25:35,325
+in un gruppo chiamato
+i Cypherpunk. 
+
+523
+00:25:36,409 --> 00:25:37,744
+[Tyler] Erano un gruppo affascinante, 
+
+524
+00:25:37,786 --> 00:25:40,288
+eclettico, negli anni '90, 
+
+525
+00:25:40,330 --> 00:25:41,957
+composto da programmatori, 
+
+526
+00:25:41,998 --> 00:25:43,750
+che avevano una sorta di 
+
+527
+00:25:43,792 --> 00:25:47,295
+filosofia di stampo libertario, giusto? 
+
+528
+00:25:47,337 --> 00:25:50,090
+L'idea che possiamo usare il codice, 
+
+529
+00:25:50,131 --> 00:25:52,676
+possiamo usare il software
+per liberarci 
+
+530
+00:25:52,717 --> 00:25:54,427
+dalle catene della società. 
+
+531
+00:25:54,469 --> 00:25:57,264
+E uno degli uomini
+con cui vogliamo davvero parlare 
+
+532
+00:25:57,305 --> 00:25:59,057
+è Phil Zimmermann. 
+
+533
+00:25:59,099 --> 00:26:03,895
+Ha fondato PGP, che ha creato
+la vera crittografia per le email. 
+
+534
+00:26:03,937 --> 00:26:05,772
+Quindi Hal Finney e Len Sassaman 
+
+535
+00:26:05,814 --> 00:26:09,276
+sono due candidati
+che in precedenza hanno lavorato 
+
+536
+00:26:09,317 --> 00:26:11,570
+per PGP e Philip Zimmermann. 
+
+537
+00:26:11,611 --> 00:26:12,779
+Lui era il loro capo. 
+
+538
+00:26:12,821 --> 00:26:14,614
+Se riusciamo ad arrivare a Zimmermann, 
+
+539
+00:26:14,656 --> 00:26:17,576
+abbiamo due
+potenziali finestre su... 
+
+540
+00:26:17,617 --> 00:26:20,996
+Sui capi di due
+dei nostri principali sospettati. 
+
+541
+00:26:21,037 --> 00:26:22,789
+Phil Zimmermann
+è considerato da molti 
+
+542
+00:26:22,831 --> 00:26:26,084
+una sorta di veterano dei Cypherpunk. 
+
+543
+00:26:26,126 --> 00:26:27,586
+Possiamo arrivare a Zimmermann? 
+
+544
+00:26:27,627 --> 00:26:29,713
+Sì. Zimmermann
+ha il suo sito web. 
+
+545
+00:26:29,754 --> 00:26:31,381
+-Okay. -E gli abbiamo scritto un'email 
+
+546
+00:26:31,423 --> 00:26:32,507
+e speriamo di ricevere risposta presto. 
+
+547
+00:26:35,176 --> 00:26:38,013
+[musica di suspense]
+
+548
+00:24:42,939 --> 00:24:46,067
+[Tyler] Mentre aspettavamo
+che Phil ci rispondesse, 
+
+549
+00:26:43,018 --> 00:26:44,978
+abbiamo deciso di contattare
+persone e gruppi 
+
+550
+00:26:45,020 --> 00:26:47,772
+con cui Satoshi potrebbe
+essere stato associato, 
+
+551
+00:26:47,814 --> 00:26:49,899
+perché per
+trovare Satoshi, 
+
+552
+00:26:49,941 --> 00:26:51,860
+dovevamo capire Satoshi. 
+
+553
+00:26:53,194 --> 00:26:54,654
+Ciò significava conoscere
+la sua politica, 
+
+554
+00:26:54,696 --> 00:26:56,865
+le sue convinzioni, la sua visione del mondo. 
+
+555
+00:26:56,906 --> 00:26:59,159
+Buongiorno. 
+Posso parlare
+con Scott Stornetta, per favore? 
+
+556
+00:26:59,200 --> 00:27:00,744
+Salve, posso parlare
+con David Chaum? 
+
+557
+00:27:00,785 --> 00:27:02,287
+Salve, sono Tyler Maroney. 
+
+558
+00:27:02,329 --> 00:27:04,331
+Sto cercando di contattare
+Cynthia Dwork, per favore. 
+
+559
+00:27:04,372 --> 00:27:07,667
+Poi un giorno, ho ricevuto
+l'email che stavo aspettando. 
+
+560
+00:27:07,709 --> 00:27:10,045
+Ehi, Phil. Sono Tyler Maroney. 
+
+561
+00:30:11,755 --> 00:30:13,757
+Sto bene. Sto bene. Tu come stai? 
+
+562
+00:27:13,798 --> 00:27:15,592
+Okay, fantastico. Beh, ascolta,
+dove ti trovi? 
+
+563
+00:27:15,634 --> 00:27:17,218
+Cioè, dove dovremmo incontrarci? 
+
+564
+00:27:17,260 --> 00:27:18,595
+Perché verrò
+ovunque tu sia. 
+
+565
+00:27:20,347 --> 00:27:22,098
+Forse non dovrei sorprendermi, 
+
+566
+00:27:22,140 --> 00:27:24,392
+ma Phil Zimmermann viveva
+fuori dai sentieri battuti. 
+
+567
+00:27:25,560 --> 00:27:27,479
+E quando ha risposto
+alla mia email, 
+
+568
+00:27:27,520 --> 00:27:30,315
+mi ha chiesto di comunicare
+solo tramite un'app crittografata. 
+
+569
+00:27:41,743 --> 00:27:42,952
+[membro della troupe] In registrazione.
+
+570
+00:27:42,994 --> 00:27:44,996
+-Phil, grazie per essere qui. -Piacere mio. 
+
+571
+00:27:45,038 --> 00:27:46,873
+Mi piacerebbe saperne
+di più sul tuo background. 
+
+572
+00:27:46,915 --> 00:27:49,084
+Ho letto che
+sei stato impegnato 
+
+573
+00:27:49,125 --> 00:27:50,460
+in una sorta di attivismo politico. 
+
+574
+00:27:50,502 --> 00:27:53,004
+Ero politicamente attivo
+negli anni '80, 
+
+575
+00:27:53,046 --> 00:27:54,714
+nel Movimento per la Pace, 
+
+576
+00:27:54,756 --> 00:27:57,258
+nella campagna per il congelamento
+delle armi nucleari. 
+
+577
+00:27:57,300 --> 00:27:58,635
+[manifestanti]
+Cinque, sei, sette, otto, 
+
+578
+00:27:58,677 --> 00:28:00,178
+non vogliamo radiazioni! 
+
+579
+00:28:00,220 --> 00:28:02,389
+[Phil] Quello era il periodo
+della corsa agli armamenti. 
+
+580
+00:28:02,430 --> 00:28:04,015
+Reagan era alla Casa Bianca. 
+
+581
+00:28:04,057 --> 00:28:06,059
+Brežnev era al Cremlino. 
+
+582
+00:28:06,101 --> 00:28:08,853
+Si parlava molto
+di guerra nucleare. 
+
+583
+00:28:08,895 --> 00:28:12,107
+Avevo un lavoro diurno di 40 ore
+a settimana come ingegnere del software, 
+
+584
+00:28:12,148 --> 00:28:15,985
+e poi lavoravo altre
+40 ore a settimana al mio attivismo. 
+
+585
+00:28:16,027 --> 00:28:18,363
+[Jon] E quando dovevano
+organizzare le loro proteste 
+
+586
+00:28:18,405 --> 00:28:20,657
+sui sistemi BBS (Bulletin Board Systems), 
+
+587
+00:28:20,699 --> 00:28:23,243
+volevano essere in grado
+di organizzare le manifestazioni 
+
+588
+00:28:23,284 --> 00:28:26,037
+in modi che le autorità
+non potessero scoprire 
+
+589
+00:28:26,079 --> 00:28:29,124
+dove o quando
+si sarebbero tenute. 
+
+590
+00:28:30,083 --> 00:28:33,712
+Se hai uno di questi,
+e hai uno di questi, 
+
+591
+00:28:33,753 --> 00:28:36,214
+ma non hai uno di questi, 
+
+592
+00:28:36,256 --> 00:28:38,717
+ti perdi metà del divertimento
+di possedere un computer. 
+
+593
+00:28:38,758 --> 00:28:40,176
+Questo è un modem. 
+
+594
+00:28:40,218 --> 00:28:41,761
+E con esso,
+puoi trasformare il tuo computer 
+
+595
+00:28:41,803 --> 00:28:44,013
+in una finestra sul mondo. 
+
+596
+00:28:44,055 --> 00:28:46,683
+[Phil] Con internet, sentivo
+che stava diventando 
+
+597
+00:28:46,725 --> 00:28:48,643
+sempre più facile
+per i governi 
+
+598
+00:28:48,685 --> 00:28:51,855
+intercettare
+e rilevare il dissenso politico. 
+
+599
+00:28:51,896 --> 00:28:54,691
+Quindi serviva un modo
+per ripristinare l'equilibrio 
+
+600
+00:28:54,733 --> 00:28:56,443
+che avevamo prima di tutto questo. 
+
+601
+00:28:56,484 --> 00:28:59,112
+A quel tempo,
+la tecnologia all'avanguardia 
+
+602
+00:28:59,154 --> 00:29:01,030
+per la comunicazione era l'email. 
+
+603
+00:29:01,072 --> 00:29:03,783
+Ma non c'era alcun modo
+per una persona comune 
+
+604
+00:29:03,825 --> 00:29:05,285
+di comunicare in modo sicuro. 
+
+605
+00:29:05,326 --> 00:29:06,745
+I governi potevano farlo. 
+
+606
+00:29:06,786 --> 00:29:08,246
+Le persone comuni no, 
+
+607
+00:29:08,288 --> 00:29:10,749
+il che mi ha portato a creare PGP. 
+
+608
+00:29:10,790 --> 00:29:13,084
+PGP crittografa la tua email, 
+
+609
+00:29:13,126 --> 00:29:15,837
+e ha reso possibile
+per la prima volta 
+
+610
+00:29:15,879 --> 00:29:17,505
+comunicare
+su grandi distanze 
+
+611
+00:29:17,547 --> 00:29:20,216
+senza alcun rischio
+di intercettazione. 
+
+612
+00:29:21,760 --> 00:29:23,762
+Sta per
+"Pretty Good Privacy".
+
+613
+00:29:24,971 --> 00:29:26,973
+Avevo considerato la possibilità
+che il governo 
+
+614
+00:29:27,015 --> 00:29:28,808
+potesse perseguirmi
+per averlo fatto. 
+
+615
+00:29:28,850 --> 00:29:30,727
+E se lo avessero fatto, 
+
+616
+00:29:30,769 --> 00:31:34,063
+volevo che si trovassero
+nella posizione ridicola 
+
+617
+00:29:34,105 --> 00:29:36,691
+di cercare di sopprimere
+un software 
+
+618
+00:29:36,733 --> 00:29:39,319
+chiamato "Privacy Abbastanza Buona". 
+
+619
+00:29:41,112 --> 00:29:43,239
+[Jon] PGP nel 1991 
+
+620
+00:29:43,281 --> 00:29:47,160
+è stato il primo programma 
+
+621
+00:29:47,202 --> 00:29:50,121
+al di fuori del controllo governativo 
+
+622
+00:29:50,163 --> 00:29:52,207
+perché un tizio l'ha semplicemente fatto. 
+
+623
+00:29:52,248 --> 00:29:54,667
+[Phil] Lo abbiamo rilasciato
+gratuitamente su internet. 
+
+624
+00:29:54,709 --> 00:29:56,461
+Nessuno lo aveva mai
+fatto prima. 
+
+625
+00:29:57,796 --> 00:29:59,631
+[Phil] Un giorno, il mio telefono squillò, 
+
+626
+00:29:59,672 --> 00:30:02,342
+ed era la dogana statunitense. 
+
+627
+00:30:02,383 --> 00:30:03,760
+Così ho risposto a qualche domanda. 
+
+628
+00:30:03,802 --> 00:30:05,512
+Pensavo che forse
+si fossero imbattuti in PGP 
+
+629
+00:30:05,553 --> 00:30:07,013
+nelle loro indagini, 
+
+630
+00:30:07,055 --> 00:30:10,016
+e volessero
+capire di cosa si trattasse. 
+
+631
+00:30:10,058 --> 00:30:13,311
+Ma poi lei disse che avrebbe voluto
+venire a intervistarmi. 
+
+632
+00:30:13,937 --> 00:30:16,022
+E ho pensato: "Non sembra proprio 
+
+633
+00:30:16,064 --> 00:30:18,024
+che stiano solo cercando
+un tutorial". 
+
+634
+00:30:20,109 --> 00:30:22,070
+Ritenevano che rilasciarlo
+su internet fosse 
+
+635
+00:30:22,111 --> 00:30:25,073
+equivalente a esportare
+una crittografia forte. 
+
+636
+00:30:25,114 --> 00:30:27,116
+Ora, a quel tempo,
+era illegale 
+
+637
+00:30:27,158 --> 00:28:28,993
+esportare crittografia forte 
+
+638
+00:29:03,825 --> 00:30:31,287
+perché il governo la considerava
+un'arma. 
+
+639
+00:30:31,329 --> 00:30:33,790
+E l'esportazione di armi richiede
+una licenza 
+
+640
+00:30:33,832 --> 00:30:35,542
+dal Dipartimento di Stato. 
+
+641
+00:30:35,583 --> 00:30:38,503
+Quindi se volevi
+esportare missili Stinger, 
+
+642
+00:30:38,545 --> 00:30:40,380
+dovevi ottenere il permesso
+dal Dipartimento di Stato 
+
+643
+00:30:40,421 --> 00:30:41,881
+per farlo. 
+
+644
+00:30:41,923 --> 00:30:44,092
+E la crittografia forte
+era nella stessa categoria 
+
+645
+00:30:44,133 --> 00:30:45,927
+dei missili Stinger. 
+
+646
+00:30:45,969 --> 00:30:48,388
+Le linee guida federali
+sulle condanne 
+
+647
+00:30:48,429 --> 00:30:51,850
+per questa violazione
+dell'Arms Export Control Act 
+
+648
+00:30:51,891 --> 00:30:53,935
+comportavano una pena dai 41 mesi 
+
+649
+00:30:53,977 --> 00:30:56,479
+ai 51 mesi
+in una prigione federale. 
+
+650
+00:30:56,521 --> 00:30:58,648
+E lo hai rilasciato comunque? 
+
+651
+00:30:58,690 --> 00:31:01,818
+Uh, sì. Sapevo
+che era illegale. 
+
+652
+00:31:09,242 --> 00:31:13,621
+Questo è quello che chiamiamo scherzosamente
+le "Guerre Crittografiche". 
+
+653
+00:31:13,663 --> 00:31:15,748
+[Will]
+L'essenza più importante 
+
+654
+00:31:15,790 --> 00:31:19,794
+di ciò che facevamo
+come crittografia forte 
+
+655
+00:31:19,836 --> 00:31:23,381
+potenzialmente
+non sarebbe stata permessa. 
+
+656
+00:31:23,423 --> 00:31:25,758
+E poi abbiamo dimostrato che
+tutto il codice sorgente 
+
+657
+00:31:25,800 --> 00:31:29,095
+che stavano cercando
+di rendere illegale 
+
+658
+00:31:29,137 --> 00:31:31,848
+era qualcosa
+che si poteva semplicemente stampare. 
+
+659
+00:31:33,725 --> 00:31:37,061
+Il regolamento esentava
+specificamente il materiale stampato. 
+
+660
+00:31:37,103 --> 00:31:38,688
+[Will]
+Pubblicarlo come libro, 
+
+661
+00:31:38,730 --> 00:31:41,649
+richiedeva un intero team
+di ingegneri pagati 
+
+662
+00:31:41,691 --> 00:31:44,444
+solo per costruire queste 10.000 pagine 
+
+663
+00:31:44,485 --> 00:31:47,447
+di codice sorgente
+che potevi effettivamente stampare 
+
+664
+00:21:47,488 --> 00:31:50,617
+e poi scansionare e trasformare
+in codice sorgente funzionante 
+
+665
+00:31:50,658 --> 00:31:51,743
+in un altro paese. 
+
+666
+00:31:54,746 --> 00:31:57,040
+[Fin] E il crittografo,
+Adam Back, 
+
+667
+00:31:57,081 --> 00:31:59,584
+sviluppò una fantastica idea
+da tutto questo, 
+
+668
+00:31:59,626 --> 00:32:01,419
+ovvero iniziare a stamparlo
+sulle magliette. 
+
+669
+00:32:01,461 --> 00:32:02,962
+E così potevi indossare
+una maglietta 
+
+670
+00:32:03,004 --> 00:32:06,925
+che era un'arma militare
+ultra-illegale. 
+
+671
+00:32:06,966 --> 00:32:09,510
+In effetti, quello che la gente fece
+non fu solo indossare le magliette, 
+
+672
+00:32:09,552 --> 00:32:11,512
+ma tatuarsi il codice
+sul corpo 
+
+673
+00:32:11,554 --> 00:32:14,432
+e poter dire,
+come nei film di Kung Fu, 
+
+674
+00:32:14,474 --> 00:32:17,185
+che i loro corpi
+erano armi letali. 
+
+675
+00:32:17,226 --> 00:32:20,939
+Questo non serviva solo a condividere il codice, a diffonderlo, 
+
+676
+00:32:20,980 --> 00:32:23,274
+ma anche a dimostrare
+l'assurdità 
+
+677
+0:32:23,316 --> 00:32:26,402
+di cercare di trattarlo come se
+fosse un'arma e non uno strumento. 
+
+678
+00:32:28,112 --> 00:32:31,950
+Come dicevamo spesso all'epoca,
+è solo matematica. 
+
+679
+00:32:33,201 --> 00:32:35,662
+Non si possono mettere fuori legge le moltiplicazioni. 
+
+680
+00:32:37,872 --> 00:32:40,208
+E così,
+hanno finalmente archiviato il caso. 
+
+681
+00:32:40,959 --> 00:32:43,086
+[Will] Così, quando hanno interrotto
+l'indagine, 
+
+682
+00:32:43,127 --> 00:32:45,672
+abbiamo fondato una società
+pochi giorni dopo. 
+
+683
+00:32:45,713 --> 00:32:48,549
+Eravamo tipo: "Aspetta". "Vuoi dire che tutto questo è legale?" 
+
+684
+00:32:48,591 --> 00:32:52,387
+Credo fermamente
+che sia un diritto umano fondamentale 
+
+685
+00:32:52,428 --> 00:32:54,055
+per gli esseri umani poter 
+
+686
+00:32:54,097 --> 00:32:56,015
+parlarsi
+in privato, 
+
+687
+00:32:56,057 --> 00:32:57,684
+indipendentemente da dove si trovino
+nel mondo. 
+
+688
+00:32:58,893 --> 00:33:03,189
+E questa idea che avevamo sull'uso di questa nuova tecnologia 
+
+689
+00:33:03,231 --> 00:33:06,401
+per ripensare la struttura sociale, 
+
+690
+00:33:06,442 --> 00:33:08,653
+ovvero:
+"Perché dobbiamo fare le cose 
+
+691
+00:33:08,695 --> 00:33:10,613
+nel modo in cui le abbiamo sempre fatte?" 
+
+692
+00:33:10,655 --> 00:33:12,907
+sono in effetti le fondamenta 
+
+693
+00:33:12,949 --> 00:33:16,035
+da cui sono nati
+Bitcoin e le criptovalute. 
+
+694
+00:33:16,077 --> 00:33:19,706
+Bisogna capire
+che è nato da quell'idea. 
+
+695
+00:33:19,747 --> 00:33:22,709
+[Will] L'etica Cypherpunk
+è stata ciò su cui molte persone 
+
+696
+00:33:22,750 --> 00:33:26,796
+hanno fondato PGP nel marzo 1996. 
+
+697
+00:33:26,838 --> 00:33:28,923
+In sostanza, il WDRT
+è una versione ASCII 
+
+698
+00:33:28,965 --> 00:33:30,341
+della chiave di crittografia del disco. 
+
+699
+00:33:30,383 --> 00:33:32,343
+[Jon] Hal e io
+abbiamo lavorato insieme a PGP. 
+
+700
+00:33:32,385 --> 00:33:35,555
+Era una delle persone
+che hanno scritto il codice 
+
+701
+00:33:35,596 --> 00:33:38,057
+crittografico principale di PGP. 
+
+702
+00:33:38,099 --> 00:33:40,435
+Era molto, molto bravo
+a farlo. 
+
+703
+00:33:40,476 --> 00:34:45,440
+E aveva anche molti
+altri interessi. 
+
+704
+00:33:45,481 --> 00:34:47,567
+[Will] Lavoravamo gratuitamente
+in quei primi giorni. 
+
+705
+00:33:47,608 --> 00:33:50,319
+Ero al college. Non pensavo di aver bisogno di un lavoro. 
+
+706
+00:33:50,361 --> 00:33:52,613
+Hal invece aveva una famiglia,
+aveva dei figli. 
+
+707
+00:33:52,655 --> 00:33:54,991
+A un certo punto, è passato da: 
+
+708
+00:33:55,033 --> 00:33:57,660
+"Sviluppo videogioami
+per Mattel", 
+
+709
+00:33:57,702 --> 00:34:02,457
+a: "Credo così tanto
+negli ideali Cypherpunk, 
+
+710
+00:34:02,498 --> 00:34:06,127
+nell'anonimato, nella crittografia
+e nel contante digitale, 
+
+711
+00:34:06,169 --> 00:34:09,630
+che lo farei anche
+senza uno stipendio". 
+
+712
+00:34:09,672 --> 00:34:13,217
+Voglio dire, questo è attivismo,
+non impiego. 
+
+713
+00:34:13,259 --> 00:34:15,053
+Len ha lavorato per noi
+per diversi anni 
+
+714
+00:34:15,094 --> 00:34:16,804
+alla fine degli anni '90. 
+
+715
+00:34:16,846 --> 00:34:19,891
+È stato un ingegnere QA
+per alcuni anni. 
+
+716
+00:34:19,932 --> 00:34:21,267
+Non credo che fosse proprio 
+
+717
+00:34:21,309 --> 00:34:22,727
+il ruolo più appropriato
+per lui. 
+
+718
+00:34:22,769 --> 00:34:24,812
+Era solo il lavoro che avevamo
+in quel momento. 
+
+719
+00:34:24,854 --> 00:34:27,398
+Non avevamo
+ruoli di ricercatore accademico. 
+
+720
+00:34:27,440 --> 00:34:30,109
+Ed è proprio in quello
+che Len era bravo, credo. 
+
+721
+00:34:30,151 --> 00:34:32,153
+E se guardi
+a quello che Len ha fatto dopo, 
+
+722
+00:34:32,195 --> 00:34:37,408
+sono pubblicazioni su pubblicazioni
+in crittografia. 
+
+723
+00:34:37,450 --> 00:34:40,828
+Hai chiesto a Phil
+chi fosse Satoshi? 
+
+724
+00:34:40,870 --> 00:34:44,165
+Una cosa che Phil mi ha detto
+è stata: "Non puoi chiedermi 
+
+725
+00:34:44,207 --> 00:34:47,752
+se conosco l'identità
+di Satoshi Nakamoto". 
+
+726
+00:34:47,794 --> 00:34:49,337
+E quando ho chiesto: "Perché, Phil?" 
+
+727
+00:34:49,378 --> 00:34:52,965
+Lui ha risposto: "Perché
+potrebbe essere pericoloso". 
+
+728
+00:34:54,008 --> 00:34:56,260
+E quando gli ho chiesto
+perché potesse essere pericoloso, 
+
+729
+00:34:56,302 --> 00:34:59,138
+ha detto che qualcuno
+potrebbe farsi male. 
+
+730
+00:34:59,180 --> 00:35:01,349
+Ed è stato piuttosto criptico, 
+
+731
+00:35:01,390 --> 00:35:03,851
+come suppongo
+che sia un crittografo. 
+
+732
+00:35:04,727 --> 00:35:06,229
+[Tyler] C'è qualcun altro
+che ha lavorato con te 
+
+733
+00:35:06,270 --> 00:35:09,482
+che faceva parte
+del team originario 
+
+734
+00:35:09,524 --> 00:35:11,818
+che ha aiutato a creare Bitcoin? 
+
+735
+00:35:19,617 --> 00:35:22,912
+Io... preferirei
+non approfondire l'argomento 
+
+736
+00:35:22,954 --> 00:35:25,998
+perché offre opportunità 
+
+737
+00:35:26,040 --> 00:35:27,750
+per un centramento d'artiglieria. 
+
+738
+00:35:29,460 --> 00:35:31,170
+Puoi spiegare cos'è
+il centramento d'artiglieria? 
+
+739
+00:35:31,212 --> 00:35:33,214
+Se fai una domanda
+da questo lato, 
+
+740
+00:35:33,256 --> 00:35:34,882
+e poi ne fai una
+da quest'altro, 
+
+741
+00:35:34,924 --> 00:35:37,927
+ti avvicini sempre di più
+a qualcuno 
+
+742
+00:35:37,969 --> 00:35:40,304
+nel mezzo
+che preferirebbe non essere colpito. 
+
+743
+00:35:42,056 --> 00:35:45,017
+Ora, dobbiamo in qualche modo interpretare
+cosa volesse dire. 
+
+744
+00:35:45,059 --> 00:35:47,186
+Stava cercando di depistarmi? 
+
+745
+00:35:47,228 --> 00:35:49,814
+O stava forse suggerendo
+che la risposta fosse sì? 
+
+746
+00:35:50,940 --> 00:35:52,859
+Un'altra cosa che ho
+imparato da Phil, tra l'altro, 
+
+747
+00:35:52,900 --> 00:35:55,653
+è che oltre
+alla crittografia delle email, 
+
+748
+00:35:55,695 --> 00:35:58,156
+che era il loro prodotto principale, 
+
+749
+00:35:58,197 --> 00:36:00,992
+stavano discutendo
+di altri prodotti 
+
+750
+00:36:01,033 --> 00:36:02,577
+che non hanno mai lanciato
+sul mercato. 
+
+751
+00:36:02,618 --> 00:36:04,036
+Per esempio, mi ha detto 
+
+752
+00:36:04,078 --> 00:36:06,622
+che parlavano di
+contante digitale, 
+
+753
+00:36:06,664 --> 00:36:10,918
+che da allora ho capito essere
+una sorta di Santo Graal 
+
+754
+00:36:10,960 --> 00:36:14,297
+del mondo crittografico
+dei Cypherpunk. 
+
+755
+00:36:14,338 --> 00:36:16,549
+Dunque, racconta a Bill
+degli Estropici. 
+
+756
+00:37:13,133 --> 00:37:18,467
+Che diavolo sono? 
+
+757
+00:36:18,509 --> 00:36:21,220
+Dunque, oltre
+ai Cypherpunk, 
+
+758
+00:36:21,262 --> 00:36:23,222
+molti dei nostri principali candidati 
+
+759
+00:36:23,264 --> 00:36:25,308
+facevano parte
+di un diverso gruppo di nicchia 
+
+760
+00:36:25,349 --> 00:36:26,809
+chiamato gli Estropici. 
+
+761
+00:36:26,851 --> 00:36:30,188
+Wei Dai, Hal Finney
+e Nick Szabo. 
+
+762
+00:36:30,229 --> 00:36:31,814
+Gli Estropici facevano parte 
+
+763
+00:36:31,856 --> 00:36:33,858
+di un gruppo più ampio
+chiamato Transumanisti. 
+
+764
+00:36:33,900 --> 00:36:35,818
+Persone provenienti da molti
+settori diversi 
+
+765
+00:36:35,860 --> 00:36:37,653
+che credevano che la razza umana 
+
+766
+00:36:37,695 --> 00:36:40,406
+non avesse ancora raggiunto
+il suo pieno potenziale. 
+
+767
+00:36:40,448 --> 00:36:45,203
+E il modo per farlo
+è usare la tecnologia, l'IA, 
+
+768
+00:36:45,244 --> 00:36:47,538
+la nanotecnologia,
+l'ingegneria genetica. 
+
+769
+00:36:47,580 --> 00:36:49,290
+Sento che avresti dovuto iniziare
+dal fatto 
+
+770
+00:36:49,332 --> 00:36:50,750
+che congelano i loro corpi. 
+
+771
+00:36:50,791 --> 00:36:52,627
+Quella per me
+è stata la cosa più eccitante. 
+
+772
+00:36:52,668 --> 00:36:55,254
+-Ottimo punto. -Congelano i corpi? 
+
+773
+00:36:55,296 --> 00:36:58,633
+Max More,
+l'Estropico originale, 
+
+774
+00:36:58,674 --> 00:37:00,885
+ora gestisce Alcor, 
+
+775
+00:37:00,927 --> 00:37:03,971
+un sistema di
+preservazione crionica 
+
+776
+00:37:04,013 --> 00:37:07,975
+dove puoi essenzialmente sospendere
+il processo di morte, come dice lui, 
+
+777
+00:37:08,017 --> 00:37:10,436
+e preservare il tuo corpo
+per il futuro 
+
+778
+00:37:10,478 --> 00:37:12,396
+per centinaia o migliaia di anni, 
+
+779
+00:37:12,438 --> 00:37:14,232
+così che forse in futuro 
+
+780
+00:37:14,273 --> 00:37:16,734
+avremo la tecnologia
+per risvegliarci. 
+
+781
+00:37:16,776 --> 00:37:19,570
+Non solo i nostri corpi,
+ma le nostre menti. 
+
+782
+00:37:19,612 --> 00:37:22,323
+E ciò che è affascinante è che
+uno degli argomenti principali 
+
+783
+00:37:22,365 --> 00:37:25,910
+di conversazione in questo gruppo
+era il contante digitale. 
+
+784
+00:37:29,789 --> 00:37:32,124
+[Max] Ero molto interessato
+alle religioni 
+
+785
+00:37:32,166 --> 00:37:35,211
+quando avevo circa dai dieci
+ai quattordici anni. 
+
+786
+00:37:35,253 --> 00:37:38,589
+Ognuna di queste
+storie e tradizioni religiose 
+
+787
+00:37:38,631 --> 00:37:40,758
+ha un senso di trascendenza, 
+
+788
+00:37:40,800 --> 00:37:43,052
+la sensazione che la condizione
+umana non sia solo quella attuale. 
+
+789
+00:37:43,094 --> 00:37:44,887
+In un certo senso,
+possiamo trascenderla. 
+
+790
+00:37:44,929 --> 00:37:47,265
+Quindi, lasciando andare gli aspetti
+religiosi e di fede 
+
+791
+00:37:47,306 --> 00:37:49,850
+e guardando invece alla scienza
+e alla tecnologia per mettere in discussione 
+
+792
+00:37:49,892 --> 00:37:51,769
+alcuni degli aspetti fondamentali
+dell'essere umano, 
+
+793
+00:37:51,811 --> 00:37:53,813
+il primo dei quali
+è: perché moriamo? 
+
+794
+00:37:53,854 --> 00:37:55,815
+Perché invecchiamo e moriamo?
+È assolutamente essenziale? 
+
+795
+00:37:55,856 --> 00:37:57,358
+Possiamo fare qualcosa al riguardo? 
+
+796
+00:37:57,400 --> 00:37:58,859
+E tutte quelle idee
+si sono unite 
+
+797
+00:38:00,319 --> 00:38:00,278
+nel concetto di estropia, 
+
+798
+00:38:00,319 --> 00:38:02,822
+essendo una sorta di opposto
+metaforico dell'entropia. 
+
+799
+00:38:02,863 --> 00:38:05,825
+Con l'entropia, tutto cade
+a pezzi e decade nel tempo. 
+
+800
+00:38:05,866 --> 00:38:07,451
+Con l'estropia,
+immetti energia nel sistema 
+
+801
+00:38:07,493 --> 00:38:09,078
+e ottieni più intelligenza,
+più complessità 
+
+802
+00:38:09,120 --> 00:38:10,955
+e le cose, si spera, migliorano. 
+
+803
+00:38:13,582 --> 00:38:15,751
+Dunque, tutti i nostri pazienti sono qui
+nella sala cure. 
+
+804
+00:38:15,793 --> 00:38:17,295
+-Wow. -[Tyler] E tutti i membri 
+
+805
+00:38:17,336 --> 00:38:18,879
+che sono stati preservati
+sono qui? 
+
+806
+00:38:18,921 --> 00:38:21,382
+[Max] Sì, tutti i nostri 201 pazienti. 
+
+807
+00:38:21,424 --> 00:38:23,968
+Puoi toccare l'esterno.
+È solo freddo acciaio inossidabile. 
+
+808
+00:38:24,010 --> 00:38:26,804
+Ma all'interno ci sono -320 gradi Fahrenheit. 
+
+809
+00:38:26,846 --> 00:38:28,347
+A quella temperatura, davvero, 
+
+810
+00:38:28,389 --> 00:38:30,099
+nulla accade
+biologicamente. 
+
+811
+00:38:30,141 --> 00:38:32,184
+Non c'è metabolismo. Non succede nulla. 
+
+812
+00:38:32,226 --> 00:38:33,686
+Certamente non ci sono ricordi. 
+
+813
+00:38:33,728 --> 00:38:35,396
+Non è come
+nel film Vanilla Sky, 
+
+814
+00:38:35,438 --> 00:38:37,565
+dove puoi fare sogni lucidi. 
+
+815
+00:38:37,606 --> 00:38:39,608
+Non succederà. 
+
+816
+00:38:37,606 --> 00:38:39,608
+[Finn] Gli Estropici
+sono un movimento 
+
+817
+00:38:39,650 --> 00:38:41,944
+che non è molto conosciuto ora 
+
+818
+00:38:41,986 --> 00:38:43,279
+per via delle loro idee, 
+
+819
+00:38:43,321 --> 00:38:44,780
+ma le tecnologie 
+
+820
+00:38:44,822 --> 00:38:46,407
+che sostenevano, 
+
+821
+00:38:46,449 --> 00:38:48,034
+le cose in cui credevano, 
+
+822
+00:38:48,075 --> 00:38:50,661
+le tesi che portavano avanti, 
+
+823
+00:38:50,703 --> 00:38:51,912
+si sono diffuse nel panorama tecnologico 
+
+824
+00:38:51,954 --> 00:38:53,372
+che ci circonda oggi. 
+
+825
+00:38:51,954 --> 00:38:53,372
+Concetti come 
+
+826
+00:38:53,414 --> 00:38:55,041
+le scoperte
+nell'intelligenza artificiale, 
+
+827
+00:38:55,082 --> 00:38:57,460
+l'interesse per la nanotecnologia, 
+
+828
+00:38:57,501 --> 00:39:01,297
+vista come una frontiera di possibili
+innovazioni tecnologiche, 
+
+829
+00:39:01,339 --> 00:39:05,051
+il fascino per i
+nuovi strumenti economici digitali 
+
+830
+00:39:05,092 --> 00:39:07,553
+che potrebbero creare
+nuovi sistemi di valore, 
+
+831
+00:39:07,595 --> 00:39:11,140
+l'interesse per il biohacking
+e la modifica del proprio corpo, 
+
+832
+00:39:11,182 --> 00:39:13,684
+tutte queste diverse
+aree di interesse 
+
+833
+00:39:13,726 --> 00:39:17,772
+e di investimento
+erano visioni Estropiche. 
+
+834
+00:39:17,813 --> 00:39:21,067
+Tre dei principali candidati
+per Satoshi Nakamoto, 
+
+835
+00:39:21,108 --> 00:39:22,860
+l'inventore di Bitcoin, 
+
+836
+00:39:22,902 --> 00:39:24,987
+Nick Szabo, Hal Finney
+e Wei Dai 
+
+837
+00:39:25,029 --> 00:39:26,530
+sono stati molto influenzati da te. 
+
+838
+00:39:26,572 --> 00:39:27,865
+Ti sorprende? 
+
+839
+00:39:29,325 --> 00:39:30,993
+Sì e no. Immagino che, dal punto di vista 
+
+840
+00:39:31,035 --> 00:39:32,995
+di non essere un esperto tecnico 
+
+841
+00:39:33,037 --> 00:39:34,622
+per discutere quelle idee,
+beh, sì. 
+
+842
+00:39:34,663 --> 00:39:36,999
+Ma no nel senso che, sì, ero-- 
+
+843
+00:39:37,041 --> 00:39:39,126
+ho avuto un ruolo importante, insieme ai miei colleghi, 
+
+844
+00:39:39,168 --> 00:39:41,295
+nel formare una comunità in cui
+queste idee potessero essere discusse. 
+
+845
+00:39:43,339 --> 00:39:47,259
+Già nel 1988, abbiamo iniziato
+la nostra rivista, "Extropy". 
+
+846
+00:39:47,301 --> 00:39:49,553
+La gente leggeva le recensioni,
+e ricevevo chiamate dal 
+
+847
+00:39:49,595 --> 00:39:51,680
+Kansas o da qualche
+altra parte, e qualcuno diceva: 
+
+848
+00:39:51,722 --> 00:39:53,099
+"Oh, mio Dio.
+Non pensavo che nessun altro 
+
+849
+00:39:53,140 --> 00:39:54,600
+nel paese
+la pensasse così". 
+
+850
+00:39:54,642 --> 00:39:56,894
+Programmatori, esperti di IA, economisti, 
+
+851
+00:39:56,936 --> 00:39:59,271
+filosofi, biologi e tutte queste persone diverse 
+
+852
+00:39:59,313 --> 00:40:00,773
+che si univano per discutere le cose 
+
+853
+00:40:00,815 --> 00:40:02,400
+da diverse prospettive, 
+
+854
+00:40:02,441 --> 00:40:03,818
+dall'IA
+alla colonizzazione dello spazio 
+
+855
+00:40:03,859 --> 00:40:05,444
+fino alla crittografia per la privacy, 
+
+856
+00:40:05,486 --> 00:40:07,279
+incluso il settore del denaro. 
+
+857
+00:40:07,321 --> 00:40:11,242
+Per il movimento Estropico,
+la crionica è importante 
+
+858
+00:40:11,283 --> 00:40:15,121
+perché offre un modo
+per risolvere il problema 
+
+859
+00:40:15,162 --> 00:40:18,707
+che siamo sulla soglia
+di questo futuro straordinario. 
+
+860
+00:40:18,749 --> 00:40:21,544
+Ma potremmo morire
+prima che quel futuro arrivi. 
+
+861
+00:40:21,585 --> 00:40:24,255
+Una delle domande
+che questo pone, però, 
+
+862
+00:40:24,296 --> 00:40:27,007
+è come avresti accesso 
+
+863
+00:40:27,049 --> 00:40:29,260
+ai beni e alla ricchezza
+nel futuro? 
+
+864
+00:40:29,301 --> 00:40:31,720
+Quindi, se non ti fidi 
+
+865
+00:40:31,762 --> 00:40:34,765
+della valuta attuale
+per mantenere il suo valore, 
+
+866
+00:40:34,807 --> 00:40:36,392
+se non ti fidi
+dei sistemi finanziari esistenti 
+
+867
+00:40:36,434 --> 00:40:37,726
+per mantenere il loro valore, 
+
+868
+00:40:37,768 --> 00:40:39,645
+devi creare
+un'alternativa. 
+
+869
+00:38:13,582 --> 00:40:41,856
+Molti dei candidati proposti 
+
+870
+00:40:41,897 --> 00:40:44,275
+come Satoshi Nakamoto
+erano Estropici, 
+
+871
+00:40:44,316 --> 00:40:45,943
+il che ci mostra che parte 
+
+872
+00:40:45,985 --> 00:40:48,946
+di ciò che ha dato vita
+alle criptovalute, 
+
+873
+00:40:48,988 --> 00:40:51,282
+parte di ciò che ha dato vita
+a Bitcoin, 
+
+874
+00:40:51,323 --> 00:40:54,660
+erano le convinzioni e le passioni
+del movimento Estropico. 
+
+875
+00:40:56,454 --> 00:40:59,206
+Dunque, qui abbiamo i nomi
+di quattro persone. 
+
+876
+00:40:59,248 --> 00:41:03,961
+Adam Back, Hal Finney,
+Nick Szabo e Wei Dai. 
+
+877
+00:41:04,003 --> 00:41:05,463
+Tutti e quattro hanno concepito 
+
+878
+00:41:05,504 --> 00:41:07,548
+una prima versione
+delle criptovalute, 
+
+879
+00:41:07,590 --> 00:41:09,383
+o hanno creato una tecnologia 
+
+880
+00:41:09,425 --> 00:41:11,760
+fondamentale per
+lo sviluppo di Bitcoin. 
+
+881
+00:41:11,802 --> 00:41:13,345
+Inizierò con Adam Back. 
+
+882
+00:41:13,387 --> 00:41:16,182
+Ciò che ha creato
+si chiamava Hashcash. 
+
+883
+00:41:16,223 --> 00:41:17,975
+[Finn] Voleva capire
+come gestire 
+
+884
+00:41:18,017 --> 00:41:20,269
+il problema delle email di spam. 
+
+885
+00:41:20,311 --> 00:41:22,605
+Oggi viviamo per lo più dietro
+a filtri 
+
+886
+00:41:22,646 --> 00:41:24,148
+che ci impediscono
+di vedere le ondate 
+
+887
+00:41:24,190 --> 00:41:25,774
+di spam che ci arrivano. 
+
+888
+00:41:25,816 --> 00:41:27,193
+Ma dall'altra parte, 
+
+889
+00:41:27,234 --> 00:41:29,904
+come delle dighe,
+ci sono tsunami di spam 
+
+890
+00:41:29,945 --> 00:41:32,198
+che si infrangono contro di esse
+continuamente. 
+
+891
+00:41:32,239 --> 00:41:35,659
+Back ebbe un modo davvero interessante
+per cercare di risolvere questo problema 
+
+892
+00:41:35,701 --> 00:41:37,912
+che avrebbe anche preservato
+la privacy delle persone. 
+
+893
+00:41:37,953 --> 00:41:41,207
+Coinvolgeva un concetto
+chiamato Proof of Work. 
+
+894
+00:41:41,248 --> 00:41:45,377
+Back pensò: "E se dovessi
+comprare un francobollo per inviare un'email? 
+
+895
+00:41:45,419 --> 00:41:48,380
+E se per comprare quel francobollo,
+il tuo computer dovesse fare 
+
+896
+00:41:48,422 --> 00:41:51,383
+un piccolo sforzo?
+Tipo risolvere un problema matematico". 
+
+897
+00:41:51,425 --> 00:41:54,428
+[musica di suspense]
+
+898
+00:41:57,389 --> 00:41:59,642
+Io e te che ci scriviamo email
+non lo noteremmo mai. 
+
+899
+00:41:59,683 --> 00:42:01,852
+Ma se stessi cercando di scrivere
+a un milione di persone 
+
+900
+00:42:01,894 --> 00:42:03,896
+come deve fare uno spammer,
+allora improvvisamente 
+
+901
+00:42:03,938 --> 00:42:07,066
+risolvere quel milione di problemi
+diventa oneroso. 
+
+902
+00:42:07,107 --> 00:42:09,193
+Adam Back sviluppò un sistema 
+
+903
+00:42:09,235 --> 00:42:11,695
+in cui il computer
+doveva provare 
+
+904
+00:42:11,737 --> 00:42:14,073
+di aver svolto
+un po' di lavoro 
+
+905
+00:42:14,114 --> 00:42:16,116
+per poter inviare questo messaggio. 
+
+906
+00:42:16,158 --> 00:42:17,785
+Proof of Work. 
+
+907
+00:42:19,912 --> 00:42:22,248
+Ed è simile
+a ciò che abbiamo, 
+
+908
+00:42:22,289 --> 00:42:24,625
+sai, quando vuoi
+accedere a un sito web 
+
+909
+00:42:24,667 --> 00:42:27,586
+o hai quegli enigmi
+che devi risolvere, 
+
+910
+00:42:27,628 --> 00:42:29,922
+tipo clicca sull'immagine
+di questo specifico oggetto o... 
+
+911
+00:42:29,964 --> 00:42:31,924
+È un buon punto. 
+È un altro
+esempio in cui siamo obbligati 
+
+912
+00:42:31,966 --> 00:42:34,301
+a fare qualcosa per dimostrare
+chi siamo... 
+
+913
+00:42:34,343 --> 00:42:36,512
+-Sì, che siamo umani. -O per tenere fuori i cattivi. 
+
+914
+00:42:36,554 --> 00:42:38,264
+Tenere fuori i cattivi, esattamente. 
+
+915
+00:42:38,305 --> 00:42:41,225
+[Tyler] Dunque, Hal Finney ha inventato
+ciò che si chiama RPOW. 
+
+916
+00:42:41,267 --> 00:42:42,977
+"Reusable Proof of Work". 
+
+917
+00:42:43,018 --> 00:42:45,062
+E in breve,
+era un passo avanti 
+
+918
+00:42:45,104 --> 00:42:46,939
+rispetto all'idea di Adam Back. 
+
+919
+00:42:46,981 --> 00:42:50,234
+[Finn] Hal ha sviluppato un sistema
+di Proof of Work più efficiente. 
+
+920
+00:42:50,276 --> 00:42:52,528
+Un computer esegue
+la Proof of Work iniziale. 
+
+921
+00:42:52,570 --> 00:42:54,697
+Ma invece di ricevere
+un francobollo digitale, 
+
+922
+00:42:54,738 --> 00:42:56,699
+riceve un token digitale, 
+
+923
+00:42:56,740 --> 00:42:58,867
+che invia
+al computer successivo. 
+
+924
+00:42:58,909 --> 00:43:02,288
+Quindi, senza spendere energia
+extra per fare altro lavoro, 
+
+925
+00:43:02,329 --> 00:43:05,457
+quel computer
+può riutilizzare il token. 
+
+926
+00:43:05,499 --> 00:43:07,293
+E poi scambiarlo
+con qualcun altro. 
+
+927
+00:43:07,334 --> 00:43:09,211
+"Reusable Proof Of Work", 
+
+928
+00:43:09,253 --> 00:43:11,547
+trasformiamolo
+in un acronimo, "RPOW". 
+
+929
+00:43:11,922 --> 00:43:14,967
+Ciò che Nick Szabo ha fatto
+con Bit Gold, 
+
+930
+00:43:15,009 --> 00:43:18,178
+che è un terzo tassello
+di Bitcoin, è stato dire: 
+
+931
+00:43:18,220 --> 00:43:23,350
+"Pensiamo ai token digitali
+come a una commodity come l'oro". 
+
+932
+00:43:23,392 --> 00:43:27,187
+[Finn] Se possiedo un lingotto d'oro,
+è molto improbabile 
+
+933
+00:43:27,229 --> 00:43:28,647
+che lo tenga in casa mia. 
+
+934
+00:43:28,689 --> 00:43:30,899
+Invece, sta
+in un caveau da qualche parte. 
+
+935
+00:43:30,941 --> 00:43:32,693
+E quando te lo vendo, 
+
+936
+00:43:32,735 --> 00:43:34,778
+te lo assegno formalmente. 
+
+937
+00:43:34,820 --> 00:43:37,239
+Aggiungo la mia firma
+a un sistema di Ledger 
+
+938
+00:43:37,281 --> 00:43:38,616
+che dichiarerà che 
+
+939
+00:43:38,657 --> 00:43:40,242
+quell'oro è ora
+in tuo possesso. 
+
+940
+00:43:40,284 --> 00:43:42,453
+Non viene mai rimosso dallo 
+
+941
+00:43:42,494 --> 00:43:44,079
+scaffale su cui poggia. 
+
+942
+00:43:42,494 --> 00:43:44,079
+Parte di ciò che Szabo
+iniziò a capire 
+
+943
+00:43:44,121 --> 00:43:46,957
+è che si poteva costruire
+un'infrastruttura digitale 
+
+944
+00:43:46,999 --> 00:43:49,960
+per la finanza basata su una sorta di
+Ledger centralizzato 
+
+945
+00:43:50,002 --> 00:43:53,505
+che conserva questo oggetto prezioso. 
+
+946
+00:43:53,547 --> 00:43:56,925
+E poi potresti usare un sistema
+di firme crittografiche 
+
+947
+00:43:56,967 --> 00:43:58,969
+per scambiarne la proprietà tra le persone 
+
+948
+00:43:59,011 --> 00:44:01,263
+mentre l'oggetto rimane
+sempre nello stesso posto. 
+
+949
+00:44:01,305 --> 00:44:04,475
+[Tyler] Wei Dai prese questa idea
+di un Ledger centralizzato 
+
+950
+00:44:04,516 --> 00:44:06,185
+e la decentralizzò. 
+
+951
+00:44:06,226 --> 00:44:09,355
+Wei Dai sviluppò
+un concetto brillante 
+
+952
+00:44:09,396 --> 00:44:11,190
+che chiamò "B-money". 
+
+953
+00:44:11,231 --> 00:44:14,443
+Come Bit Gold, B-money era
+un sistema bancario elettronico, 
+
+954
+00:44:14,485 --> 00:44:15,861
+ma a differenza di Bit Gold, 
+
+955
+00:44:15,903 --> 00:44:17,404
+B-money prese il Ledger centrale, 
+
+956
+00:44:17,446 --> 00:44:19,156
+ciò che controllava
+la verità, 
+
+957
+00:44:19,198 --> 00:44:21,867
+e ne disperse la responsabilità
+tra tutti. 
+
+958
+00:44:21,909 --> 00:44:23,869
+Quindi, invece di avere
+un unico luogo centrale 
+
+959
+00:44:23,911 --> 00:44:25,788
+che registrasse
+tutte le transazioni, 
+
+960
+00:44:25,829 --> 00:28:58,582
+tutti i partecipanti erano
+collettivamente responsabili 
+
+961
+00:44:28,624 --> 00:44:30,751
+del mantenimento
+di questo registro della verità. 
+
+962
+00:44:30,793 --> 00:44:32,586
+[Tyler] Satoshi prese tutte
+queste idee 
+
+963
+00:44:32,628 --> 00:44:36,340
+e le mise insieme in
+un'unica idea chiamata Bitcoin. 
+
+964
+00:44:36,382 --> 00:44:39,885
+È un sistema di pagamento che utilizza
+un Ledger decentralizzato 
+
+965
+00:44:39,927 --> 00:44:43,472
+per tracciare token digitali. 
+
+966
+00:44:43,514 --> 00:44:46,308
+[Finn] Ma Satoshi aggiunse anche altri
+importanti elementi. 
+
+967
+00:44:46,350 --> 00:44:49,311
+Ci sono almeno quattro concetti
+chiave da capire. 
+
+968
+00:44:49,353 --> 00:44:53,816
+Offerta limitata, Mining,
+Blockchain e Wallet. 
+
+969
+00:44:53,857 --> 00:44:56,318
+Satoshi sapeva che i governi
+hanno pessimi precedenti 
+
+970
+00:44:56,360 --> 00:44:59,113
+nel svalutare il denaro
+creandone troppo. 
+
+971
+00:44:59,154 --> 00:45:01,657
+Avete semplicemente inondato
+il sistema di denaro? 
+
+972
+00:45:01,699 --> 00:45:04,451
+Sì, lo abbiamo fatto. È un altro modo
+per vederla. 
+
+973
+00:45:04,493 --> 00:45:06,161
+[Finn] E Satoshi
+voleva assicurarsi 
+
+974
+00:45:06,203 --> 00:45:08,872
+che questo non potesse mai accadere
+a Bitcoin. 
+
+975
+00:45:08,914 --> 00:45:11,166
+Bitcoin è una valuta finita. 
+
+976
+00:45:11,208 --> 00:45:13,669
+È progettata
+affinché la quantità di Bitcoin 
+
+977
+00:45:13,711 --> 00:45:15,379
+raggiunga un limite oltre il quale 
+
+978
+00:45:15,421 --> 00:45:17,381
+non verranno mai più
+prodotti nuovi Bitcoin. 
+
+979
+00:45:17,423 --> 00:45:19,883
+Esisteranno solo 21 milioni di Bitcoin. 
+
+980
+00:45:19,925 --> 00:45:21,927
+Questo è ciò
+che gli darà valore. 
+
+981
+00:45:21,969 --> 00:45:24,179
+È la sua proposta di valore. 
+
+982
+00:45:24,221 --> 00:45:27,474
+[Finn] Il Mining è l'unico modo
+per ottenere nuovi Bitcoin. 
+
+983
+00:45:27,516 --> 00:45:30,269
+È una forma di Proof of Work dove tutti i Miner 
+
+984
+00:45:30,310 --> 00:45:33,105
+fanno a gara per risolvere uno speciale problema matematico e il primo 
+
+985
+00:45:33,147 --> 00:45:37,484
+che lo risolve riceve
+una specifica quantità di Bitcoin. 
+
+986
+00:45:37,526 --> 00:45:39,570
+I problemi compaiono
+ogni dieci minuti, 
+
+987
+00:45:39,611 --> 00:45:41,405
+e diventano più difficili nel tempo. 
+
+988
+00:45:41,447 --> 00:45:44,658
+Quindi, anche se i Miner iniziano
+a risolvere i problemi più velocemente, 
+
+989
+00:45:44,700 --> 00:45:46,952
+il tempo tra
+ogni rilascio di Bitcoin 
+
+990
+00:45:46,994 --> 00:45:48,495
+rimane circa lo stesso. 
+
+991
+00:45:49,872 --> 00:45:52,833
+Satoshi ha anche attinto da B-money e ha creato 
+
+992
+00:45:52,875 --> 00:45:55,294
+un Ledger decentralizzato chiamato "Blockchain". 
+
+993
+00:45:55,335 --> 00:45:58,338
+E una Blockchain
+è un registro digitale 
+
+994
+00:45:58,380 --> 00:45:59,840
+al quale le cose possono essere aggiunte 
+
+995
+00:45:59,882 --> 00:46:02,676
+ma mai rimosse
+e mai cambiate. 
+
+996
+00:46:02,718 --> 00:46:05,804
+La Blockchain registra pubblicamente
+tutte le transazioni.
+
+997
+00:46:05,846 --> 00:46:08,056
+Così chiunque può vedere ogni vendita,
+
+998
+00:46:08,098 --> 00:46:11,059
+scambio, acquisto, tornando indietro
+fino al Genesis Block,
+
+999
+00:46:11,101 --> 00:46:13,604
+la prima transazione Bitcoin.
+
+1000
+00:46:13,645 --> 00:46:17,733
+Quello che non si può vedere
+è chi ha effettuato ogni transazione.
+
+1001
+00:46:17,775 --> 00:46:20,068
+Chiunque può creare
+un Bitcoin wallet,
+
+1002
+00:46:20,110 --> 00:46:22,946
+un indirizzo che ci permette
+di inviare e ricevere Bitcoin
+
+1003
+00:46:22,988 --> 00:46:24,740
+senza doverlo collegare
+
+1004
+00:46:24,782 --> 00:46:28,368
+a nessuna identità del mondo reale
+in alcun modo.
+
+1005
+00:46:28,410 --> 00:46:30,788
+I wallet sono identificati
+solo da stringhe
+
+1006
+00:46:30,829 --> 00:46:32,331
+di numeri e lettere casuali,
+
+1007
+00:46:32,372 --> 00:46:34,124
+motivo per cui
+Bitcoin è attraente
+
+1008
+00:46:34,166 --> 00:46:36,376
+per chi dà valore alla privacy.
+
+1009
+00:46:36,418 --> 00:46:38,170
+Quindi, cosa facciamo ora?
+
+1010
+00:46:38,212 --> 00:46:40,130
+[Tyler] Penso che dobbiamo
+cercare di capire
+
+1011
+00:46:40,172 --> 00:46:42,049
+che tipo di persona fosse.
+
+1012
+00:46:42,090 --> 00:46:44,259
+Che esperienza aveva?
+
+1013
+00:46:44,301 --> 00:46:45,969
+Che interessi aveva?
+
+1014
+00:46:46,011 --> 00:46:48,847
+Qual era la sua mentalità
+quando l'ha creato?
+
+1015
+00:46:48,889 --> 00:46:51,850
+Voglio dire, quali sono
+gli elementi che si sono combinati
+
+1016
+00:46:51,892 --> 00:46:54,645
+per rendere questa persona
+Satoshi Nakamoto?
+
+1017
+00:46:54,686 --> 00:46:57,105
+Stavamo iniziando
+a farci un'ottima idea
+
+1018
+00:46:57,147 --> 00:47:00,734
+del perché e di come
+sia stato creato Bitcoin.
+
+1019
+00:47:00,776 --> 00:47:02,694
+Quindi ricapitoliamo
+a che punto siamo.
+
+1020
+00:47:02,736 --> 00:47:04,988
+Satoshi non vuole
+governi, banche,
+
+1021
+00:47:05,030 --> 00:47:08,617
+o società coinvolte
+nei propri affari personali.
+
+1022
+00:47:08,659 --> 00:47:11,078
+Crede nel decentralizzare l'autorità
+
+1023
+00:47:11,119 --> 00:47:13,539
+e nel restituire
+il potere alle persone.
+
+1024
+00:47:13,580 --> 00:47:15,165
+Crede nella privacy,
+
+1025
+00:47:15,207 --> 00:47:18,252
+specialmente quando si tratta
+di transazioni finanziarie.
+
+1026
+00:47:18,293 --> 00:47:20,128
+Ed è lungimirante.
+
+1027
+00:47:20,170 --> 00:47:23,799
+Vuole inventare tecnologie
+per rendere il mondo migliore.
+
+1028
+00:47:23,841 --> 00:47:26,927
+E una cosa che voglio fare
+è chiamare Kathleen Puckett.
+
+1029
+00:47:26,969 --> 00:47:30,556
+Kathleen era un'analista
+comportamentale dell'FBI.
+
+1030
+00:47:30,597 --> 00:47:35,519
+È stata l'agente dell'FBI
+che ha risolto il caso Unabomber.
+
+1031
+00:47:35,561 --> 00:47:37,354
+[giornalista 1]
+Questo è un identikit
+
+1032
+00:47:37,396 --> 00:47:39,940
+dell'uomo che secondo l'FBI
+ha spedito esplosivi
+
+1033
+00:47:39,982 --> 00:47:42,484
+in tutto il paese
+negli ultimi 16 anni,
+
+1034
+00:47:42,526 --> 00:47:45,028
+uccidendo due persone
+e ferendone altre 23.
+
+1035
+00:47:45,070 --> 00:47:47,823
+[giornalista 1] L'Unabomber dice
+che ucciderà ancora una volta
+
+1036
+00:47:47,865 --> 00:47:50,242
+a meno che il suo manifesto
+di 35.000 parole non venga pubblicato
+
+1037
+00:47:50,284 --> 00:47:52,744
+sul New York Times
+o sul Washington Post.
+
+1038
+00:47:52,786 --> 00:47:55,289
+[Kathleen]
+Quando il Times e il Post
+
+1039
+00:47:55,330 --> 00:47:58,333
+ricevettero entrambi
+copie del manifesto,
+
+1040
+00:47:58,375 --> 00:48:02,462
+chiesero a noi dell'FBI
+una garanzia
+
+1041
+00:48:02,504 --> 00:48:05,048
+che questo lo avrebbe fermato,
+come aveva detto, dal piazzare bombe.
+
+1042
+00:48:05,090 --> 00:48:07,009
+Ci fu un'enorme controversia,
+
+1043
+00:48:07,050 --> 00:48:08,552
+e tutti dicevano
+che non c'era modo
+
+1044
+00:48:08,594 --> 00:48:10,554
+che avremmo negoziato
+con un terrorista.
+
+1045
+00:48:10,596 --> 00:48:14,975
+E io dissi:
+"Non ha importanza.
+
+1046
+00:48:15,017 --> 00:48:16,602
+La ragione più importante
+per pubblicarlo
+
+1047
+00:48:16,643 --> 00:48:17,978
+è che non siamo stati in grado
+
+1048
+00:48:18,020 --> 00:48:19,980
+di identificarlo
+in nessun altro modo."
+
+1049
+00:48:20,022 --> 00:48:23,692
+Qualcuno là fuori riconoscerà
+questo documento unico
+
+1050
+00:48:23,734 --> 00:48:25,944
+per il fraseggio, l'uso delle parole
+
+1051
+00:48:25,986 --> 00:48:28,488
+e le particolari grafie
+che utilizzava.
+
+1052
+00:48:28,530 --> 00:48:30,908
+-E ha funzionato?
+-Sì.
+
+1053
+00:48:30,949 --> 00:48:33,869
+L'FBI ha arrestato un sospetto
+in Montana
+
+1054
+00:48:33,911 --> 00:48:35,871
+dopo che è stato indicato
+dai parenti.
+
+1055
+00:48:36,371 --> 00:48:38,248
+[giornalista 3] Il manifesto
+ha portato David Kaczynski
+
+1056
+00:48:38,290 --> 00:48:40,042
+a contattare gli investigatori.
+
+1057
+00:48:40,083 --> 00:48:41,877
+Quindi lei ha molta esperienza
+
+1058
+00:48:41,919 --> 00:48:44,546
+nell'indagare su soggetti ignoti?
+
+1059
+00:48:44,588 --> 00:48:46,048
+Soggetti ignoti, sì.
+
+1060
+00:48:46,089 --> 00:48:48,842
+[Tyler] E anche nell'esaminare
+documenti complessi.
+
+1061
+00:48:48,884 --> 00:48:52,012
+Qual è stata la sua impressione la prima
+volta che ha letto il white paper?
+
+1062
+00:48:52,054 --> 00:48:55,390
+Quello che mi ha colpito molto
+quando l'ho letto,
+
+1063
+00:48:55,432 --> 00:48:57,309
+prima di tutto, non capivo nulla
+degli algoritmi
+
+1064
+00:48:57,351 --> 00:48:59,603
+o di tutti i dettagli tecnici.
+
+1065
+00:48:59,645 --> 00:49:03,482
+Ma ciò che mi affascina è che
+nell'abstract di questo articolo,
+
+1066
+00:49:03,523 --> 00:49:05,734
+nella prima frase, usa l'espressione
+
+1067
+00:49:05,776 --> 00:49:08,528
+"pagamenti online da inviare
+da una parte all'altra
+
+1068
+00:49:08,570 --> 00:49:11,448
+senza passare attraverso
+un'istituzione finanziaria."
+
+1069
+00:49:11,490 --> 00:49:14,326
+Così ho pensato, okay, questo
+è qualcuno che vuole essere libero
+
+1070
+00:49:14,368 --> 00:49:18,330
+dalle costrizioni
+delle regole stabilite.
+
+1071
+00:49:18,372 --> 00:49:20,958
+"Ciò di cui c'è bisogno è un
+sistema di pagamento elettronico
+
+1072
+00:49:20,999 --> 00:49:24,252
+basato su Proof of Work crittografica
+invece che sulla fiducia."
+
+1073
+00:49:24,294 --> 00:49:25,504
+E ho pensato, okay.
+
+1074
+00:49:25,545 --> 00:49:27,047
+Questo è un tipo che si fida dei numeri
+
+1075
+00:49:27,089 --> 00:49:28,548
+e non delle persone e dei sistemi,
+
+1076
+00:49:28,590 --> 00:49:30,467
+il che è probabilmente piuttosto saggio.
+
+1077
+00:49:30,509 --> 00:49:32,427
+Beh, ho trovato interessante
+che nella nota a piè di pagina,
+
+1078
+00:49:32,469 --> 00:49:35,138
+l'ottavo riferimento
+sia un'opera chiamata
+
+1079
+00:49:35,180 --> 00:49:38,725
+"Un'introduzione alla teoria della
+probabilità e alle sue applicazioni."
+
+1080
+00:49:38,767 --> 00:49:40,644
+Ed è del 1957.
+
+1081
+00:49:40,686 --> 00:49:42,104
+Questo potrebbe essere
+stato un testo
+
+1082
+00:49:42,145 --> 00:49:44,606
+che ha consultato all'inizio
+della sua formazione
+
+1083
+00:49:44,648 --> 00:49:46,233
+punto in cui verrebbe da dire,
+
+1084
+00:49:46,274 --> 00:49:48,360
+forse potrebbe essere
+molto più vecchio di quanto,
+
+1085
+00:49:48,402 --> 00:49:49,736
+ecco, pensiamo che sia.
+
+1086
+00:49:49,778 --> 00:49:51,863
+D'altra parte,
+potrebbe semplicemente essere
+
+1087
+00:49:51,905 --> 00:49:54,116
+un pensatore molto indipendente
+che fa ricerche
+
+1088
+00:49:54,157 --> 00:49:56,868
+e scopre cose che per gli altri
+non significano
+
+1089
+00:49:56,910 --> 00:49:59,371
+molto, ma lui riesce a collegarle.
+
+1090
+00:49:59,413 --> 00:50:01,832
+Pensa sia possibile che fosse
+una persona sola e non un gruppo?
+
+1091
+00:50:01,873 --> 00:50:05,502
+La ragione per cui penso sia
+una persona sola è semplice.
+
+1092
+00:50:05,544 --> 00:50:07,462
+Lui dice:
+"Proponiamo una soluzione."
+
+1093
+00:50:07,504 --> 00:50:09,673
+Ora, so che gli scienziati
+lo dicono spesso comunque
+
+1094
+00:50:09,715 --> 00:50:11,091
+perché sono membri
+di un team.
+
+1095
+00:50:11,133 --> 00:50:12,551
+Io non credo che questo sia un team.
+
+1096
+00:50:12,592 --> 00:50:14,011
+Penso sia una persona sola.
+
+1097
+00:50:14,052 --> 00:50:16,054
+L'Unabomber diceva sempre "noi".
+
+1098
+00:50:16,096 --> 00:50:18,348
+[Tyler] È improbabile che
+sia stato creato da un gruppo.
+
+1099
+00:50:18,390 --> 00:50:19,850
+E quando le ho chiesto
+di approfondire
+
+1100
+00:50:19,891 --> 00:50:21,268
+un po' l'argomento, ha detto...
+
+1101
+00:50:21,309 --> 00:50:23,478
+Se ci sono più
+di due persone coinvolte
+
+1102
+00:50:23,520 --> 00:50:25,188
+in un'impresa di questo tipo,
+
+1103
+00:50:25,230 --> 00:50:28,066
+specialmente qualcosa
+che è esploso come Bitcoin,
+
+1104
+00:50:28,108 --> 00:50:30,861
+non c'è modo che riescano
+a mantenerlo segreto.
+
+1105
+00:50:30,902 --> 00:50:34,322
+La seconda cosa che mi ha detto
+è che probabilmente era un maschio.
+
+1106
+00:50:34,364 --> 00:50:37,200
+Presumibilmente, parlava
+del campo della crittografia,
+
+1107
+00:50:37,242 --> 00:50:38,702
+che è a stragrande
+maggioranza maschile.
+
+1108
+00:50:38,744 --> 00:50:40,662
+Mi dica quali sente
+
+1109
+00:50:40,704 --> 00:50:43,331
+siano stati i motivi
+di Satoshi nello scrivere questo?
+
+1110
+00:50:44,499 --> 00:50:47,169
+È-- ho pensato che questo
+
+1111
+00:50:47,210 --> 00:49:49,838
+potrebbe essere iniziato come
+un esercizio intellettuale per lui.
+
+1112
+00:50:49,880 --> 00:50:51,840
+Penso che probabilmente
+
+1113
+00:51:11,882 --> 00:50:54,134
+sia più nel campo informatico
+
+1114
+00:51:54,176 --> 00:50:56,636
+e non negli investimenti in sé.
+
+1115
+00:50:56,678 --> 00:50:58,972
+Gli investimenti
+sono legati alle persone,
+
+1116
+00:51:00,807 --> 00:51:02,559
+un processo interattivo.
+
+1117
+00:51:02,601 --> 00:51:05,145
+Mentre i computer, voglio dire,
+si sa,
+
+1118
+00:51:05,187 --> 00:51:07,147
+puoi stare al computer
+totalmente da solo,
+
+1119
+00:51:07,189 --> 00:51:10,150
+ed è probabilmente
+lì che si sente a suo agio.
+
+1120
+00:51:10,192 --> 00:51:12,736
+Quindi un matematico,
+non un gestore di hedge fund?
+
+1121
+00:51:12,778 --> 00:51:15,572
+[Kathleen] Credo che lui non abbia
+davvero
+
+1122
+00:51:15,614 --> 00:51:20,827
+alcun bisogno di affermazione
+sociale o riconoscimento.
+
+1123
+00:51:20,869 --> 00:51:22,788
+Nessun desiderio di guadagnare
+soldi o... pubblicità?
+
+1124
+00:51:22,829 --> 00:51:24,956
+[Kathleen]
+Se fosse stato interessato ai soldi,
+
+1125
+00:51:24,998 --> 00:51:26,833
+penso che questo
+avrebbe avuto molta più
+
+1126
+00:51:26,875 --> 00:51:29,252
+enfasi ed entusiasmo.
+
+1127
+00:51:29,294 --> 00:51:33,632
+Non c'è entusiasmo in questo.
+
+1128
+00:51:33,673 --> 00:51:36,093
+Non sta promuovendo
+un modo migliore di essere.
+
+1129
+00:51:36,134 --> 00:51:38,053
+Non sta promuovendo
+un modo migliore di pensare
+
+1130
+00:51:38,095 --> 00:51:39,763
+o come fare soldi.
+
+1131
+00:51:39,805 --> 00:51:41,848
+Sta solo dicendo
+in modo molto pratico:
+
+1132
+00:51:41,890 --> 00:51:44,976
+"Se non volete affidarvi
+alla fiducia
+
+1133
+00:51:44,136 --> 00:51:46,394
+o a chiunque altro,
+ecco come si fa."
+
+1134
+00:51:46,436 --> 00:51:48,438
+[Tyler] Secondo Kathleen,
+
+1135
+00:51:48,480 --> 00:51:49,940
+Satoshi era qualcuno di modesto,
+
+1136
+00:51:49,981 --> 00:51:51,900
+che non aveva bisogno di attenzioni,
+
+1137
+00:51:51,942 --> 00:51:54,111
+e non aveva entusiasmo per il denaro.
+
+1138
+00:51:54,152 --> 00:51:56,363
+Va bene. Quindi tenendo
+conto di quello che
+
+1139
+00:51:56,404 --> 00:51:57,572
+ci ha detto Kathleen Puckett,
+
+1140
+00:51:57,614 --> 00:51:59,699
+Bird, cosa pensi
+che significhi questo
+
+1141
+00:51:59,741 --> 00:52:02,119
+per alcuni dei nostri candidati?
+
+1142
+00:52:02,160 --> 00:52:03,912
+Sì, penso che potremmo
+probabilmente rimuovere Paul Le Roux.
+
+1143
+00:52:03,954 --> 00:52:05,372
+Paul Le Roux è fuori.
+
+1144
+00:52:05,413 --> 00:52:07,666
+Supponendo che Kathleen
+abbia ragione anche solo al dieci per cento,
+
+1145
+00:52:07,707 --> 00:52:10,252
+questo non è
+un candidato per Satoshi.
+
+1146
+00:52:10,293 --> 00:52:13,255
+Non l'ho mai considerato
+il candidato più probabile,
+
+1147
+00:52:13,293 --> 00:52:15,382
+ma ora sono sicuro che non sia lui.
+
+1148
+00:52:15,382 --> 00:52:17,968
+Ora che stiamo
+iniziando a capire chi
+
+1149
+00:52:18,009 --> 00:52:20,512
+Satoshi potrebbe essere
+stato come persona,
+
+1150
+00:52:20,554 --> 00:52:24,224
+dobbiamo immergerci il più
+profondamente possibile nell'unico posto
+
+1151
+00:52:24,266 --> 00:52:28,603
+dove Satoshi è più presente:
+l'attività online.
+
+1152
+00:52:28,645 --> 00:52:30,230
+[Alexis] Ricordi che
+stavamo leggendo quel
+
+1153
+00:52:30,272 --> 00:52:32,816
+articolo del New York Times
+con Alyssa Blackburn?
+
+1154
+00:52:35,152 --> 00:52:37,779
+[Tyler] È una Data Scientist
+alla Baylor.
+
+1155
+00:52:39,781 --> 00:52:43,451
+È specializzata
+nel Mining di Bitcoin delle origini.
+
+1156
+00:52:43,493 --> 00:52:45,662
+[Alexis] Ha condotto uno studio dove
+
+1157
+00:52:45,704 --> 00:52:48,081
+analizza tutti
+i dati della Blockchain
+
+1158
+00:52:48,123 --> 00:52:50,625
+dei primi
+due anni di Bitcoin,
+
+1159
+00:52:50,667 --> 00:52:52,711
+quindi dal
+2009 al 2011 circa.
+
+1160
+00:52:52,752 --> 00:52:56,840
+È stata in grado di determinare
+che tutto si riduce
+
+1161
+00:52:56,882 --> 00:52:58,967
+a circa 64 attori principali
+
+1162
+00:52:59,009 --> 00:53:02,012
+che facevano Mining di Bitcoin
+in quel primo blocco temporale.
+
+1163
+00:53:02,053 --> 00:53:04,556
+Potrebbe essere
+una buona persona con cui parlare.
+
+1164
+00:53:05,432 --> 00:53:07,225
+Non è propriamente
+una cacciatrice di Satoshi.
+
+1165
+00:53:07,267 --> 00:53:08,935
+Non ha interessi personali in gioco.
+
+1166
+00:53:08,977 --> 00:53:10,729
+[Tyler] Anche se
+passa le sue giornate
+
+1167
+00:53:10,770 --> 00:53:12,898
+immersa
+tra uno e zero,
+
+1168
+00:53:12,939 --> 00:53:16,193
+quello che cerca di capire
+è il comportamento umano.
+
+1169
+00:53:16,234 --> 00:53:18,028
+Quindi Alyssa,
+nel tuo paper originale,
+
+1170
+00:53:18,069 --> 00:53:22,324
+hai fatto delle
+analisi sull'attività di Satoshi.
+
+1171
+00:53:22,365 --> 00:53:25,994
+Puoi spiegarci la metodologia
+riguardante l'attività di Satoshi?
+
+1172
+00:53:26,036 --> 00:53:27,495
+Grazie al nostro collegamento
+degli indirizzi
+
+1173
+00:53:27,537 --> 00:53:29,289
+e alla successiva
+analisi a valle,
+
+1174
+00:53:29,331 --> 00:53:32,167
+abbiamo ottenuto molti
+metadati su Satoshi.
+
+1175
+00:53:32,209 --> 00:53:33,710
+La sua attività di Mining,
+
+1176
+00:53:33,752 --> 00:53:36,338
+i suoi post su Bitcointalk, le sue email.
+
+1177
+00:53:36,379 --> 00:53:38,506
+Tutto questo nell'insieme
+
+1178
+00:53:38,548 --> 00:53:40,342
+può darti
+un'idea dei,
+
+1179
+00:53:40,383 --> 00:53:43,053
+ritmi circadiani digitali
+di qualcuno
+
+1180
+00:53:43,094 --> 00:53:46,181
+e creare essenzialmente
+una sorta di timbracartellini.
+
+1181
+00:53:48,683 --> 00:53:51,394
+E vediamo
+
+1182
+00:53:51,436 --> 00:53:55,065
+il chiaro schema
+di qualcuno che è online,
+
+1183
+00:53:55,106 --> 00:53:58,568
+che lavora molto e poi fa una pausa.
+
+1184
+00:53:58,610 --> 00:54:01,780
+Dalle 22:00 alle 6:00 del mattino,
+e poi torna online.
+
+1185
+00:54:01,821 --> 00:54:04,866
+C'è un orario molto chiaro
+e regolare
+
+1186
+00:54:04,908 --> 00:54:07,619
+in cui non c'è essenzialmente
+alcuna attività da parte di Satoshi.
+
+1187
+00:54:07,661 --> 00:54:09,955
+Quindi nessuno di questi
+è un elemento escludente
+
+1188
+00:54:09,996 --> 00:54:12,249
+per i fusi orari
+del Nord o del Sud America.
+
+1189
+00:54:12,290 --> 00:54:13,959
+Ciò che suggerisce
+
+1190
+00:54:14,000 --> 00:54:17,629
+è che dovresti essere
+un vero caso biologico a parte
+
+1191
+00:54:17,671 --> 00:54:19,547
+se stessi lavorando
+in Corea del Sud,
+
+1192
+00:54:19,589 --> 00:54:21,508
+se stessi lavorando in Giappone
+o in Australia.
+
+1193
+00:54:21,549 --> 00:54:25,512
+Quindi suggerisce che Satoshi
+lavorasse nelle Americhe.
+
+1194
+00:54:25,553 --> 00:54:27,722
+Ci sono molti altri
+Bitcoiners della prima ora
+
+1195
+00:54:27,764 --> 00:54:30,141
+per i quali si può fare
+un'analisi simile.
+
+1196
+00:54:30,183 --> 00:54:33,812
+Quindi abbiamo preso i timestamp
+da, cosa importante,
+
+1197
+00:54:33,853 --> 00:54:35,939
+credo, la LISTSERV di metzdowd,
+
+1198
+00:54:35,981 --> 00:54:39,276
+avevamo l'idea
+che chiunque fosse Satoshi,
+
+1199
+00:54:39,317 --> 00:54:41,486
+Satoshi doveva aver fatto parte
+del server metzdowd
+
+1200
+00:54:41,528 --> 00:54:43,947
+prima della pubblicazione
+del white paper originale.
+
+1201
+00:54:43,989 --> 00:54:46,449
+Quindi abbiamo Len Sassaman,
+
+1202
+00:54:46,491 --> 00:54:49,577
+Hal Finney, Adam Back,
+
+1203
+00:54:49,619 --> 00:54:52,080
+Nick Szabo e Wei Dai.
+
+1204
+00:54:55,041 --> 00:54:56,626
+Il grande insegnamento per me
+è stato quanto
+
+1205
+00:54:56,668 --> 00:54:58,503
+si possano squalificare
+molte di queste persone.
+
+1206
+00:54:58,545 --> 00:55:00,797
+Molte di queste persone
+non mi sembrano Satoshi.
+
+1207
+00:55:00,839 --> 00:55:04,134
+Adam Back, credo, fosse
+in Europa per una parte di questo periodo,
+
+1208
+00:55:04,175 --> 00:55:07,304
+quindi Adam Back va online
+intorno alle 9:00 del mattino
+
+1209
+00:55:07,345 --> 00:55:11,808
+e offline verso le 23:00
+o mezzanotte, ora inglese.
+
+1210
+00:55:11,850 --> 00:55:14,060
+Quindi questo è uno
+dei momenti in cui Satoshi
+
+1211
+00:55:14,102 --> 00:55:15,854
+è completamente offline.
+
+1212
+00:55:15,895 --> 00:55:20,567
+Nick Szabo inizia più o meno
+verso le 19:00
+
+1213
+00:55:20,608 --> 00:55:23,528
+Pacific Time. Posta ancora
+molto verso le 23:00.
+
+1214
+00:55:23,570 --> 00:55:26,448
+Passa molte più
+notti in bianco.
+
+1215
+00:55:26,489 --> 00:55:29,659
+E come Adam Back,
+ha lunghi periodi di attività
+
+1216
+00:55:29,701 --> 00:55:32,370
+mentre Satoshi è quasi
+sempre offline.
+
+1217
+00:55:32,412 --> 00:55:34,539
+Wei Dai è particolarmente
+interessante.
+
+1218
+00:55:34,581 --> 00:55:36,124
+È un vero animale notturno.
+
+1219
+00:55:36,166 --> 00:55:38,918
+Wei Dai posta
+fino a tarda notte,
+
+1220
+00:55:38,960 --> 00:55:40,337
+verso mezzanotte,
+
+1221
+00:55:40,378 --> 00:55:41,713
+l'una del mattino.
+
+1222
+00:55:41,755 --> 00:55:43,173
+Questo non significa
+che Wei Dai non posti
+
+1223
+00:55:43,214 --> 00:55:44,674
+anche durante il giorno,
+
+1224
+00:55:44,716 --> 00:55:46,551
+ma vedere persone attive
+
+1225
+00:55:46,593 --> 00:55:49,054
+nel periodo
+in cui Satoshi era inattivo
+
+1226
+00:55:49,095 --> 00:55:51,306
+è incoerente
+con il profilo temporale
+
+1227
+00:55:51,348 --> 00:55:52,807
+che abbiamo di Satoshi.
+
+1228
+00:55:52,849 --> 00:55:55,477
+Quindi, basandosi solo
+su queste prove,
+
+1229
+00:55:55,518 --> 00:55:57,145
+tre di questi uomini, per me,
+
+1230
+00:55:57,187 --> 00:55:59,731
+è inconcepibile
+che siano Satoshi.
+
+1231
+00:55:59,773 --> 00:56:01,066
+E chi sono?
+
+1232
+00:56:01,107 --> 00:56:03,526
+Adam Back,
+Nick Szabo e Wei Dai.
+
+1233
+00:56:03,568 --> 00:56:05,737
+Quindi possiamo escluderli
+in base alla tua analisi?
+
+1234
+00:56:05,779 --> 00:56:08,740
+Io li squalificherei
+in base a questa analisi.
+
+1235
+00:56:10,950 --> 00:56:12,744
+[Bird] Quindi essenzialmente,
+senza sapere
+
+1236
+00:56:12,786 --> 00:56:14,954
+chi siano queste persone
+nella vita reale,
+
+1237
+00:56:14,996 --> 00:56:17,290
+sta dicendo che
+la loro attività online
+
+1238
+00:56:17,332 --> 00:56:19,667
+è la più vicina a quella di Satoshi.
+
+1239
+00:56:19,709 --> 00:56:21,628
+Poteva escludere...
+
+1240
+00:56:22,879 --> 00:56:27,133
+Nick Szabo, Wei Dai
+e Adam Back
+
+1241
+00:56:27,175 --> 00:56:30,178
+come candidati per Satoshi.
+[Bill] Ci può stare.
+
+1242
+00:56:30,220 --> 00:56:31,596
+[Tyler] E ti dirò perché
+questo è
+
+1243
+00:56:31,638 --> 00:56:33,139
+incredibilmente convincente per me,
+
+1244
+00:56:33,181 --> 00:56:35,016
+perché Alyssa
+non ha interessi personali in gioco.
+
+1245
+00:56:35,058 --> 00:56:36,518
+Non è una crittografa.
+
+1246
+00:56:36,559 --> 00:56:38,311
+[Bill] Sa almeno chi sono
+queste persone?
+
+1247
+00:56:38,353 --> 00:56:40,605
+[Tyler] Sa chi sono,
+ma non le conosce.
+
+1248
+00:56:40,647 --> 00:56:42,190
+Non le conosceva.
+
+1249
+00:56:42,232 --> 00:56:45,318
+Le avevo detto:
+"Ecco dei candidati per Satoshi.
+
+1250
+00:56:45,360 --> 00:56:47,570
+Potresti confrontarli
+con l'attività di Satoshi?"
+
+1251
+00:56:47,612 --> 00:56:49,489
+E lei mi ha detto...
+
+1252
+00:56:49,531 --> 00:56:50,949
+Se dovessi chiedermi
+
+1253
+00:56:50,990 --> 00:56:52,784
+qualitativamente
+quale di queste persone
+
+1254
+00:56:52,826 --> 00:56:54,369
+assomigli di più a Satoshi,
+
+1255
+00:56:54,411 --> 00:56:56,413
+la mia risposta sarebbe Hal Finney
+e Len Sassaman.
+
+1256
+00:56:57,831 --> 00:56:59,999
+I loro profili temporali
+sembrano più simili
+
+1257
+00:57:00,041 --> 00:57:01,751
+a quello di Satoshi rispetto agli altri tre.
+
+1258
+00:57:03,211 --> 00:57:04,879
+[Tyler] Questa non è
+l'analisi definitiva
+
+1259
+00:57:04,921 --> 00:57:07,215
+dei dati
+dell'intero progetto.
+
+1260
+00:57:07,257 --> 00:57:09,926
+È un'analisi fatta
+da un osservatore neutrale.
+
+1261
+00:57:09,968 --> 00:57:12,637
+E poi nessun set di dati
+sarà mai perfetto.
+
+1262
+00:57:12,679 --> 00:57:14,722
+[Tyler] Giusto.
+È un buon punto.
+
+1263
+00:57:14,764 --> 00:57:18,393
+È stato eccitante che Alyssa
+abbia ristretto il nostro bacino di candidati,
+
+1264
+00:57:18,435 --> 00:57:20,603
+ma avevo i miei dubbi
+su Len Sassaman.
+
+1265
+00:57:21,813 --> 00:57:24,649
+Una cosa che mi preoccupava
+era che avesse la propensione
+
+1266
+00:57:24,691 --> 00:57:26,526
+a criticare pubblicamente Bitcoin.
+
+1267
+00:57:29,487 --> 00:57:30,697
+Se Len fosse stato Satoshi,
+
+1268
+00:57:30,738 --> 00:57:33,032
+perché avrebbe dovuto criticare
+la sua stessa creazione?
+
+1269
+00:57:33,074 --> 00:57:34,367
+Nulla di tutto questo
+lo esclude,
+
+1270
+00:57:34,409 --> 00:57:36,119
+ma non sembra coerente
+
+1271
+00:57:36,161 --> 00:57:39,456
+con altri scritti e comportamenti
+di Satoshi.
+
+1272
+00:57:39,956 --> 00:57:43,084
+Quindi, vogliamo esporre
+le prove più persuasive
+
+1273
+00:57:43,126 --> 00:57:45,837
+che abbiamo finora
+che puntano a Hal Finney.
+
+1274
+00:57:47,589 --> 00:57:50,341
+La prima è che
+Hal ha creato RPOW,
+
+1275
+00:57:50,383 --> 00:57:52,844
+uno dei precursori
+di Bitcoin.
+
+1276
+00:57:52,886 --> 00:57:55,930
+[Will] Quando guardi il codice
+di RPOW, quando lo apri,
+
+1277
+00:57:55,972 --> 00:57:59,100
+puoi riconoscere
+Hal istantaneamente.
+
+1278
+00:57:59,142 --> 00:58:00,810
+Voglio dire, dalla forma
+degli header
+
+1279
+00:58:00,852 --> 00:58:02,145
+a quello che mette nel--
+
+1280
+00:58:02,187 --> 00:58:04,397
+Voglio dire, è-- Quando passi 15 anni,
+
+1281
+00:58:04,439 --> 00:58:07,233
+e Hal è il tuo dipendente
+che scrive codice frequentemente,
+
+1282
+00:58:07,275 --> 00:58:09,110
+e apri il suo codice
+tutto il tempo,
+
+1283
+00:58:09,152 --> 00:58:11,029
+e vedi questo
+quotidianamente,
+
+1284
+00:58:11,070 --> 00:58:13,615
+dici semplicemente:
+"Oh, okay, questo è il codice di Hal."
+
+1285
+00:58:13,656 --> 00:58:15,158
+Quando guardi tutte le cose
+
+1286
+00:58:15,200 --> 00:58:16,951
+accreditate nel white paper
+di Bitcoin,
+
+1287
+00:58:16,993 --> 00:58:19,621
+B-money, Bit Gold,
+eccetera, eccetera,
+
+1288
+00:58:19,662 --> 00:58:21,080
+sai cosa non è accreditato?
+
+1289
+00:58:22,457 --> 00:58:23,500
+RPOW.
+
+1290
+00:58:23,541 --> 00:58:26,002
+L'RPOW di Hal Finney, che è quanto di più
+
+1291
+00:58:26,044 --> 00:58:29,130
+vicino a Bitcoin
+possa esistere.
+
+1292
+00:58:29,839 --> 00:58:31,257
+Perché mai?
+
+1293
+00:58:31,716 --> 00:58:33,551
+[Tyler] Hal è stata la prima persona
+
+1294
+00:58:33,593 --> 00:58:37,013
+a ricevere monete
+direttamente da Satoshi.
+
+1295
+00:58:37,055 --> 00:58:38,806
+Quindi questo lo colloca
+proprio all'inizio.
+
+1296
+00:58:38,848 --> 00:58:41,392
+È lì al Big Bang,
+essenzialmente.
+
+1297
+00:58:42,560 --> 00:58:44,562
+L'altra cosa è che Hal,
+
+1298
+00:58:44,604 --> 00:58:47,440
+avendo lavorato alla PGP,
+ha visto cosa ha passato Phil Zimmermann
+
+1299
+00:58:47,482 --> 00:58:49,234
+quando il governo lo ha perseguitato
+
+1300
+00:58:49,275 --> 00:58:50,777
+per aver rilasciato il codice.
+
+1301
+00:58:50,818 --> 00:58:53,905
+Seduti qui anni dopo,
+guardando indietro,
+
+1302
+00:58:53,947 --> 00:58:57,283
+forse all'epoca
+Satoshi potrebbe
+
+1303
+00:58:57,325 --> 00:59:00,411
+essersi preoccupato
+che i governi lo perseguitassero
+
+1304
+00:59:00,453 --> 00:59:03,122
+perché aveva visto i governi
+perseguitare me.
+
+1305
+00:59:03,164 --> 00:59:06,626
+E certamente non voleva
+essere trattato come Phil.
+
+1306
+00:59:07,168 --> 00:59:09,963
+[Tyler] Inoltre, aveva
+l'esperienza e l'interesse,
+
+1307
+00:59:10,004 --> 00:59:11,881
+fin dagli anni '90,
+
+1308
+00:59:11,923 --> 00:59:16,386
+scriveva di come proteggere la
+privacy usando il contante digitale.
+
+1309
+00:59:16,427 --> 00:59:18,346
+Tyler e io abbiamo capito subito
+
+1310
+00:59:18,388 --> 00:59:20,390
+che c'era
+un'ovvia incongruenza
+
+1311
+00:59:20,431 --> 00:59:23,226
+con la teoria
+che Hal Finney fosse Satoshi.
+
+1312
+00:59:23,268 --> 00:59:26,437
+Non è un autore accademico.
+È conosciuto come coder.
+
+1313
+00:59:26,479 --> 00:59:30,525
+Il white paper era ovviamente
+un documento accademico.
+
+1314
+00:59:30,567 --> 00:59:33,027
+Il white paper è
+scritto in un certo modo,
+
+1315
+00:59:33,069 --> 00:59:35,446
+tipico di qualcuno
+che scrive paper scientifici.
+
+1316
+00:59:35,488 --> 00:59:37,031
+E quello non è Hal.
+
+1317
+00:59:37,073 --> 00:59:38,533
+Dissi a Will Price:
+
+1318
+00:59:38,575 --> 00:59:41,327
+"Sosterrò
+la tesi contro Hal Finney."
+
+1319
+00:59:41,369 --> 00:59:42,870
+Ancora una volta, Will Price è il suo capo.
+
+1320
+00:59:42,912 --> 00:59:45,164
+È lui che gli assegnava
+il codice da scrivere.
+
+1321
+00:59:45,206 --> 00:59:47,083
+E Will disse qualcosa
+del tipo...
+
+1322
+00:59:47,125 --> 00:59:48,209
+"Buona fortuna."
+
+1323
+00:59:49,335 --> 00:59:51,254
+[Tyler] E uno dei miei
+primi punti fu
+
+1324
+00:59:51,296 --> 00:59:53,339
+che Hal non programmasse in C++,
+
+1325
+00:59:53,381 --> 00:59:55,008
+e Will mi ha riso in faccia.
+
+1326
+00:59:55,049 --> 00:59:57,594
+Voglio dire, per un ingegnere
+del calibro di Hal,
+
+1327
+00:59:57,635 --> 01:00:02,599
+un linguaggio diverso è come--
+scegliere tra pollo o bistecca.
+
+1328
+01:00:02,640 --> 01:00:04,350
+Non ha importanza,
+
+1329
+01:00:04,392 --> 01:00:07,937
+e può cambiare
+linguaggio in poche ore.
+
+1330
+01:00:07,979 --> 01:00:09,814
+Proprio come il tweet che ha inviato
+
+1331
+01:00:09,856 --> 01:00:12,483
+nel dicembre 2008, in cui
+diceva: "Sto imparando Haskell."
+
+1332
+01:00:12,525 --> 01:00:15,153
+Un linguaggio oscuro
+che nessuno conosce.
+
+1333
+01:00:15,194 --> 01:00:16,654
+Capito? Questo è il tipo
+di cose che faceva Hal.
+
+1334
+01:00:16,696 --> 01:00:19,198
+Semplicemente ne imparava uno nuovo.
+Chiaro?
+
+1335
+01:00:19,240 --> 01:00:21,284
+Stava già lavorando
+
+1336
+01:00:21,326 --> 01:00:24,120
+su Windows con C++
+per i suoi compiti di lavoro.
+
+1337
+01:00:24,162 --> 01:00:25,747
+Aspetta, aspetta, aspetta.
+
+1338
+01:00:25,788 --> 01:00:30,168
+Mi hai detto prima
+che non programmava in C++.
+
+1339
+01:00:30,209 --> 01:00:32,962
+Non era noto come coder C++.
+Proprio così.
+
+1340
+01:00:33,004 --> 01:00:34,505
+-Quella era la nostra ipotesi.
+-E ora--
+
+1341
+01:00:34,547 --> 01:00:37,759
+E ora mi stai dicendo
+che programmava in C++?
+
+1342
+01:00:37,800 --> 01:00:39,886
+Beh, ora ti dico che il suo capo,
+
+1343
+01:00:39,927 --> 01:00:41,554
+la persona a cui consegnava
+
+1344
+01:00:41,596 --> 01:00:43,014
+il suo codice una volta scritto,
+
+1345
+01:00:43,056 --> 01:00:45,683
+mi ha confermato
+che scriveva in C++.
+
+1346
+01:00:45,725 --> 01:00:48,436
+E uno dei punti di Will
+sembrava essere
+
+1347
+01:00:48,478 --> 01:00:51,522
+che avesse usato intenzionalmente il C++,
+
+1348
+01:00:51,564 --> 01:00:55,151
+un linguaggio che non era
+noto pubblicamente usasse,
+
+1349
+01:00:55,193 --> 01:00:57,695
+perché gli forniva
+un'ulteriore copertura.
+
+1350
+01:00:57,737 --> 00:58:59,447
+All'inizio
+della nostra indagine,
+
+1351
+00:58:59,489 --> 01:01:01,074
+abbiamo parlato di quale fosse
+
+1352
+01:01:01,115 --> 01:01:03,743
+la migliore prova che potessimo
+raccogliere qui.
+
+1353
+01:01:03,785 --> 01:01:06,371
+E una di queste idee era vedere
+
+1354
+01:01:06,412 --> 01:01:08,790
+se ci fosse un modo per trovare Satoshi
+
+1355
+01:01:08,831 --> 01:01:10,833
+e fargli spostare
+o trasferire
+
+1356
+01:01:10,875 --> 01:01:14,128
+o spendere un blocco o un Bitcoin.
+
+1357
+01:01:14,170 --> 01:01:15,463
+Non possiamo farlo.
+
+1358
+01:01:15,505 --> 01:01:18,424
+Mi chiamo Hal Finney.
+
+1359
+01:01:18,466 --> 01:01:23,054
+Sto facendo questa registrazione
+per diversi motivi.
+
+1360
+01:01:23,096 --> 01:01:26,641
+Soprattutto perché voglio
+che le persone in futuro
+
+1361
+01:01:26,683 --> 01:01:29,060
+possano ascoltare la mia voce
+
+1362
+01:01:29,102 --> 01:01:32,563
+e forse qualcosa della mia storia.
+
+1363
+01:01:32,605 --> 01:01:33,690
+Uhm...
+
+1364
+01:01:33,731 --> 01:01:38,778
+Sei mesi fa mi è stata
+diagnosticata la SLA.
+
+1365
+01:01:38,820 --> 01:01:41,823
+E di conseguenza,
+
+1366
+01:01:41,864 --> 01:01:46,119
+perderò
+la capacità di parlare.
+
+1367
+01:01:48,496 --> 01:01:51,249
+[Jon] Mentre la sua
+salute peggiorava,
+
+1368
+01:01:51,290 --> 01:01:55,044
+era straordinariamente
+ottimista su tutto.
+
+1369
+01:01:55,086 --> 01:01:57,130
+Almeno con noi
+
+1370
+01:01:57,171 --> 01:01:58,715
+che eravamo suoi
+amici e colleghi.
+
+1371
+01:01:58,756 --> 01:02:00,425
+E anche l'ultima volta
+
+1372
+01:02:00,466 --> 01:02:03,177
+che l'ho visitato a casa sua
+
+1373
+01:02:03,219 --> 01:02:05,596
+e ne abbiamo parlato, mi ha detto:
+
+1374
+01:02:05,638 --> 01:02:07,765
+"Riesco a guardare
+tutti i film
+
+1375
+01:02:07,807 --> 01:02:09,934
+per i quali non avevo
+mai avuto tempo prima.
+
+1376
+01:02:09,976 --> 01:02:12,520
+Posso pensare a cose
+a cui non ho mai avuto tempo
+
+1377
+01:02:12,562 --> 01:02:13,938
+di pensare prima."
+
+1378
+01:02:14,772 --> 01:02:17,525
+Hal ha registrato,
+mentre perdeva la voce,
+
+1379
+01:02:17,567 --> 01:02:20,027
+4000 frasi nel corso di tre settimane,
+
+1380
+01:02:20,069 --> 01:02:22,405
+così che la voce del computer
+che usava
+
+1381
+01:02:22,447 --> 01:02:25,575
+quando non era più in grado
+di parlare
+
+1382
+01:02:25,616 --> 01:02:30,121
+fosse derivata dalla sua vera voce.
+
+1383
+01:02:31,539 --> 01:02:34,333
+[Tyler] Un paio di mesi
+prima della morte di Hal,
+
+1384
+01:02:34,375 --> 01:02:36,002
+la famiglia è stata vittima di swatting.
+
+1385
+01:02:36,043 --> 01:02:39,005
+Quegli anni sono stati
+molto traumatici.
+
+1386
+01:02:39,046 --> 01:02:41,632
+E proprio alla fine,
+
+1387
+01:02:41,674 --> 01:02:44,302
+quando ormai era
+solo un corpo,
+
+1388
+01:02:44,343 --> 01:02:47,430
+provava dolore e poteva dire solo sì o no,
+
+1389
+01:02:47,472 --> 01:02:50,099
+fu allora che iniziammo
+a ricevere minacce,
+
+1390
+01:02:50,141 --> 01:02:55,605
+e persone che cercavano
+di estorcerci Bitcoin.
+
+1391
+01:02:55,646 --> 01:02:59,025
+Qualcuno fece una chiamata
+falsa al 911,
+
+1392
+01:02:59,066 --> 01:03:01,486
+fingendo che un crimine orribile
+
+1393
+01:03:01,527 --> 01:03:04,030
+fosse in corso
+in casa Finney.
+
+1394
+01:03:04,071 --> 01:03:05,740
+Diedero
+l'indirizzo alla polizia,
+
+1395
+01:03:05,782 --> 01:03:07,950
+e la squadra SWAT
+piombò da loro.
+
+1396
+01:03:07,992 --> 01:03:10,578
+E Hal stava facendo
+il bagno in quel momento,
+
+1397
+01:03:10,620 --> 01:03:12,663
+e non era in grado di camminare.
+
+1398
+01:03:12,705 --> 01:03:14,749
+Dovettero portare
+Hal e sua moglie
+
+1399
+01:03:14,791 --> 01:03:17,210
+fuori sul prato davanti a casa.
+
+1400
+01:03:17,251 --> 01:03:20,087
+Fu orribile. E una volta
+finito tutto,
+
+1401
+01:03:20,129 --> 01:03:23,591
+il tizio che l'aveva fatto
+ci chiamò di nuovo e disse:
+
+1402
+01:03:23,633 --> 01:03:25,593
+"Continuerò a farvi
+queste cose
+
+1403
+01:03:25,635 --> 01:03:28,054
+finché tuo marito non morirà."
+
+1404
+01:03:28,679 --> 01:03:31,224
+E circa tre anni dopo,
+lo hanno trovato.
+
+1405
+01:03:37,772 --> 01:03:39,357
+[Max] Siamo qui alla Alcor
+
+1406
+01:03:39,398 --> 01:03:42,109
+perché Hal Finney è stato a lungo
+un membro della Alcor.
+
+1407
+01:03:42,151 --> 01:03:44,779
+E nel 2014 lo abbiamo criopreservato
+
+1408
+01:03:44,821 --> 01:03:47,532
+dopo la sua lunga
+lotta contro la SLA.
+
+1409
+01:03:47,573 --> 01:03:48,908
+In realtà lo ha fatto
+nel modo corretto.
+
+1410
+01:03:48,950 --> 01:03:50,284
+Si è trasferito qui dalla sua casa
+
+1411
+01:03:50,326 --> 01:03:52,286
+in California
+a un ospizio locale,
+
+1412
+01:03:52,328 --> 01:03:53,704
+ed eravamo proprio al suo capezzale
+
+1413
+01:03:53,746 --> 01:03:55,122
+così da poter iniziare la procedura
+
+1414
+01:03:55,164 --> 01:03:56,749
+immediatamente dopo che la
+morte legale fosse dichiarata,
+
+1415
+01:03:56,791 --> 01:03:57,875
+che è il modo giusto di farlo.
+
+1416
+01:04:00,211 --> 01:04:02,463
+Circa metà dei nostri membri,
+me incluso,
+
+1417
+01:04:02,505 --> 01:04:04,423
+hanno scelto di criopreservare
+solo il cervello.
+
+1418
+01:04:04,465 --> 01:04:06,133
+Eseguiamo una separazione chirurgica
+
+1419
+01:04:06,175 --> 01:04:08,135
+poche vertebre più in basso
+per includere la parte superiore della colonna.
+
+1420
+01:04:08,177 --> 01:04:10,596
+Prenderemo il cefalo,
+il cervello più il cranio,
+
+1421
+01:04:10,638 --> 01:04:12,932
+lo metteremo capovolto in questo anello,
+lo fisseremo
+
+1422
+01:04:12,974 --> 01:04:14,684
+finché il cervello
+non sarà effettivamente deidratato
+
+1423
+01:04:14,725 --> 01:04:16,477
+e avrà assorbito la nostra
+soluzione crioprotettiva
+
+1424
+01:04:16,519 --> 01:04:17,979
+per proteggere le cellule cerebrali.
+
+1425
+01:04:18,020 --> 01:04:20,106
+Hal Finney ha ricevuto una
+criopreservazione eccellente.
+
+1426
+01:04:20,147 --> 01:04:21,816
+Quindi penso
+che ci sia un'ottima possibilità
+
+1427
+01:04:21,858 --> 01:04:23,734
+che riusciremo a riportarlo
+indietro con il cervello intatto.
+
+1428
+01:04:25,611 --> 01:04:27,947
+[Tyler] Poiché il nostro
+candidato principale è Hal Finney,
+
+1429
+01:04:27,989 --> 01:04:30,324
+e sappiamo che Hal Finney
+non è più tra noi,
+
+1430
+01:04:30,366 --> 01:04:33,870
+il nostro obiettivo è raccogliere
+altre prove su di lui.
+
+1431
+01:04:33,911 --> 01:04:35,872
+E uno dei modi
+in cui vogliamo farlo
+
+1432
+01:04:35,913 --> 01:04:37,790
+è riunire tutti gli ex colleghi
+della PGP
+
+1433
+01:04:37,832 --> 01:04:39,458
+che ci hanno già parlato
+
+1434
+01:04:39,500 --> 01:04:41,919
+in una sola stanza
+e intervistarli di nuovo.
+
+1435
+01:04:41,961 --> 01:04:44,630
+Permetterebbe loro
+non solo di parlare con noi,
+
+1436
+01:04:44,672 --> 01:04:46,632
+ma di parlare tra di loro.
+
+1437
+01:04:46,674 --> 01:04:48,342
+Penso sia un'ottima idea.
+
+1438
+01:04:56,225 --> 01:04:57,977
+[Tyler] Ero eccitato
+per questo incontro
+
+1439
+01:04:58,019 --> 01:04:59,562
+perché queste persone
+non hanno mai
+
+1440
+01:05:01,604 --> 01:05:01,606
+parlato pubblicamente come gruppo,
+
+1441
+01:05:01,647 --> 01:05:03,983
+e speravo
+che una volta insieme,
+
+1442
+01:05:04,025 --> 01:05:05,526
+si sarebbero sentiti
+abbastanza a proprio agio
+
+1443
+01:05:05,568 --> 01:05:08,029
+da rivelare cose
+che non avrebbero detto in un colloquio privato.
+
+1444
+01:05:08,070 --> 01:05:09,530
+Quindi inizierò con un ringraziamento,
+
+1445
+01:05:09,572 --> 01:05:11,032
+perché finirò
+con un ringraziamento,
+
+1446
+01:05:11,073 --> 01:05:12,658
+ma voglio assicurarmi
+che capiate che
+
+1447
+01:05:12,700 --> 01:05:14,493
+apprezzo davvero molto
+che siate tutti qui.
+
+1448
+01:05:14,535 --> 01:05:16,913
+Potete parlarmi un po'
+di Hal Finney,
+
+1449
+01:05:16,954 --> 01:05:18,789
+di quello che
+ricordate di lui
+
+1450
+01:05:18,831 --> 01:05:20,458
+e di qualche aneddoto?
+
+1451
+01:05:20,499 --> 01:05:24,128
+Era molto, molto
+gentile, e molto, molto intelligente.
+
+1452
+01:05:25,463 --> 01:05:27,673
+Mi è sempre sembrato
+molto pratico.
+
+1453
+01:05:27,715 --> 01:05:30,134
+Era in un certo senso altruista,
+
+1454
+01:05:30,176 --> 01:05:32,845
+per il lavoro fatto su PGP
+e quello nel campo crypto
+
+1455
+01:05:32,887 --> 01:05:34,388
+e della privacy in generale.
+
+1456
+01:05:34,430 --> 01:05:36,766
+Voglio dire, era un uomo
+che aveva una missione,
+
+1457
+01:05:36,807 --> 01:05:38,935
+ed era importante per lui
+avere una missione.
+
+1458
+01:05:38,976 --> 01:05:40,144
+E voleva
+cambiare il mondo,
+
+1459
+01:05:40,186 --> 01:05:41,604
+e voleva lasciare un'eredità.
+
+1460
+01:05:41,646 --> 01:05:45,316
+È davvero importante
+per noi capire
+
+1461
+01:05:45,358 --> 01:05:50,446
+che Hal era la persona silenziosa,
+dietro le quinte,
+
+1462
+01:05:50,488 --> 01:05:54,241
+dietro a moltissimo
+di ciò che abbiamo oggi.
+
+1463
+01:06:00,000 --> 01:05:55,743
+Will, puoi parlarmi del ruolo
+di Hal alla PGP?
+
+1464
+01:06:00,041 --> 01:06:05,503
+Il ruolo di Hal era quello
+di senior fellow cryptographer.
+
+1465
+01:06:02,041 --> 01:06:05,503
+E spesso
+sceglieva semplicemente
+
+1466
+01:06:05,544 --> 01:06:09,298
+cosa voleva fare in base a
+ciò che accadeva nel mondo.
+
+1467
+01:06:09,340 --> 01:06:12,134
+Hal faceva delle cose parallelamente.
+
+1468
+01:06:12,176 --> 01:06:14,887
+Nel 2004
+c'è stato RPOW,
+
+1469
+01:06:14,929 --> 01:06:16,847
+e il mondo di RPOW,
+
+1470
+01:06:16,889 --> 01:06:19,976
+e Hal disse che quello
+è stato il periodo in cui si è divertito di più.
+
+1471
+01:07:00,000 --> 01:06:22,228
+E a partire
+dal 2008 circa,
+
+1472
+01:06:22,269 --> 01:06:25,314
+c'era la sensazione che avessimo
+esaurito le cose da fare,
+
+1473
+01:06:25,356 --> 01:06:26,857
+e l'azienda stava
+avendo dei problemi.
+
+1474
+01:06:26,899 --> 01:06:29,860
+"Perché non continui
+a lavorare su RPOW?"
+
+1475
+01:06:29,902 --> 01:06:32,947
+E, sai, penso sia
+esattamente quello che è successo.
+
+1476
+01:06:32,989 --> 01:06:34,532
+[Tyler] E per RPOW intendi
+
+1477
+01:06:34,573 --> 01:06:36,158
+essenzialmente
+un precursore di Bitcoin,
+
+1478
+01:06:36,200 --> 01:06:38,327
+una versione di contante elettronico.
+
+1479
+01:06:38,369 --> 01:06:39,787
+E sapevi che Hal
+ci stava lavorando
+
+1480
+01:06:39,829 --> 01:06:42,873
+nel periodo 2007-2008?
+[Olivia] Sì.
+
+1481
+01:06:42,915 --> 01:06:46,168
+Ti ha mai detto
+che stava lavorando a Bitcoin?
+
+1482
+01:06:46,210 --> 01:06:47,378
+[Olivia] Mai usata la parola Bitcoin.
+
+1483
+01:06:47,420 --> 01:06:49,088
+Era più la filosofia,
+
+1484
+01:06:49,130 --> 01:06:51,674
+quello che cercava
+di ottenere, almeno per quanto mi riguarda.
+
+1485
+01:06:51,716 --> 01:06:53,009
+Nel nostro mondo, ogni progetto
+
+1486
+01:06:53,050 --> 01:06:54,802
+prima di essere rilasciato
+ha un nome in codice.
+
+1487
+01:06:54,844 --> 01:06:59,515
+Quindi non parlavi delle cose
+non con il loro nome di rilascio,
+
+1488
+01:06:59,557 --> 01:07:03,352
+ma di quello che stavano facendo
+o con qualche altro riferimento.
+
+1489
+01:07:03,394 --> 01:07:06,856
+Quindi non dicevamo Bitcoin.
+
+1490
+01:07:07,481 --> 01:07:08,816
+C'è un buco di due mesi
+
+1491
+01:07:08,858 --> 01:07:12,945
+dal 31/10/08
+fino ai primi di gennaio,
+
+1492
+01:07:12,987 --> 01:07:14,739
+in cui Hal non ha effettuato commit.
+
+1493
+01:07:14,780 --> 01:07:16,449
+Sapevamo quale fosse il suo compito.
+
+1494
+01:07:16,490 --> 01:07:18,159
+Inviava aggiornamenti settimanali,
+ed è--
+
+1495
+01:07:18,200 --> 01:07:19,660
+sapete, diceva cose come,
+
+1496
+01:07:19,702 --> 01:07:21,287
+sapete,
+"Sto ancora lavorando alla mia tecnologia
+
+1497
+01:07:21,328 --> 01:07:23,205
+di impronte digitali per Windows".
+
+1498
+01:07:23,247 --> 01:07:25,875
+Quindi stava lavorando
+in C++ su Windows,
+
+1499
+01:07:25,916 --> 01:07:28,961
+che è il linguaggio con cui
+è scritto Bitcoin.
+
+1500
+01:07:29,003 --> 01:07:31,839
+Cosa stava succedendo
+in quei due mesi?
+
+1501
+01:07:31,881 --> 01:07:34,216
+Gli ultimi due mesi
+prima del rilascio
+
+1502
+01:07:34,258 --> 01:07:36,761
+del codice sorgente di Bitcoin,
+
+1503
+01:07:36,802 --> 01:07:41,515
+Hal non fece alcun commit
+al codice sorgente a lavoro.
+
+1504
+01:07:41,557 --> 01:07:45,102
+Su cosa stava lavorando?
+Penso fosse Bitcoin.
+
+1505
+01:07:46,187 --> 01:07:47,980
+E così abbiamo Hal,
+
+1506
+01:07:48,022 --> 01:07:52,735
+che ha chiaramente le conoscenze
+di quel ristretto gruppo
+
+1507
+01:07:52,777 --> 01:07:55,905
+di esperti mondiali di crittografia
+per il contante digitale,
+
+1508
+01:07:55,946 --> 01:07:57,573
+che potrebbero probabilmente
+stare attorno a un tavolo
+
+1509
+01:07:57,615 --> 01:07:59,450
+non molto più grande di questo,
+
+1510
+01:07:59,492 --> 01:08:01,494
+e se poi restringiamo
+il campo alle persone
+
+1511
+01:08:01,535 --> 01:08:03,079
+con decenni di esperienza
+
+1512
+01:08:03,120 --> 01:08:04,997
+nella scrittura di quel
+tipo di codice sicuro.
+
+1513
+01:08:06,082 --> 01:08:09,668
+Ti ritroveresti a tavola
+solo con Hal.
+
+1514
+01:08:10,753 --> 01:08:14,090
+[Jon] Quando era confinato
+su una sedia a rotelle,
+
+1515
+01:08:14,131 --> 01:08:16,467
+io e Phil dicemmo
+che saremmo dovuti andare a trovarlo.
+
+1516
+01:08:16,509 --> 01:08:17,927
+E così facemmo un viaggio in auto.
+
+1517
+01:08:19,095 --> 01:08:22,473
+Gli chiesi: "Sei tu Satoshi?"
+
+1518
+01:08:22,515 --> 01:08:25,392
+E la sua risposta fu:
+
+1519
+01:08:25,434 --> 01:08:30,648
+"Perché dovrei negare
+di essere Satoshi, se lo fossi,
+
+1520
+01:08:30,689 --> 01:08:33,984
+avendo una malattia terminale?
+
+1521
+01:08:34,026 --> 01:08:37,696
+E, sapete, non c'è alcuna ragione
+al mondo per negarlo
+
+1522
+01:08:37,738 --> 01:08:42,076
+dato che non ci sarò più
+tra due o tre anni, quindi...
+
+1523
+01:08:42,118 --> 01:08:43,953
+Ma no, non sono io".
+
+1524
+01:08:43,994 --> 01:08:47,957
+All'epoca, la interpretai
+come una non-negazione
+
+1525
+01:08:47,998 --> 01:08:50,501
+e la interpretai come un sì.
+
+1526
+01:08:50,543 --> 01:08:54,088
+Ma è ragionevole che Hal
+te lo abbia negato.
+
+1527
+01:08:54,130 --> 01:08:56,298
+-Corretto?
+-Certo. Certo.
+
+1528
+01:08:56,340 --> 01:08:57,591
+Anzi, sarebbe
+stato coerente
+
+1529
+01:08:57,633 --> 01:08:59,510
+con la sua personalità negarlo.
+
+1530
+01:08:59,552 --> 01:09:01,303
+Non so perché
+dovresti fare lo sforzo
+
+1531
+01:09:01,345 --> 01:09:03,055
+di rendere tutto anonimo,
+
+1532
+01:09:03,097 --> 01:09:06,433
+creare uno pseudonimo,
+fare tutto questo sforzo,
+
+1533
+01:09:07,351 --> 01:09:10,938
+per poi iniziare a dirlo
+a caso alla gente, giusto?
+
+1534
+01:09:10,980 --> 01:09:12,815
+Voglio dire, è--
+
+1535
+01:09:12,857 --> 01:09:15,651
+O sei coerente su questo
+o non lo sei.
+
+1536
+01:09:16,777 --> 01:09:18,821
+[Tyler] Una delle mie grandi
+conclusioni da questo incontro
+
+1537
+01:09:18,863 --> 01:09:21,365
+è che a queste persone manca Hal.
+
+1538
+01:09:21,407 --> 01:09:23,200
+Rispettano Hal.
+
+1539
+01:09:23,242 --> 01:09:26,871
+Credono che la sua storia
+debba essere finalmente raccontata.
+
+1540
+01:09:26,912 --> 01:09:29,123
+Cosa provi
+vedendo questo?
+
+1541
+01:09:29,165 --> 01:09:30,499
+Bei ricordi.
+
+1542
+01:09:31,625 --> 01:09:33,377
+E anche tristezza per Hal.
+
+1543
+01:09:40,426 --> 01:09:42,887
+E mi sono messa il mascara.
+Davvero.
+
+1544
+01:09:42,928 --> 01:09:45,055
+Non lo faccio mai.
+[ride]
+
+1545
+01:09:45,097 --> 01:09:46,640
+[Tyler] Vogliono
+che la verità venga fuori.
+
+1546
+01:09:47,725 --> 01:09:49,351
+E sì, forse Satoshi
+non potrà mai effettivamente
+
+1547
+01:09:49,393 --> 01:09:50,978
+muovere un Bitcoin,
+
+1548
+01:09:51,020 --> 01:09:53,981
+ma tre testimoni oculari,
+esperti del settore,
+
+1549
+01:09:54,023 --> 01:09:56,400
+amici di Hal
+che confermano la sua identità,
+
+1550
+01:09:56,442 --> 01:09:58,569
+sembrano delle buone
+prove a sostegno.
+
+1551
+01:09:59,862 --> 01:10:02,114
+A Hal fu dato del tempo libero
+
+1552
+01:10:02,156 --> 01:10:07,369
+tra la fine di ottobre 2008
+e gennaio 2009.
+
+1553
+01:10:07,411 --> 01:10:11,457
+Questo intervallo racchiude il rilascio
+del white paper di Bitcoin
+
+1554
+01:10:11,498 --> 01:10:13,792
+e il rilascio
+del codice di Bitcoin.
+
+1555
+01:10:15,085 --> 01:10:16,795
+È piuttosto incisivo.
+
+1556
+01:10:17,421 --> 01:10:19,423
+[Tyler] Sembrava
+che fossimo più vicini di quanto chiunque
+
+1557
+01:10:19,465 --> 01:10:21,717
+fosse mai arrivato a risolvere
+questo mistero.
+
+1558
+01:10:21,759 --> 01:10:25,429
+Finché non ho aperto la mia email e ho visto
+un articolo con il titolo:
+
+1559
+01:10:25,471 --> 01:10:28,057
+"Hal Finney non era
+Satoshi Nakamoto".
+
+1560
+01:10:30,059 --> 01:10:32,603
+Era stato scritto da un certo
+Jameson Lopp,
+
+1561
+01:10:32,645 --> 01:10:34,647
+che sosteneva di avere
+prove inconfutabili
+
+1562
+01:10:34,688 --> 01:10:37,233
+che Hal Finney
+non fosse Satoshi Nakamoto.
+
+1563
+01:10:38,442 --> 01:10:41,445
+Sono qui perché ho un sacco
+di hobby strani.
+
+1564
+01:10:41,487 --> 01:10:43,197
+E Bitcoin fornisce molti
+
+1565
+01:10:43,239 --> 01:10:45,699
+aspetti interessanti
+per la ricerca.
+
+1566
+01:10:45,741 --> 01:10:48,911
+E come probabilmente molti di voi
+tra il pubblico,
+
+1567
+01:10:48,953 --> 01:10:53,791
+trovo che il mito di Satoshi
+sia un aspetto affascinante.
+
+1568
+01:10:53,832 --> 01:10:55,459
+[Tyler]
+Non avevo mai sentito parlare di Jameson.
+
+1569
+01:10:55,501 --> 01:10:56,794
+Così ho iniziato
+a fare delle ricerche approfondite.
+
+1570
+01:10:56,835 --> 01:10:58,170
+Una delle cose
+che ho imparato è che
+
+1571
+01:10:58,212 --> 01:10:59,922
+aveva subito lo swatting proprio come Hal.
+
+1572
+01:10:59,964 --> 01:11:01,966
+[musica drammatica in sottofondo]
+
+1573
+01:11:07,346 --> 01:11:09,223
+Sono Jameson Lopp,
+e state guardando
+
+1574
+01:11:09,265 --> 01:11:10,724
+Bitcoin Card Talk.
+
+1575
+01:11:10,766 --> 01:11:12,768
+Yippee ki yay, pezzo di merda.
+
+1576
+01:11:13,143 --> 01:11:15,521
+[Tyler] Essendo stato vittima di swatting
+come Hal Finney,
+
+1577
+01:11:15,562 --> 01:11:17,564
+aveva cancellato il suo passato.
+
+1578
+01:11:17,606 --> 01:11:19,817
+Viveva isolato dal mondo.
+
+1579
+01:11:19,858 --> 01:11:21,277
+Accettò di incontrarmi
+
+1580
+01:11:21,318 --> 01:11:23,404
+a condizione
+che fosse da qualche parte
+
+1581
+01:11:23,445 --> 01:11:25,489
+nel nord-est
+degli Stati Uniti,
+
+1582
+01:11:27,574 --> 01:11:29,743
+ma che non potessi
+andare a casa sua
+
+1583
+01:11:29,785 --> 01:11:31,161
+e che non potessi
+andare in alcun luogo
+
+1584
+01:11:31,203 --> 01:11:33,038
+in cui potesse essere rintracciato.
+
+1585
+01:11:33,080 --> 01:11:35,124
+-[uomo] Alza.
+-[donna] Sì, alza lì.
+
+1586
+01:11:35,165 --> 01:11:38,127
+[Tyler] Mi fece tornare in mente
+ciò che Phil Zimmermann mi disse
+
+1587
+01:11:38,168 --> 01:11:39,878
+molti, molti mesi fa,
+
+1588
+01:11:39,920 --> 01:11:42,798
+ovvero che quello che stavo facendo
+poteva essere pericoloso.
+
+1589
+01:11:42,840 --> 01:11:44,425
+Segnale Charlie.
+
+1590
+01:11:44,466 --> 01:11:45,551
+Segnale Bravo.
+
+1591
+01:11:46,885 --> 01:11:48,679
+-L'audio va bene?
+-[uomo] Ottimo.
+
+1592
+01:11:48,721 --> 01:11:50,222
+Okay.
+
+1593
+01:11:50,264 --> 01:11:52,850
+Hai scritto un post recentemente,
+intitolato:
+
+1594
+01:11:52,891 --> 01:11:55,686
+"Hal Finney
+non era Satoshi Nakamoto".
+
+1595
+01:11:55,728 --> 01:11:58,689
+Puoi dirmi perché
+sei arrivato a questa conclusione?
+
+1596
+01:12:03,068 --> 01:12:06,280
+Ricerchiando molta dell'attività
+iniziale di Hal e Satoshi,
+
+1597
+01:12:06,322 --> 01:12:09,950
+ho scoperto diversi
+conflitti differenti
+
+1598
+01:12:09,992 --> 01:12:13,996
+che mostravano che entrambi
+stavano facendo cose
+
+1599
+01:12:14,038 --> 01:12:16,123
+esattamente nello stesso momento
+in cui Hal non avrebbe potuto essere
+
+1600
+01:12:16,165 --> 01:12:18,459
+al computer su internet.
+
+1601
+01:12:18,500 --> 01:12:20,794
+Puoi guidarmi,
+un po' passo dopo passo,
+
+1602
+01:12:20,836 --> 01:12:24,673
+nella tua analisi
+e nelle tue conclusioni?
+
+1603
+01:12:24,715 --> 01:12:26,842
+Beh, qualche anno fa,
+un altro sviluppatore di Bitcoin della prima ora,
+
+1604
+01:12:26,884 --> 01:12:29,386
+Mike Hearn,
+ha rilasciato una serie di email
+
+1605
+01:12:29,428 --> 01:12:31,555
+che erano scambi avvenuti
+nell'arco di diverse settimane
+
+1606
+01:12:31,597 --> 01:12:34,099
+nelle quali Mike
+chiedeva sostanzialmente
+
+1607
+01:12:34,141 --> 01:12:37,186
+a Satoshi domande su Bitcoin.
+
+1608
+01:12:37,227 --> 01:12:39,605
+E quando si guarda
+l'analisi dei timestamp,
+
+1609
+01:12:39,646 --> 01:12:42,524
+ci sono stati diversi
+scambi di email
+
+1610
+01:12:42,566 --> 01:12:45,694
+che sono avvenuti proprio
+mentre Hal Finney
+
+1611
+01:12:45,736 --> 01:12:48,556
+stava dimostrabilmente correndo una gara.
+
+1612
+01:12:48,905 --> 01:12:50,240
+A un certo punto Satoshi dice:
+
+1613
+01:12:50,282 --> 01:12:52,576
+"Ehi, Mike,
+mandami un indirizzo,
+
+1614
+01:12:52,618 --> 01:12:55,496
+ti manderò dei Bitcoin".
+
+1615
+01:12:55,537 --> 01:12:58,290
+E questa transazione
+è sulla Blockchain.
+
+1616
+01:12:58,537 --> 01:12:58,290
+Quindi la cronologia
+sostanzialmente si divide così.
+
+1617
+01:13:00,751 --> 01:13:04,213
+Sapete, ore 8:00,
+Hal inizia a correre.
+
+1618
+01:13:04,254 --> 01:13:05,631
+A un certo punto, tra le 8:25 e le 8:55,
+
+1619
+01:13:05,672 --> 01:13:07,674
+questa transazione Bitcoin
+
+1620
+01:13:07,716 --> 01:13:10,594
+viene trasmessa
+sulla rete.
+
+1621
+01:13:10,636 --> 01:13:11,970
+Alle 9:14, Satoshi risponde.
+
+1622
+01:13:12,012 --> 01:13:14,598
+E poi quattro minuti dopo,
+
+1623
+01:13:14,640 --> 01:13:17,017
+Hal taglia effettivamente
+il traguardo.
+
+1624
+01:13:17,059 --> 01:13:19,603
+E la tua conclusione
+da tutta questa analisi?
+
+1625
+01:13:19,645 --> 01:13:21,814
+Dal semplice fatto
+che non è possibile
+
+1626
+01:13:21,855 --> 01:13:24,274
+essere in due posti
+contemporaneamente,
+
+1627
+01:13:24,316 --> 01:13:26,485
+è molto improbabile
+che Satoshi
+
+1628
+01:13:26,527 --> 01:13:28,612
+e Hal fossero la stessa persona.
+
+1629
+01:13:28,654 --> 01:13:31,740
+[Tyler] Ho fatto fatica
+a conciliare ciò che Jameson Lopp
+
+1630
+01:13:31,825 --> 01:13:36,203
+mi aveva detto con quanto riferito
+dai colleghi della PGP,
+
+1631
+01:13:36,245 --> 01:13:39,623
+perché entrambe le teorie
+sono valide a modo loro.
+
+1632
+01:13:39,665 --> 01:13:41,542
+Hai pensato a spiegazioni
+oltre alla conclusione
+
+1633
+01:13:41,583 --> 01:13:42,876
+secondo cui Hal Finney
+non era Satoshi Nakamoto
+
+1634
+01:13:42,918 --> 01:13:44,503
+basandoti sulla tua ricerca?
+
+1635
+01:13:44,545 --> 01:13:46,839
+[Jameson]
+Una possibile spiegazione
+
+1636
+01:13:46,880 --> 01:13:49,633
+è che Satoshi
+fosse un gruppo di persone.
+
+1637
+01:13:49,675 --> 01:13:53,011
+Se Hal fosse "della partita"
+o meno,
+
+1638
+01:13:53,053 --> 01:13:57,099
+credo che non sarò mai
+in grado di provarlo davvero.
+
+1639
+01:13:57,141 --> 01:13:59,101
+Ma per il rasoio di Occam,
+è difficile mantenere segreti
+
+1640
+01:13:59,143 --> 01:14:00,644
+tra più persone,
+sapete,
+
+1641
+01:14:00,686 --> 01:14:01,812
+a meno che non siano tutte morte.
+
+1642
+01:14:01,854 --> 01:14:03,981
+[Tyler] All'inizio
+ho pensato che Jameson
+
+1643
+01:14:04,022 --> 01:14:06,775
+stesse facendo a pezzi la mia teoria.
+
+1644
+01:14:06,817 --> 01:14:09,945
+Ma poi ho capito
+che mi aveva dato la risposta,
+
+1645
+01:14:09,987 --> 01:14:11,363
+perché Hal Finney non era
+l'unico candidato
+
+1646
+01:14:11,442 --> 01:14:17,327
+a non essere più tra noi.
+
+1647
+01:14:19,580 --> 01:14:22,583
+Ma avevo bisogno
+di più informazioni,
+
+1648
+01:14:22,583 --> 01:14:22,583
+e sapevo esattamente dove andare.
+
+1649
+01:14:34,887 --> 01:14:36,805
+[Tyler] Meredith Patterson
+è una coder che ha lavorato molto
+
+1650
+01:14:36,847 --> 01:14:38,807
+sulla sicurezza informatica,
+
+1651
+01:14:38,849 --> 01:14:41,518
+linguistica e diritti civili.
+
+1652
+01:14:44,313 --> 01:14:46,398
+[Meredith] Ti dispiace
+se fumo mentre giriamo o...
+
+1653
+01:14:46,440 --> 01:14:47,733
+[Tyler] Come preferisci.
+Ma il vero motivo
+per cui volevo parlarle
+
+1654
+01:14:51,069 --> 01:14:53,947
+è che lei è la vedova
+di Len Sassaman.
+
+1655
+01:14:53,989 --> 01:14:56,533
+Grazie per averci permesso
+di invadere casa tua, Meredith.
+
+1656
+01:14:56,575 --> 01:14:59,411
+-[Meredith ride]
+-[Tyler] Lo apprezzo molto.
+-Figurati.
+
+1657
+01:14:59,453 --> 01:15:00,662
+[Tyler] Len era stato
+uno dei nostri candidati principali,
+
+1658
+01:15:02,706 --> 01:15:04,458
+ma non avevamo su di lui
+tante informazioni
+
+1659
+01:15:04,500 --> 01:15:06,126
+quante ne avevamo sugli altri.
+
+1660
+01:15:06,168 --> 01:15:07,878
+Ciò che sapevamo
+è che era un cypherpunk,
+
+1661
+01:15:07,920 --> 01:15:09,880
+un coder e un accademico.
+
+1662
+01:15:09,922 --> 01:15:12,341
+Come dottorando,
+si era concentrato sull'anonimato,
+
+1663
+01:15:12,382 --> 01:15:15,010
+e passava molto tempo
+a scrivere paper di ricerca.
+
+1664
+01:15:15,052 --> 01:15:16,345
+[Will] Quando esamini
+i white paper
+
+1665
+01:15:16,386 --> 01:15:18,764
+di Len Sassaman,
+si capisce che era bravissimo a scriverli.
+
+1666
+01:15:24,937 --> 01:15:26,605
+Si sarebbe davvero curato
+
+1667
+01:15:26,647 --> 01:15:29,691
+di controllare
+ogni riferimento, proprio come hanno fatto.
+
+1668
+01:15:29,733 --> 01:15:31,860
+La precisione
+e la correttezza
+
+1669
+01:15:31,902 --> 01:15:33,529
+di ogni parte
+di quel white paper.
+
+1670
+01:15:33,570 --> 01:15:35,030
+È il tipo di persona
+
+1671
+01:15:35,072 --> 01:15:36,281
+che lo avrebbe revisionato
+a fondo, facendolo bene.
+
+1672
+01:15:37,491 --> 01:15:39,284
+[Tyler] Len viveva anche in Europa
+
+1673
+01:15:39,326 --> 01:15:41,411
+nel periodo
+in cui Satoshi era attivo.
+
+1674
+01:15:41,453 --> 01:15:43,455
+E anche se era americano,
+
+1675
+01:15:43,497 --> 01:15:46,959
+i suoi scritti contenevano spesso
+ortografia e frasi britanniche,
+
+1676
+01:15:47,000 --> 01:15:48,877
+proprio come quelli di Satoshi.
+
+1677
+01:15:48,919 --> 01:15:51,421
+Il suo relatore di dottorato
+era David Chaum, l'inventore di DigiCash
+
+1678
+01:15:51,463 --> 01:15:53,048
+e il padrino
+della valuta digitale.
+
+1679
+01:15:55,759 --> 01:15:58,053
+Potremmo parlare un po' di Len
+come persona?
+
+1680
+01:16:00,180 --> 01:16:02,724
+-Ti dispiace?
+-Certo.
+
+1681
+01:16:02,766 --> 01:16:06,436
+Ci siamo conosciuti alla CodeCon,
+che è la conferenza
+
+1682
+01:16:06,478 --> 01:16:08,772
+che lui e Bram Cohen
+gestivano a San Francisco.
+
+1683
+01:16:08,814 --> 01:16:11,108
+[Len] All'epoca vivevo
+sul suo divano,
+
+1684
+01:16:11,149 --> 01:16:12,568
+e pensai: "Okay, Bram
+sta organizzando una conferenza,
+
+1685
+01:16:12,609 --> 01:16:13,652
+e non credo
+ne abbia mai organizzata una prima.
+
+1686
+01:16:13,694 --> 01:16:14,736
+Quindi forse dovrei
+aiutarlo,
+
+1687
+01:16:14,778 --> 01:16:16,572
+anche se non ho mai
+organizzato
+
+1688
+01:16:16,613 --> 01:16:20,242
+una conferenza nemmeno io".
+
+1689
+01:16:20,284 --> 01:16:22,536
+Sembrava davvero entusiasta
+di tutto ciò
+
+1690
+01:16:22,578 --> 01:16:24,663
+che lo interessava.
+
+1691
+01:16:24,705 --> 01:16:26,290
+È stata una delle prime cose
+che abbiamo entrambi riconosciuto
+
+1692
+01:16:26,331 --> 01:16:28,125
+di avere in comune.
+
+1693
+01:16:28,166 --> 01:16:29,626
+[Tyler] Len, come Hal,
+
+1694
+01:16:29,668 --> 01:16:31,503
+soffriva di condizioni di salute
+orribili e debilitanti.
+
+1695
+01:16:31,545 --> 01:16:34,548
+[Meredith] Stava già
+affrontando il morbo di Crohn,
+
+1696
+01:16:34,590 --> 01:16:39,511
+una grave deplezione di calcio,
+uh, nella colonna vertebrale,
+
+1697
+01:16:39,553 --> 01:16:44,766
+e usava il bastone
+già a 30 anni.
+
+1698
+01:16:44,808 --> 01:16:47,561
+Ricevette i risultati
+
+1699
+01:16:47,603 --> 01:16:50,856
+di un'elettromiografia
+che aveva fatto.
+
+1700
+01:16:50,897 --> 01:16:52,608
+Così è?
+Non so cosa sia.
+
+1701
+01:16:52,649 --> 01:16:58,780
+È un test dove inseriscono
+aghi nella pelle, uh,
+
+1702
+01:16:58,822 --> 01:17:03,118
+per testare
+i segnali elettrici
+
+1703
+01:17:03,160 --> 01:17:05,787
+nei nervi.
+
+1704
+01:17:05,829 --> 01:17:08,081
+Questo può dirti cose
+sulle condizioni
+
+1705
+01:17:08,123 --> 01:17:10,917
+della guaina mielinica, uh,
+
+1706
+01:17:10,959 --> 01:17:13,670
+che è praticamente l'isolamento
+dei nervi.
+
+1707
+01:17:13,712 --> 01:17:18,133
+La demielinizzazione è un sintomo
+della sclerosi multipla,
+
+1708
+01:17:18,175 --> 01:17:19,718
+di cui soffre sua madre.
+
+1709
+01:17:21,011 --> 01:17:25,432
+In realtà stavo facendo visita
+ai miei genitori quando è morto.
+
+1710
+01:17:25,474 --> 01:17:27,601
+Poi il 3 luglio 2011,
+
+1711
+01:17:27,643 --> 01:17:31,980
+quasi sei mesi dopo
+Satoshi's ultimo post pubblico,
+
+1712
+01:17:32,022 --> 01:17:34,983
+Len Sassaman si è tolto la vita.
+
+1713
+01:17:35,025 --> 01:17:37,027
+[musica cupa in sottofondo]
+
+1714
+01:17:40,781 --> 01:17:42,824
+[Meredith]
+Eravamo una squadra maledettamente fantastica.
+
+1715
+01:17:42,866 --> 01:17:44,201
+[Tyler ride]
+
+1716
+01:17:47,621 --> 01:17:49,665
+Voglio tornare al 2005.
+
+1717
+01:17:49,706 --> 01:17:55,337
+Um, quell'anno, Hal Finney
+presentò RPOW alla CodeCon.
+
+1718
+01:17:55,379 --> 01:17:56,421
+Ricordi quella
+presentazione?
+
+1719
+01:17:56,463 --> 01:17:58,048
+Ricordo straordinariamente bene
+quella presentazione, sì.
+
+1720
+01:17:58,090 --> 01:17:59,758
+-Raccontami.
+-Sì.
+
+1721
+01:17:59,800 --> 01:18:03,970
+Avevo letto un paio di articoli
+su Hashcash,
+
+1722
+01:18:04,012 --> 01:18:08,141
+che era sostanzialmente
+il precursore di RPOW.
+
+1723
+01:18:08,183 --> 01:18:12,729
+Ma è stato affascinante
+vederlo trasformato
+
+1724
+01:18:12,771 --> 01:18:17,609
+in un sistema
+per usarlo effettivamente come denaro.
+
+1725
+01:18:17,651 --> 01:18:18,819
+C'era la sensazione generale
+in sala
+
+1726
+01:18:18,860 --> 01:18:20,612
+che fosse innovativo
+
+1727
+01:18:20,654 --> 01:18:22,531
+mentre Hal ne parlava?
+
+1728
+01:18:22,572 --> 01:18:24,991
+-Oh, sì. Oh, certamente.
+-Sì.
+
+1729
+01:18:25,033 --> 01:18:26,576
+-E lui e Len erano amici?
+-Sì. Sì.
+
+1730
+01:18:26,618 --> 01:18:27,661
+-E avevano lavorato insieme?
+-Puoi parlarmi di loro?
+
+1731
+01:18:27,703 --> 01:18:30,038
+Sì.
+
+1732
+01:18:30,080 --> 01:18:34,793
+Avevano lavorato insieme alla PGP.
+
+1733
+01:18:34,835 --> 01:18:35,919
+Um, sai se Len e Hal
+fossero in contatto nel 2008?
+
+1734
+01:18:35,961 --> 01:18:38,547
+Oh, certamente.
+
+1735
+01:18:38,588 --> 01:18:40,298
+Sì, no, stavano certamente ancora
+interagendo online.
+
+1736
+01:18:40,340 --> 01:18:42,676
+Puoi dirmi cosa hai pensato
+
+1737
+01:18:42,718 --> 01:18:46,054
+quando hai sentito parlare
+di Bitcoin?
+
+1738
+01:18:46,096 --> 01:18:48,932
+Sono andata a leggere il white paper,
+tipo, immediatamente.
+
+1739
+01:18:48,974 --> 01:18:51,226
+E pensai: "Oh,
+
+1740
+01:18:51,268 --> 01:18:55,063
+beh, questo è un bel modo
+per aggirare l'operatore centrale".
+
+1741
+01:18:55,105 --> 01:18:56,523
+Cosa ne pensavi del fatto
+
+1742
+01:18:56,565 --> 01:18:58,692
+che fosse stato scritto
+usando uno pseudonimo?
+
+1743
+01:18:58,734 --> 01:19:01,111
+Oh, voglio dire, non mi ha sorpresa
+minimamente.
+
+1744
+01:19:01,153 --> 01:19:02,946
+-Perché no?
+-Chiunque ci fosse dietro
+
+1745
+01:19:02,988 --> 01:19:04,906
+era stato sicuramente, tipo,
+
+1746
+01:19:04,948 --> 01:19:08,660
+sapete, lettore della
+mailing list dei cypherpunk.
+
+1747
+01:19:08,702 --> 01:19:14,541
+Avevano familiarità
+con il tipo di problemi
+
+1748
+01:19:14,583 --> 01:19:18,253
+che i cypherpunk
+erano interessati a risolvere.
+
+1749
+01:19:18,879 --> 01:19:22,048
+È possibile che Len abbia suggerito
+a Hal
+
+1750
+01:19:22,090 --> 01:19:25,093
+di rilasciare Bitcoin
+usando uno pseudonimo?
+
+1751
+01:19:25,135 --> 01:19:26,845
+Oh, voglio dire,
+
+1752
+01:19:26,887 --> 01:19:30,223
+Len era un grande sostenitore del rilascio
+sotto pseudonimo,
+
+1753
+01:19:30,265 --> 01:19:32,976
+sapete, punto e basta.
+
+1754
+01:19:33,018 --> 01:19:34,811
+-Perché?
+-Esiste questo concetto
+
+1755
+01:19:34,853 --> 01:19:36,605
+chiamato k-anonimato.
+
+1756
+01:19:36,646 --> 01:19:40,066
+Si può riassumere così:
+più grande è la folla,
+
+1757
+01:19:40,108 --> 01:19:41,777
+più facile è nascondersi.
+
+1758
+01:19:42,402 --> 01:19:45,822
+Quindi, più persone
+usano pseudonimi,
+
+1759
+01:19:45,864 --> 01:19:49,409
+più difficile è
+identificare
+
+1760
+01:19:49,451 --> 01:19:52,412
+un particolare
+utente di uno pseudonimo.
+
+1761
+01:19:52,871 --> 01:19:55,749
+E se le persone usano
+più pseudonimi,
+
+1762
+01:19:55,791 --> 01:19:57,417
+tanto meglio.
+
+1763
+01:19:57,459 --> 01:19:59,586
+Mi stai dicendo
+che una delle specialità di Len
+
+1764
+01:19:59,628 --> 01:20:02,756
+era l'anonimizzazione stilometrica.
+Puoi parlarmi di questo?
+
+1765
+01:19:02,798 --> 01:20:08,386
+La stilometria è quello che fa
+la gente quando, sapete,
+
+1766
+01:20:08,428 --> 01:20:09,721
+cerca di capire
+
+1767
+01:20:09,763 --> 01:20:11,598
+chi ha scritto davvero
+le opere di Shakespeare.
+
+1768
+01:20:11,640 --> 01:20:14,976
+Analizzano il testo
+
+1769
+01:20:15,018 --> 01:20:19,105
+tipicamente usando
+vari strumenti statistici,
+
+1770
+01:20:19,147 --> 01:20:21,691
+legati alla
+frequenza delle parole,
+
+1771
+01:20:21,733 --> 01:20:25,987
+frequenza delle coppie di parole,
+tratti sintattici.
+
+1772
+01:20:28,657 --> 01:20:34,454
+L'anonimizzazione stilometrica
+consisterebbe in piccoli cambiamenti stilistici
+
+1773
+01:20:34,496 --> 01:20:36,665
+che sfumano quelle impronte digitali.
+
+1774
+01:20:40,335 --> 01:20:42,087
+E cosa ne pensi
+di questa teoria
+
+1775
+01:20:42,128 --> 01:20:46,383
+secondo cui i talenti di Len
+potrebbero aver completato quelli di Hal
+
+1776
+01:20:46,424 --> 01:20:48,343
+nella creazione di Bitcoin?
+
+1777
+01:20:48,385 --> 01:20:50,470
+Penso sia plausibile.
+
+1778
+01:20:50,512 --> 01:20:54,015
+È possibile che Len abbia aiutato
+Hal senza dirtelo?
+
+1779
+01:20:54,057 --> 01:20:56,560
+Oh, sì, assolutamente.
+
+1780
+01:20:56,601 --> 01:20:57,811
+[ride]
+
+1781
+01:20:57,853 --> 01:20:58,937
+Perché?
+
+1782
+01:21:00,146 --> 01:21:01,231
+Cioè...
+
+1783
+01:21:02,774 --> 01:21:04,568
+era un tipo riservato.
+
+1784
+01:21:04,609 --> 01:21:08,321
+Tipo, non ci dicevamo
+tutto quello che facevamo.
+
+1785
+01:21:08,363 --> 01:21:13,159
+E non era per sfiducia
+
+1786
+01:21:13,201 --> 01:21:15,328
+o cose del genere.
+
+1787
+01:21:15,370 --> 01:21:17,372
+Era più che altro, sapete,
+
+1788
+01:21:17,414 --> 01:21:20,417
+siamo entrambi persone
+piuttosto riservate.
+
+1789
+01:21:20,917 --> 01:21:23,044
+[Tyler] Diverse persone
+hanno cercato di identificare Satoshi
+
+1790
+01:21:23,086 --> 01:21:24,880
+analizzando ciò che ha scritto,
+
+1791
+01:21:24,921 --> 01:21:27,299
+ma nessuno di questi studi
+è stato conclusivo.
+
+1792
+01:21:27,340 --> 01:21:28,967
+E penso di sapere il perché, ora,
+
+1793
+01:21:29,009 --> 01:21:31,219
+perché abbiamo imparato
+che Satoshi sapeva
+
+1794
+01:21:31,261 --> 01:21:33,680
+come nascondere le proprie tracce
+in ciò che scriveva,
+
+1795
+01:21:33,722 --> 01:21:36,349
+cancellando ogni indizio che potesse
+essere usato per identificarlo.
+
+1796
+01:21:37,225 --> 01:21:39,185
+Meredith non mi aveva dato
+alcuna prova,
+
+1797
+01:21:39,227 --> 01:21:42,397
+ma mi ha dato ottime idee
+e abbastanza materiale su cui lavorare
+
+1798
+01:21:42,439 --> 01:21:44,608
+da capire con chi dovevo
+parlare dopo.
+
+1799
+01:21:49,112 --> 01:21:51,114
+[musica drammatica in sottofondo]
+
+1800
+01:21:57,078 --> 01:21:59,331
+Bram Cohen era il programmatore
+informatico
+
+1801
+01:21:59,372 --> 01:22:01,416
+co-fondatore di CodeCon,
+
+1802
+01:22:01,458 --> 01:22:03,001
+la conferenza dove Hal Finney
+
+1803
+01:22:03,043 --> 01:22:04,961
+presentò per la prima volta
+RPOW.
+
+1804
+01:22:05,003 --> 01:22:09,674
+Bram ha anche inventato BitTorrent.
+Conosceva sia Hal che Len.
+
+1805
+01:22:09,716 --> 01:22:13,345
+E qualche anno prima, ha postato
+alcuni tweet affascinanti
+
+1806
+01:22:13,386 --> 01:22:15,055
+sui quali volevo interrogarlo.
+
+1807
+01:22:16,890 --> 01:22:18,808
+-Stiamo girando? Va bene?
+-Okay.
+
+1808
+01:22:18,850 --> 01:22:20,977
+Puoi parlarmi di Len?
+Eri molto vicino a Len.
+
+1809
+01:22:21,019 --> 01:22:23,063
+Sì, sì, sì,
+era il mio migliore amico.
+
+1810
+01:22:23,104 --> 01:22:25,565
+Sapete, siamo stati coinquilini
+per molto tempo.
+
+1811
+01:22:25,607 --> 01:22:29,152
+Era una persona tipo
+cypherpunk molto entusiasta,
+
+1812
+01:22:29,194 --> 01:22:32,822
+che faceva molte più
+filippiche politiche di me.
+
+1813
+01:22:33,573 --> 01:22:35,742
+Gli piaceva molto postare
+
+1814
+01:22:35,784 --> 01:22:39,663
+invettive politiche
+pseudonime sui cypherpunk.
+
+1815
+01:22:39,704 --> 01:22:42,624
+Ma era così segreto che
+non ho mai scoperto
+
+1816
+01:22:42,666 --> 01:22:44,793
+quale fosse il suo pseudonimo.
+
+1817
+01:22:44,834 --> 01:22:48,421
+Parli di Hal e Len
+come dei creatori di Bitcoin?
+
+1818
+01:22:48,463 --> 01:22:50,465
+Puoi dirmi perché
+la pensi così?
+
+1819
+01:22:52,133 --> 01:22:54,177
+Hal e Len si conoscevano,
+
+1820
+01:22:54,219 --> 01:22:55,595
+ed entrambi avevano questo schema
+
+1821
+01:22:55,637 --> 01:22:57,722
+di postare sotto pseudonimo
+sui cypherpunk
+
+1822
+01:22:57,764 --> 01:22:59,516
+e di essere piuttosto segreti
+al riguardo.
+
+1823
+01:22:59,557 --> 01:23:01,643
+E in termini di MO,
+
+1824
+01:23:01,685 --> 01:23:03,728
+ciò che amavano fare
+corrispondeva esattamente,
+
+1825
+01:23:03,770 --> 01:23:06,314
+sapete, a ciò che sappiamo
+di Satoshi Nakamoto,
+
+1826
+01:23:06,356 --> 01:23:09,859
+perché Satoshi, innanzitutto,
+era un cypherpunk.
+
+1827
+01:23:09,901 --> 01:23:12,237
+E Hal e Len avevano le competenze
+
+1828
+01:23:12,278 --> 01:23:15,198
+-e l'esperienza?
+-Sì, beh, soprattutto Hal.
+
+1829
+01:23:15,240 --> 01:23:18,576
+Len sarebbe più adatto
+per il tipo di, sapete,
+
+1830
+01:23:18,618 --> 01:23:21,329
+testo in linguaggio naturale
+associato.
+
+1831
+01:23:21,371 --> 01:23:22,414
+Grazie mille.
+
+1832
+01:23:22,455 --> 01:23:23,915
+Lasciando Bram,
+
+1833
+01:23:23,957 --> 01:23:26,209
+sembrava che i pezzi
+stessero andando al loro posto.
+
+1834
+01:23:28,044 --> 01:23:30,088
+Era tempo di coinvolgere Bill.
+
+1835
+01:23:30,130 --> 01:23:32,716
+[composizione numero]
+
+1836
+01:23:36,344 --> 01:23:38,304
+[Bill C al telefono]
+Ehi, Tyler.
+Che succede?
+
+1837
+01:23:38,346 --> 01:23:40,056
+[Tyler] Ciao, Bill. Senti,
+penso di aver capito
+
+1838
+01:23:40,098 --> 01:23:42,100
+chi è Satoshi.
+Voglio presentarti tutto.
+
+1839
+01:23:42,142 --> 01:23:43,893
+Voglio avere la tua opinione.
+
+1840
+01:23:43,935 --> 01:23:45,562
+-Puoi venire in ufficio?
+-[Bill C] Va bene.
+
+1841
+01:23:45,603 --> 01:23:47,856
+Mi libererò un po' di tempo
+e passerò.
+
+1842
+01:23:53,987 --> 01:23:56,781
+Per tutta l'indagine,
+abbiamo inseguito Satoshi
+
+1843
+01:23:56,823 --> 01:23:58,825
+come se fosse una sola persona.
+
+1844
+01:23:59,534 --> 01:24:00,869
+Ma tutte
+le nostre prove empiriche
+
+1845
+01:24:00,910 --> 01:24:02,704
+e tutte
+le testimonianze oculari
+
+1846
+01:24:02,746 --> 01:24:04,122
+portano alla conclusione
+
+1847
+01:24:04,164 --> 01:24:06,791
+che si trattasse di due persone
+che collaboravano.
+
+1848
+01:24:06,833 --> 01:24:08,418
+E ti mostrerò come.
+
+1849
+01:24:08,460 --> 01:24:10,462
+Satoshi, innanzitutto,
+era un cypherpunk.
+
+1850
+01:24:10,503 --> 01:24:13,715
+[Meredith] Satoshi si curava
+del tipo di problemi
+
+1851
+01:24:13,757 --> 01:24:15,842
+che i cypherpunk erano interessati
+a risolvere.
+
+1852
+01:24:15,884 --> 01:24:20,805
+L'etica cypherpunk
+era ciò su cui si fondava la PGP.
+
+1853
+01:24:20,847 --> 01:24:23,141
+[Bill C] Dovevano essere
+esperti di valute,
+
+1854
+01:24:23,183 --> 01:24:25,977
+esperti di programmazione,
+esperti di crittografia.
+
+1855
+01:24:26,019 --> 01:24:29,731
+La maggior parte dei programmatori
+non avrebbe potuto fare qualcosa di così complesso.
+
+1856
+01:24:29,773 --> 01:24:31,858
+Ma Hal Finney
+era un programmatore brillante.
+
+1857
+01:24:31,900 --> 01:24:33,818
+Era molto, molto bravo
+
+1858
+01:24:33,860 --> 01:24:37,405
+a scrivere il codice
+crittografico principale della PGP.
+
+1859
+01:24:37,447 --> 01:24:42,452
+[uomo] Len Sassaman era davvero
+bravo a scrivere white paper.
+
+1860
+01:24:42,494 --> 01:24:45,622
+[Tyler] Len era anche
+il co-fondatore, con Bram Cohen,
+
+1861
+01:24:45,663 --> 01:24:47,290
+della conferenza CodeCon,
+
+1862
+01:24:47,332 --> 01:24:49,876
+dove Hal Finney, nel 2005,
+
+1863
+01:24:49,918 --> 01:24:52,253
+presentò la sua idea per RPOW.
+
+1864
+01:24:52,295 --> 01:24:55,757
+Che è quanto di più vicino
+a Bitcoin possa esistere.
+
+1865
+01:24:55,799 --> 01:24:57,133
+[Tyler]
+Hal e Len sono entrambi specializzati
+
+1866
+01:24:57,175 --> 01:24:58,927
+nell'anonimato stilometrico,
+
+1867
+01:24:58,968 --> 01:25:01,387
+ed erano bravi a nascondere
+le proprie tracce in ciò che scrivevano.
+
+1868
+01:25:01,429 --> 01:25:03,098
+[uomo] Molto del codice di Bitcoin
+
+1869
+01:25:03,139 --> 01:25:06,267
+è molto simile a quello che Hal fa
+nel suo normale C++.
+
+1870
+01:25:06,309 --> 01:25:08,812
+Ma poi inserisce
+alcune cose
+
+1871
+01:25:08,853 --> 01:25:10,522
+per depistare.
+
+1872
+01:25:10,563 --> 01:25:12,315
+[Meredith] Len era un sostenitore
+del rilascio delle cose
+
+1873
+01:25:12,357 --> 01:25:14,901
+sotto pseudonimo
+e se con pseudonimi multipli,
+
+1874
+01:25:14,943 --> 01:25:16,611
+tanto meglio.
+[Tyler] Sai
+
+1875
+01:25:16,653 --> 01:25:18,988
+se Len e Hal fossero in contatto
+nel 2008?
+
+1876
+01:25:19,030 --> 01:25:22,700
+[Meredith] Certamente.
+Stavano
+ancora interagendo online.
+
+1877
+01:25:22,742 --> 01:25:24,661
+Questo è esattamente
+lo stesso arco temporale
+
+1878
+01:25:24,702 --> 01:25:27,330
+in cui Hal non fece alcun commit al codice PGP.
+
+1879
+01:25:27,372 --> 01:25:30,208
+Su cosa stava lavorando?
+Penso fosse Bitcoin.
+
+1880
+01:25:30,250 --> 01:25:31,417
+[Tyler] Hal si occupò
+della programmazione, scrivendo il codice.
+
+1881
+01:25:32,919 --> 01:25:34,671
+[Will]
+Len sarebbe più adatto
+
+1882
+01:25:34,712 --> 01:25:37,423
+per il testo in linguaggio naturale
+associato.
+
+1883
+01:25:37,465 --> 01:25:41,469
+Il che spiega come Hal
+potesse correre una gara,
+
+1884
+01:25:41,511 --> 01:25:44,389
+mentre Len agiva come Satoshi.
+
+1885
+01:25:44,430 --> 01:25:46,766
+E Alyssa ce l'ha detto
+tramite i suoi grafici.
+
+1886
+01:24:46,808 --> 01:25:48,726
+[Olivia] Qualitativamente,
+quale di queste persone
+
+1887
+01:25:48,768 --> 01:25:50,478
+assomiglia di più a Satoshi?
+
+1888
+01:25:50,520 --> 01:25:51,938
+Hal Finney e Len Sassaman.
+
+1889
+01:25:51,980 --> 01:25:52,939
+[Bill C]
+C'è solo un problema.
+
+1890
+01:25:52,981 --> 01:25:54,524
+Len critica pubblicamente
+
+1891
+01:25:54,566 --> 01:25:56,401
+Bitcoin a destra e a manca.
+
+1892
+01:25:57,402 --> 01:26:00,405
+[Tyler] Sono andato da Bram a chiedere:
+se Len ha aiutato a creare Bitcoin,
+
+1893
+01:26:00,446 --> 01:26:03,950
+perché avrebbe dovuto
+criticarlo pubblicamente?
+E lui ha detto...
+
+1894
+01:26:03,992 --> 01:26:05,952
+Non fai in modo
+che tutti i tuoi pseudonimi
+
+1895
+01:26:05,994 --> 01:26:07,745
+siano d'accordo tra loro
+su tutto,
+
+1896
+01:26:07,787 --> 01:26:10,707
+altrimenti tutti sapranno
+quali sono i tuoi pseudonimi.
+
+1897
+01:26:10,748 --> 01:26:13,459
+Se hai, tipo, un'identità
+che stai cercando di nascondere,
+
+1898
+01:26:13,501 --> 01:26:16,129
+allora la tua normale identità pubblica
+ha ben poco da guadagnare
+
+1899
+01:26:16,171 --> 01:26:18,506
+concordando
+con un'identità nascosta,
+
+1900
+01:26:18,548 --> 01:26:20,800
+particolarmente se si tratta
+di qualche, sapete,
+
+1901
+01:26:20,842 --> 01:26:23,803
+argomento controverso
+come Bitcoin.
+
+1902
+01:26:24,721 --> 01:26:26,347
+[Tyler] E quando ho parlato con
+Kathleen Puckett
+
+1903
+01:26:26,389 --> 01:26:28,892
+e Jameson Lopp,
+mi hanno detto...
+
+1904
+01:26:28,933 --> 01:26:31,060
+Se ci sono più di
+due persone coinvolte
+
+1905
+01:26:31,102 --> 01:26:32,896
+in un'impresa di questo tipo...
+
+1906
+01:26:32,937 --> 01:26:36,816
+È difficile mantenere segreti
+tra più persone.
+
+1907
+01:26:36,858 --> 01:26:39,527
+...non c'è modo che possano
+mantenerlo privato.
+
+1908
+01:26:39,569 --> 01:26:41,237
+Sapete,
+a meno che non siano tutti morti.
+
+1909
+01:26:41,279 --> 01:26:44,866
+E il modo per persone
+con una grande riserva di Bitcoin
+
+1910
+01:26:44,908 --> 01:26:48,328
+per non toccarla
+è se sono entrambi morti.
+
+1911
+01:26:48,369 --> 01:26:50,580
+Il che conferma il tuo punto:
+non è nella natura umana
+
+1912
+01:26:50,622 --> 01:26:52,540
+non toccare il denaro
+che si possiede.
+
+1913
+01:26:52,582 --> 01:26:54,375
+-Una fortuna enorme.
+-Si parla di miliardi.
+
+1914
+01:26:54,417 --> 01:26:56,085
+-Miliardi.
+-Esatto.
+
+1915
+01:26:56,127 --> 01:26:59,339
+Quindi, se prendiamo tutte
+le prove indiziarie,
+
+1916
+01:26:59,380 --> 01:27:00,924
+tutte le prove empiriche,
+
+1917
+01:27:00,965 --> 01:27:03,468
+e tutte le testimonianze
+oculari,
+
+1918
+01:27:03,885 --> 01:27:06,846
+la conclusione è che
+Hal Finney e Len Sassaman
+
+1919
+01:27:06,888 --> 01:27:09,098
+abbiano collaborato per creare Bitcoin,
+
+1920
+01:27:09,140 --> 01:27:11,893
+che loro due
+fossero Satoshi Nakamoto.
+
+1921
+01:27:19,400 --> 01:27:21,402
+[musica dolce in sottofondo]
+
+1922
+01:27:24,322 --> 01:27:26,199
+[Tyler] Per anni,
+c'è stata una persona
+
+1923
+01:27:26,241 --> 01:27:27,575
+la cui partecipazione credevamo
+
+1924
+01:27:27,617 --> 01:27:30,453
+sarebbe stata vitale
+per la nostra indagine.
+
+1925
+01:27:30,495 --> 01:27:33,373
+Fran Finney,
+la vedova di Hal Finney.
+
+1926
+01:27:34,457 --> 01:27:37,085
+Fran aveva ripetutamente rifiutato
+di partecipare,
+
+1927
+01:27:37,126 --> 01:27:39,212
+ma dopo averle mostrato
+il nostro film,
+
+1928
+01:27:39,254 --> 01:27:43,341
+ha cambiato idea e si è offerta
+di parlare con noi davanti alle telecamere.
+
+1929
+01:27:43,383 --> 01:27:45,301
+Così, l'abbiamo portata
+in un luogo discreto
+
+1930
+01:27:45,343 --> 01:27:47,804
+non lontano da casa sua,
+a Santa Barbara.
+
+1931
+01:27:49,055 --> 01:27:51,391
+Grazie, Fran.
+Apprezzo davvero il tuo tempo.
+
+1932
+01:27:51,432 --> 01:27:53,309
+È un piacere. Grazie.
+
+1933
+01:27:53,351 --> 01:27:55,144
+[Tyler] Nei più di tre anni
+in cui abbiamo lavorato a questo,
+
+1934
+01:27:55,186 --> 01:27:59,274
+ogni volta che spuntava il nome
+di Hal Finney, la gente sorrideva.
+
+1935
+01:28:00,650 --> 01:28:02,652
+Sorrido ancora.
+-Sì.
+
+1936
+01:28:02,694 --> 01:28:05,780
+Quando ho parlato con persone
+che conoscevano bene Hal,
+
+1937
+01:28:05,822 --> 01:28:07,615
+mi dicevano che lo avrebbero
+descritto
+
+1938
+01:28:07,657 --> 01:28:11,119
+come un coder che operava
+ai massimi livelli,
+
+1939
+01:28:11,160 --> 01:28:13,288
+come un vero esperto
+in questo campo, come un genio.
+
+1940
+01:28:13,329 --> 01:28:15,707
+-Sì.
+-Eri consapevole dei...
+
+1941
+01:28:15,748 --> 01:28:17,333
+-Sì.
+-...talenti di Hal?
+
+1942
+01:28:17,375 --> 01:28:20,295
+Lo ero.
+Ero molto consapevole
+della sua brillantezza.
+
+1943
+01:28:20,336 --> 01:28:22,922
+E nonostante tutta questa brillantezza,
+l'ego non si è messo di mezzo.
+
+1944
+01:28:22,964 --> 01:28:24,173
+-No. No.
+-Non si vantava
+
+1945
+01:28:24,215 --> 01:28:25,550
+dei suoi successi.
+
+1946
+01:28:25,591 --> 01:28:27,093
+Era così umile.
+
+1947
+01:28:27,135 --> 01:28:30,138
+Voleva condividere il merito
+per tutto.
+
+1948
+01:28:30,179 --> 01:28:32,432
+Era così con i nostri figli.
+Era così con me.
+
+1949
+01:28:32,473 --> 01:28:34,058
+Era così
+con i suoi colleghi.
+
+1950
+01:28:34,100 --> 01:28:35,393
+Mm-hmm.
+
+1951
+01:28:35,435 --> 01:28:38,313
+Gli piaceva collaborare.
+Era un grande collaboratore.
+
+1952
+01:28:38,354 --> 01:28:41,065
+Per qualche anno,
+hai rifiutato di parlarmi
+
+1953
+01:28:41,107 --> 01:28:42,984
+e di partecipare a questo film.
+
+1954
+01:28:43,026 --> 01:28:45,820
+Poi ti abbiamo mostrato il film,
+cosa ne pensi della pellicola?
+
+1955
+01:28:45,862 --> 01:28:47,572
+Mi è piaciuto il vostro film.
+
+1956
+01:28:47,613 --> 01:28:50,158
+Il motivo per cui avevo rifiutato
+di parlarvi
+
+1957
+01:28:50,199 --> 01:28:53,202
+è che avevo frainteso
+dove volesse arrivare il vostro film.
+
+1958
+01:28:53,244 --> 01:28:54,579
+Ero stata approcciata
+
+1959
+01:28:54,620 --> 01:28:55,913
+da diversi
+progetti differenti
+
+1960
+01:28:55,955 --> 01:28:57,582
+il cui intento
+
+1961
+01:28:57,623 --> 01:30:01,002
+era scoprire chi fosse Satoshi.
+
+1962
+01:29:01,044 --> 01:29:02,545
+Satoshi Nakamoto.
+
+1963
+01:29:02,587 --> 01:29:04,797
+E ho dato per scontato
+che questo progetto fosse simile.
+
+1964
+01:29:04,839 --> 01:29:07,925
+E la maggior parte di quei progetti
+sono solo molto speculativi
+
+1965
+01:29:07,967 --> 01:29:10,803
+e incentrati sul mistero
+
+1966
+01:29:10,845 --> 01:29:12,555
+ma non sulla storia
+di Bitcoin.
+
+1967
+01:29:12,597 --> 01:29:16,267
+Non su altro eccetto
+chi sia questa persona misteriosa,
+
+1968
+01:29:16,309 --> 01:29:17,894
+Satoshi Nakamoto.
+
+1969
+01:29:18,561 --> 01:29:21,856
+E la maggior parte di essi
+non era nulla
+
+1970
+01:29:21,898 --> 01:29:23,775
+per cui fossi interessata
+ad aiutare,
+
+1971
+01:29:23,816 --> 01:29:26,277
+e ho ipotizzato che questo film
+sarebbe stato simile.
+
+1972
+01:29:26,319 --> 01:29:28,196
+Ma dopo aver visto il film,
+
+1973
+01:29:28,237 --> 01:29:30,239
+e quello che avete fatto
+finora,
+
+1974
+01:29:30,281 --> 01:29:34,118
+sono rimasta davvero colpita
+e impressionata e sbalordita.
+
+1975
+01:29:35,244 --> 01:29:38,206
+Hai mai chiesto a Hal
+se fosse Satoshi Nakamoto?
+
+1976
+01:29:38,247 --> 01:29:39,540
+-Sì.
+-Cosa ha detto?
+
+1977
+01:29:39,582 --> 01:29:40,917
+"No". Ha detto "No".
+
+1978
+01:29:42,168 --> 01:29:43,711
+Perché glielo hai chiesto?
+
+1979
+01:29:43,753 --> 01:29:45,129
+Qualcuno ci chiamò e disse:
+
+1980
+01:29:45,171 --> 01:29:46,923
+"Pensiamo che Hal
+sia Satoshi Nakamoto".
+
+1981
+01:29:46,964 --> 01:29:48,508
+È stato allora che gliel'ho chiesto.
+
+1982
+01:29:48,549 --> 01:29:50,635
+E Hal si è limitato a ridere
+e a rispondere: "No".
+
+1983
+01:29:50,676 --> 01:29:51,844
+È possibile che abbia
+contribuito a costruirlo
+
+1984
+01:29:51,886 --> 01:29:52,970
+senza dirtelo?
+
+1985
+01:29:54,013 --> 01:29:55,139
+Sì.
+
+1986
+01:29:55,181 --> 01:29:56,891
+Credo che abbia aiutato a costruirlo.
+
+1987
+01:29:57,975 --> 01:30:00,228
+Hai anche avanzato
+la possibilità,
+
+1988
+01:30:00,269 --> 01:30:03,272
+che non avevo considerato,
+che Hal possa aver collaborato
+
+1989
+01:30:03,314 --> 01:30:07,318
+alla stesura
+del codice di Bitcoin.
+
+1990
+01:30:07,902 --> 01:30:11,155
+E in effetti lo ha fatto,
+era entusiasta di scriverlo.
+
+1991
+01:30:11,197 --> 01:30:13,991
+Il white paper in sé,
+non credo lo abbia scritto lui,
+
+1992
+01:30:14,033 --> 01:30:19,288
+ma potrebbe aver contribuito
+apportando delle correzioni.
+
+1993
+01:30:19,330 --> 01:30:23,292
+Quindi, ciò che presenti nel film
+per me ha senso.
+
+1994
+01:30:25,086 --> 01:30:26,754
+[Tyler] Fran aveva confermato
+
+1995
+01:30:26,796 --> 01:30:29,632
+quello che così tante persone
+ci avevano detto su Hal.
+
+1996
+01:30:29,674 --> 01:30:32,176
+E mi ha fatto ripensare
+a un'intervista che Hal rilasciò
+
+1997
+01:30:32,218 --> 01:30:35,388
+alla rivista Forbes
+poco prima di morire.
+
+1998
+01:30:36,764 --> 01:30:39,517
+Nell'articolo,
+Hal negava di essere Satoshi.
+
+1999
+01:30:41,477 --> 01:30:43,563
+Ma nelle conclusioni
+dell'articolo,
+
+2000
+01:30:43,604 --> 01:30:45,773
+fu chiesto a Hal se, dati
+i suoi contributi
+
+2001
+01:30:45,815 --> 01:30:47,733
+alla crittografia open source,
+
+2002
+01:30:47,775 --> 01:30:51,404
+potesse forse essere considerato
+uno dei creatori di Bitcoin.
+
+2003
+01:30:53,406 --> 01:30:56,200
+Ripensandoci, mi chiedo se non stesse
+cercando di dirci qualcosa.
+
+2004
+01:30:57,702 --> 01:30:59,412
+Quando abbiamo intervistato Will Price,
+
+2005
+01:30:59,454 --> 01:31:01,914
+si è soffermato
+esattamente su questo momento.
+
+2006
+01:31:01,956 --> 01:31:05,209
+Quando glielo chiese
+nella fase finale,
+
+2007
+01:31:06,419 --> 01:31:12,008
+ovvero se fosse uno
+dei creatori di Bitcoin,
+
+2008
+01:31:12,550 --> 01:31:15,052
+Hal alzò gli occhi
+e le sopracciglia,
+
+2009
+01:31:15,094 --> 01:31:16,888
+gesto che nell'articolo
+viene identificato
+
+2010
+01:31:16,929 --> 01:31:18,556
+come il suo modo di dire di sì.
+
+2011
+01:31:19,223 --> 01:31:22,101
+E, sapete, gli chiese
+se fosse orgoglioso di quel lavoro...
+
+2012
+01:31:25,646 --> 01:31:28,274
+e lui alzò gli occhi e sorrise.
+
+2013
+01:31:29,734 --> 01:31:30,735
+[ride]
+
+2014
+01:31:30,776 --> 01:31:33,196
+Quindi, io penso
+
+2015
+01:31:34,280 --> 01:31:35,531
+che per Hal...
+
+2016
+01:31:37,909 --> 01:31:43,247
+potesse sempre dire, sinceramente,
+di non aver creato Bitcoin.
+
+2017
+01:31:43,289 --> 01:31:46,459
+Non lo ha creato lui, è stato un team.
+
+2018
+01:31:46,501 --> 01:31:51,589
+Ma se gli chiedi: "Sei uno
+dei creatori di Bitcoin?"
+
+2019
+01:31:52,131 --> 01:31:53,799
+Sì.
+
+2020
+01:31:53,841 --> 01:31:57,136
+A questo punto,
+credo sia meglio
+
+2021
+01:31:57,178 --> 01:31:58,846
+che la gente capisca
+
+2022
+01:31:58,888 --> 01:32:01,307
+che queste persone
+ormai scomparse,
+
+2023
+01:32:01,849 --> 01:32:03,226
+lo hanno creato davvero.
+
+2024
+01:32:03,267 --> 01:32:06,854
+Avevano tutte
+le migliori intenzioni,
+
+2025
+01:32:07,980 --> 01:32:09,690
+e loro...
+
+2026
+01:32:11,025 --> 01:32:13,361
+non lo hanno fatto per i soldi.
+
+2027
+01:32:13,402 --> 01:32:14,904
+La cosa che ho sempre amato
+
+2028
+01:32:14,946 --> 01:32:17,615
+è quando c'è
+una sfida intellettuale;
+
+2029
+01:32:17,657 --> 01:32:18,950
+quando riesci a dominarla,
+
+2030
+01:32:18,991 --> 01:32:21,035
+ti conferisce
+capacità pratiche.
+
+2031
+01:32:21,077 --> 01:32:24,956
+E la crittografia
+è il campo ideale per questo.
+
+2032
+01:32:24,997 --> 01:32:27,250
+[Phil] Sapete, se qualcuno dovesse
+mai fare un film su Hal,
+
+2033
+01:32:27,291 --> 01:32:29,544
+dovrebbe farlo interpretare
+da Tom Hanks.
+
+2034
+01:32:29,585 --> 01:32:32,129
+Era una persona
+assolutamente meravigliosa.
+
+2035
+01:32:33,214 --> 01:32:34,382
+[Max] Adoravo Hal.
+Era un uomo formidabile.
+
+2036
+01:32:34,423 --> 01:32:35,800
+Ero molto legato a lui.
+
+2037
+01:32:35,841 --> 01:32:37,176
+Ho conosciuto molte altre persone
+le cui idee
+
+2038
+01:32:37,218 --> 01:32:38,928
+mi piacevano, ma che erano
+piuttosto sgradevoli,
+
+2039
+01:32:38,970 --> 01:32:40,346
+e non volevo starci
+troppo insieme.
+
+2040
+01:32:40,388 --> 01:32:41,472
+Hal non era affatto così.
+
+2041
+01:32:41,514 --> 01:32:43,349
+Penso che tutti amassero Hal.
+
+2042
+01:32:43,391 --> 01:32:46,769
+[Jon] L'influenza di Hal
+sul mondo,
+
+2043
+01:32:46,811 --> 01:32:51,065
+attraverso una serie
+di azioni dietro le quinte,
+
+2044
+01:32:51,107 --> 01:32:54,777
+ma straordinariamente
+importanti,
+
+2045
+01:32:54,819 --> 01:32:56,654
+dovrebbe essere valorizzata.
+
+2046
+01:32:56,696 --> 01:32:59,323
+È una persona che non assomiglia
+
+2047
+01:32:59,365 --> 01:33:02,535
+a quello che vedete oggi
+nel mondo delle criptovalute.
+
+2048
+01:33:02,577 --> 01:33:06,789
+Ed è per questo che
+merita ogni riconoscimento,
+
+2049
+01:33:06,831 --> 01:33:10,084
+perché è la prova provata
+
+2050
+01:33:10,126 --> 01:33:13,462
+che non serve essere
+una persona orribile
+
+2051
+01:33:13,504 --> 01:33:16,340
+per avere un grande impatto
+sul mondo.
+
+2052
+01:33:16,882 --> 01:33:18,801
+Credi che Hal abbia cambiato
+il mondo?
+
+2053
+01:33:21,178 --> 01:33:22,263
+Sì.
+
+2054
+01:33:24,140 --> 01:33:25,349
+Sì, lo credo.
+
+2055
+01:33:27,018 --> 01:33:28,644
+Questa è la sua grande eredità.
+
+2056
+01:33:28,686 --> 01:33:30,646
+Ha lasciato la sua impronta,
+
+2057
+01:33:32,481 --> 01:33:34,358
+e sono così orgogliosa di lui.
+
+2058
+01:33:40,531 --> 01:33:44,243
+[Will] Oggi voglio parlare un po'
+di anonimato e privacy,
+
+2059
+01:33:44,285 --> 01:33:45,703
+di tutto il pacchetto.
+
+2060
+01:33:45,745 --> 01:33:47,413
+Osservate la citazione
+in cui Satoshi dice:
+
+2061
+01:33:47,455 --> 01:33:50,625
+"Probabilmente non resterò
+in giro ancora per molto".
+
+2062
+01:33:50,666 --> 01:33:52,752
+Sapete, è molto fatalista,
+
+2063
+01:33:52,793 --> 01:33:56,130
+e quello è stato l'anno
+in cui Len si è suicidato.
+
+2064
+01:33:56,881 --> 01:33:59,759
+Credo avesse molto
+da dare al mondo,
+
+2065
+01:33:59,800 --> 01:34:04,764
+e, sapete,
+mi rattrista che sia finita così presto.
+
+2066
+01:34:04,805 --> 01:34:08,017
+Egoisticamente, dico anche
+che mi manca.
+
+2067
+01:34:08,726 --> 01:34:11,562
+Non so se sia egoistico.
+Capisco perfettamente.
+
+2068
+01:34:13,564 --> 01:34:14,649
+Ti ringrazio.
+
+2069
+01:34:17,568 --> 01:34:19,945
+Uno dei modi in cui
+il lavoro di Len continua a vivere,
+
+2070
+01:34:19,987 --> 01:34:22,865
+insieme ai suoi contributi
+alla crittografia e alla privacy,
+
+2071
+01:34:22,907 --> 01:34:25,618
+al suo attivismo
+e alle sue battaglie politiche,
+
+2072
+01:34:25,660 --> 01:34:29,664
+è anche sotto forma di un memoriale testuale
+
+2073
+01:34:29,705 --> 01:34:32,583
+incorporato in un campo di una transazione Bitcoin
+
+2074
+01:34:32,625 --> 01:34:34,835
+che rimarrà parte della Blockchain per sempre.
+
+2075
+01:34:40,882 --> 01:34:43,426
+[Tyler] Ho ripensato
+a ciò che l'analista dell'FBI
+
+2076
+01:34:43,468 --> 01:34:44,552
+Kathleen Puckett aveva detto.
+
+2077
+01:34:45,595 --> 01:34:48,348
+Pensava che Bitcoin fosse probabilmente
+il lavoro di una persona sola.
+
+2078
+01:34:48,390 --> 01:34:51,267
+Perché se ci sono
+più di due persone
+
+2079
+01:34:51,309 --> 01:34:53,353
+coinvolte in qualcosa di così grande,
+
+2080
+01:34:53,395 --> 01:34:55,730
+non c'è modo
+che riescano a mantenere il segreto.
+
+2081
+01:34:55,772 --> 01:34:58,066
+Ma Satoshi è scomparso.
+
+2082
+01:34:58,108 --> 01:35:00,318
+Hal è morto.
+
+2083
+01:35:00,360 --> 01:35:01,861
+E anche Len è morto.
+
+2084
+01:35:02,696 --> 01:35:04,906
+È possibile che mantengano
+il segreto perché
+
+2085
+01:35:04,948 --> 01:35:06,866
+non sono più qui per raccontarlo?
+
+2086
+01:35:08,243 --> 01:35:10,245
+Sapete,
+lo stanno portando nella tomba.
+
+2087
+01:35:12,122 --> 01:35:14,249
+Forse sono gli unici
+che potevano custodirlo.
+
+2088
+01:35:14,290 --> 01:35:16,793
+Forse è per questo che resta tale.
+
+2089
+01:35:19,254 --> 01:35:21,798
+[Jon] Niall Ferguson fa
+questa analogia davvero bella
+
+2090
+01:35:21,840 --> 01:35:23,550
+tra la piazza e la torre.
+
+2091
+01:35:23,591 --> 01:35:26,177
+Se guardate
+una vecchia città europea,
+
+2092
+01:35:26,219 --> 01:35:28,471
+vedete tipicamente una piazza cittadina
+
+2093
+01:35:28,513 --> 01:35:30,348
+e una sorta di torre
+accanto ad essa,
+
+2094
+01:35:30,390 --> 01:35:32,976
+magari di una chiesa o di un castello.
+
+2095
+01:35:33,018 --> 01:35:35,603
+E il potere nel Medioevo
+europeo
+
+2096
+01:35:35,645 --> 01:35:38,314
+oscillava tra
+la piazza, la folla,
+
+2097
+01:35:38,356 --> 01:35:41,109
+e la torre,
+l'istituzione dei regnanti.
+
+2098
+01:35:41,151 --> 01:35:43,737
+E ogni volta che c'è, sapete,
+un'autorità centralizzata
+
+2099
+01:35:43,778 --> 01:35:45,864
+che ha il controllo totale,
+e le persone si sentono schiacciate,
+
+2100
+01:35:45,905 --> 01:35:50,326
+queste innovano ai margini
+attraverso delle reti per reagire.
+
+2101
+01:35:50,368 --> 01:35:53,496
+E io vedo Bitcoin
+come la piazza
+
+2102
+01:35:54,748 --> 01:35:56,875
+che contrattacca la torre.
+
+2103
+01:35:56,916 --> 01:36:00,336
+[Sara] La gente pensava
+che solo la torre potesse emettere denaro.
+
+2104
+01:36:00,378 --> 01:36:01,880
+Poi è arrivato Satoshi e ha detto:
+
+2105
+01:36:01,921 --> 01:36:04,132
+"No, anche la piazza può emettere denaro".
+
+2106
+01:36:04,174 --> 01:36:06,759
+E questa è un'idea
+molto, molto potente.
+
+2107
+01:36:06,801 --> 01:36:08,219
+Cambia tutto.
+
+2108
+01:36:09,304 --> 01:36:12,182
+[Michael] Bitcoin è speranza.
+
+2109
+01:36:13,224 --> 01:36:14,476
+È speranza per un futuro migliore.
+
+2110
+01:36:16,269 --> 01:36:18,521
+È speranza per un mondo più onesto.
+
+2111
+01:36:18,563 --> 01:36:20,523
+È speranza per una maggiore libertà.
+
+2112
+01:36:22,817 --> 01:36:24,277
+Sono così felice che esista.
+
+2113
+01:36:25,320 --> 01:36:26,446
+Siamo tutti Satoshi.
+
+2114
+01:36:28,323 --> 01:36:30,325
+[Tyler] Dopo tutto questo tempo,
+
+2115
+01:36:30,366 --> 01:36:32,869
+forse non sapremo mai
+chi fosse davvero Satoshi.
+
+2116
+01:36:32,911 --> 01:36:34,704
+Ma in fin dei conti,
+
+2117
+01:36:34,746 --> 01:36:36,456
+non credo che importi.
+
+2118
+01:36:37,290 --> 01:36:39,083
+Ciò che conta è quello che ci ha lasciato.
+
+2119
+01:36:40,251 --> 01:36:41,753
+Ci ha fatto un dono.
+
+2120
+01:36:43,463 --> 01:36:45,465
+E sta a noi
+decidere cosa farne.
+
+2121
+01:36:47,175 --> 01:36:48,259
+[la musica sfuma]
