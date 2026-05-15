@@ -9,3 +9,5 @@ The current Italian subtitle file requires manual correction. We are looking for
 1. **Translation & Insertion:** Translate the missing dialogue and insert it using the correct entry numbers and timestamps relative to the video.
 2. **Sequential Update:** Since new entries are being added, the ID numbers of all following entries must be incremented/updated to keep the list sequential.
 3. **Consistency:** Ensure the tone matches the existing translation.
+
+The python script could be used to automatically update entry numbers and timestamps after an addition. Just copy & paste missing entries (including entry number and timestamp) in the right position from the English track to the Italian one, translate and execute the script!
