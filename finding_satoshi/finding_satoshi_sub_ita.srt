@@ -9929,3 +9929,35 @@ molto più dinamico ed entusiasmante.
 2134
 01:36:33,913 --> 01:36:37,750
 [musica d'ispirazione in sottofondo]
+
+2135
+01:36:42,000 --> 01:36:46,000
+Sulla base di un'approfondita indagine,
+i registi affermano che non vi sono prove,
+nè si possa ragionevolmente dedurre
+
+2136
+01:36:46,500 --> 01:36:51,000
+che Fran Finney o Meredith Patterson abbiano 
+alcun accesso, diretto o indiretto, 
+alle chiavi private di Satoshi Nakamoto.
+
+2137
+01:36:52,000 --> 01:36:55,000
+Fran ritiene che Hal abbia svolto 
+un ruolo cruciale nello sviluppo di Bitcoin
+
+2138
+01:36:55,500 --> 01:36:59,000
+e che possa aver collaborato con Len
+nel periodo precedente alla pubblicazione del codice.
+
+2139
+01:36:59,500 --> 01:37:03,000
+Tuttavia, è certa che lui non fosse né Satoshi 
+né la persona che ha minato 1 milione di Bitcoin.
+
+2140
+01:37:03,500 --> 01:37:06,500
+Non crede che Hal fosse il tipo da nascondere 
+segreti alla sua famiglia o da usare uno pseudonimo.
