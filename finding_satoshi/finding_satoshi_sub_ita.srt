@@ -102,8 +102,8 @@ intitolato "FNU LNU".
 
 24
 00:01:36,805 --> 00:01:41,518
-"FNU" sta per "first name unknown".
-"LNU" è "last name unknown".
+"FNU" sta per "first name unknown (nome sconosciuto)".
+"LNU" è "last name unknown (cognome sconosciuto)".
 
 25
 00:01:41,559 --> 00:01:45,814
@@ -191,7 +191,7 @@ Se fosse così, non te lo direi.
 
 43
 00:02:35,280 --> 00:02:36,906
-[composizione numero al telefono]
+[tono di chiamata]
 
 44
 00:02:41,661 --> 00:02:43,329
@@ -227,6 +227,15 @@ Si spaventano tutti,
 si chiudono a riccio
 e praticamente si bloccano.
 
+50
+00:02:58,000 --> 00:03:02,00
+Nel 2008, Bitcoin venne inventato da un crittografo 
+che utilizzava lo pseudonimo di Satoshi Nakamoto.
+
+50
+00:03:02,000 --> 00:03:04,00
+All'inizio, non aveva alcun valore monetario.
+
 51
 00:03:04,309 --> 00:03:06,186
 Passiamo ancora
@@ -250,6 +259,15 @@ Sì, non ne parlerò davanti alle telecamere.
 00:03:11,816 --> 00:03:14,819
 [musica tesa in sottofondo]
 
+55
+00:03:12,000 --> 00:03:17,500
+La capilalizzazione di Bitcoin è passata da zero
+a oltre mille miliardi di dollari in appena 12 anni
+
+55
+00:03:18,000 --> 00:03:21,000
+- più rapidamente di Facebook, Amazon, Tesla e Google.
+
 56
 00:03:21,534 --> 00:03:24,204
 Non mi presto
@@ -258,6 +276,19 @@ al gioco delle speculazioni
 57
 00:03:24,245 --> 00:03:26,122
 su chi sia Nakamoto.
+
+57
+00:03:27,000 --> 00:03:29,000
+Il Wallet di Satoshi Nakamoto contiene ancora più di 1 milione di Bitcoin,
+
+57
+00:03:29,500 --> 00:03:33,000
+rendendo Satoshi una delle persone più ricche del pianeta.
+
+57
+00:03:33,010 --> 00:03:35,500
+Nessun bitcon del wallet di Satoshi
+è mai stato venduto o trasferito.
 
 58
 00:03:35,757 --> 00:03:38,718
@@ -293,6 +324,21 @@ fare congetture.
 65
 00:03:56,861 --> 00:03:59,864
 [musica di suspense]
+
+00:03:56,001 --> 00:03:57,204
+E nessuno sa chi
+
+65
+00:03:57,205 --> 00:03:58,000
+E nessuno sa chi lui sia
+
+65
+00:03:58,100 --> 00:04:00,004
+E nessuno sa chi lei sia
+
+65
+00:04:00,250 --> 00:04:02,500
+E nessuno sa chi loro siano...
 
 66
 00:04:26,641 --> 00:04:28,184
