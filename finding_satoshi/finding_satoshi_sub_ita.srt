@@ -3432,388 +3432,393 @@ per un centramento d'artiglieria.
 
 741
 00:35:27,792 --> 00:35:29,418
-Puoi spiegare cos'è
-il centramento d'artiglieria?
+[ride]
 
 742
 00:35:29,460 --> 00:35:31,170
-Se fai una domanda
-da questo lato,
+Puoi spiegare cos'è
+il centramento d'artiglieria?
 
 743
 00:35:31,212 --> 00:35:33,214
-e poi ne fai una
-da quest'altro,
+Se fai una domanda
+da questo lato,
 
 744
 00:35:33,256 --> 00:35:34,882
-ti avvicini sempre di più
-a qualcuno
+e poi ne fai una
+da quest'altro,
 
 745
 00:35:34,924 --> 00:35:37,927
-nel mezzo
-che preferirebbe non essere colpito.
+ti avvicini sempre di più
+a qualcuno
 
 746
 00:35:37,969 --> 00:35:40,304
-Ora, dobbiamo in qualche modo interpretare
-cosa volesse dire.
+nel mezzo
+che preferirebbe non essere colpito.
 
 747
 00:35:40,346 --> 00:35:42,014
-Stava cercando di depistarmi?
+[Tyler] Giusto.
 
 748
 00:35:42,056 --> 00:35:45,017
-O stava forse suggerendo
-che la risposta fosse sì?
+Ora, dobbiamo in qualche modo interpretare
+cosa volesse dire.
 
 749
 00:35:45,059 --> 00:35:47,186
-Un'altra cosa che ho
-imparato da Phil, tra l'altro,
+Stava cercando di depistarmi?
 
 750
 00:35:47,228 --> 00:35:49,814
-è che oltre
-alla crittografia delle email,
+O stava forse suggerendo
+che la risposta fosse sì?
 
 751
 00:35:50,940 --> 00:35:52,859
-che era il loro prodotto principale,
+Un'altra cosa che ho
+imparato da Phil, tra l'altro,
 
 752
 00:35:52,900 --> 00:35:55,653
-stavano discutendo
-di altri prodotti
+è che oltre
+alla crittografia delle email,
 
 753
 00:35:55,695 --> 00:35:58,156
-che non hanno mai lanciato
-sul mercato.
+che era il loro prodotto principale,
 
 754
 00:35:58,197 --> 00:36:00,992
-Per esempio, mi ha detto
+stavano discutendo
+di altri prodotti
 
 755
 00:36:01,033 --> 00:36:02,577
-che parlavano di
-contante digitale,
+che non hanno mai lanciato
+sul mercato.
 
 756
 00:36:02,618 --> 00:36:04,036
-che da allora ho capito essere
-una sorta di Santo Graal
+Per esempio, mi ha detto
 
 757
 00:36:04,078 --> 00:36:06,622
-del mondo crittografico
-dei Cypherpunk.
+che parlavano di
+contante digitale,
 
 758
 00:36:06,664 --> 00:36:10,918
-Dunque, racconta a Bill
-degli Estropici.
+che da allora ho capito essere
+una sorta di Santo Graal
 
 759
 00:36:10,960 --> 00:36:14,297
-Che diavolo sono?
+del mondo crittografico
+dei Cypherpunk.
 
 760
 00:36:14,338 --> 00:36:16,549
-Dunque, oltre
-ai Cypherpunk,
+Dunque, racconta a Bill
+degli Estropici.
 
 761
 00:36:17,133 --> 00:36:18,467
-molti dei nostri principali candidati
+Che diavolo sono?
 
 762
 00:36:18,509 --> 00:36:21,220
-facevano parte
-di un diverso gruppo di nicchia
+Dunque, oltre
+ai Cypherpunk,
 
 763
 00:36:21,262 --> 00:36:23,222
-chiamato gli Estropici.
+molti dei nostri principali candidati
 
 764
 00:36:23,264 --> 00:36:25,308
-Wei Dai, Hal Finney
-e Nick Szabo.
+facevano parte
+di un diverso gruppo di nicchia
 
 765
 00:36:25,349 --> 00:36:26,809
-Gli Estropici facevano parte
+chiamato gli Estropici.
 
 766
 00:36:26,851 --> 00:36:30,188
-di un gruppo più ampio
-chiamato Transumanisti.
+Wei Dai, Hal Finney
+e Nick Szabo.
 
 767
 00:36:30,229 --> 00:36:31,814
-Persone provenienti da molti
-settori diversi
+Gli Estropici facevano parte
 
 768
 00:36:31,856 --> 00:36:33,858
-che credevano che la razza umana
+di un gruppo più ampio
+chiamato Transumanisti.
 
 769
 00:36:33,900 --> 00:36:35,818
-non avesse ancora raggiunto
-il suo pieno potenziale.
+Persone provenienti da molti
+settori diversi
 
 770
 00:36:35,860 --> 00:36:37,653
-E il modo per farlo
-è usare la tecnologia, l'IA,
+che credevano che la razza umana
 
 771
 00:36:37,695 --> 00:36:40,406
-la nanotecnologia,
-l'ingegneria genetica.
+non avesse ancora raggiunto
+il suo pieno potenziale.
 
 772
 00:36:40,448 --> 00:36:45,203
-Sento che avresti dovuto iniziare
-dal fatto
+E il modo per farlo
+è usare la tecnologia, l'IA,
 
 773
 00:36:45,244 --> 00:36:47,538
-che congelano i loro corpi.
+la nanotecnologia,
+l'ingegneria genetica.
 
 774
 00:36:47,580 --> 00:36:49,290
-Quella per me
-è stata la cosa più eccitante.
+Sento che avresti dovuto iniziare
+dal fatto
 
 775
 00:36:49,332 --> 00:36:50,750
--Ottimo punto. -Congelano i corpi?
+che congelano i loro corpi.
 
 776
 00:36:50,791 --> 00:36:52,627
-Max More,
-l'Estropico originale,
+Quella per me
+è stata la cosa più eccitante.
 
 777
 00:36:52,668 --> 00:36:55,254
-ora gestisce Alcor,
+-Ottimo punto. 
+-Congelano i corpi?
 
 778
 00:36:55,296 --> 00:36:58,633
-un sistema di
-preservazione crionica
+Max More,
+l'Estropico originale,
 
 779
 00:36:58,674 --> 00:37:00,885
-dove puoi essenzialmente sospendere
-il processo di morte, come dice lui,
+ora gestisce Alcor,
 
 780
 00:37:00,927 --> 00:37:03,971
-e preservare il tuo corpo
-per il futuro
+un sistema di
+preservazione crionica
 
 781
 00:37:04,013 --> 00:37:07,975
-per centinaia o migliaia di anni,
+dove puoi essenzialmente sospendere
+il processo di morte, come dice lui,
 
 782
 00:37:08,017 --> 00:37:10,436
-così che forse in futuro
+e preservare il tuo corpo
+per il futuro
 
 783
 00:37:10,478 --> 00:37:12,396
-avremo la tecnologia
-per risvegliarci.
+per centinaia o migliaia di anni,
 
 784
 00:37:12,438 --> 00:37:14,232
-Non solo i nostri corpi,
-ma le nostre menti.
+così che forse in futuro
 
 785
 00:37:14,273 --> 00:37:16,734
-E ciò che è affascinante è che
-uno degli argomenti principali
+avremo la tecnologia
+per risvegliarci.
 
 786
 00:37:16,776 --> 00:37:19,570
-di conversazione in questo gruppo
-era il contante digitale.
+Non solo i nostri corpi,
+ma le nostre menti.
 
 787
 00:37:19,612 --> 00:37:22,323
-[Max] Ero molto interessato
-alle religioni
+E ciò che è affascinante è che
+uno degli argomenti principali
 
 788
 00:37:22,365 --> 00:37:25,910
-quando avevo circa dai dieci
-ai quattordici anni.
+di conversazione in questo gruppo
+era il contante digitale.
 
 789
 00:37:29,789 --> 00:37:32,124
-Ognuna di queste
-storie e tradizioni religiose
+[Max] Ero molto interessato
+alle religioni
 
 790
 00:37:32,166 --> 00:37:35,211
-ha un senso di trascendenza,
+quando avevo circa dai dieci
+ai quattordici anni.
 
 791
 00:37:35,253 --> 00:37:38,589
-la sensazione che la condizione
-umana non sia solo quella attuale.
+Ognuna di queste
+storie e tradizioni religiose
 
 792
 00:37:38,631 --> 00:37:40,758
-In un certo senso,
-possiamo trascenderla.
+ha un senso di trascendenza,
 
 793
 00:37:40,800 --> 00:37:43,052
-Quindi, lasciando andare gli aspetti
-religiosi e di fede
+la sensazione che la condizione
+umana non sia solo quella attuale.
 
 794
 00:37:43,094 --> 00:37:44,887
-e guardando invece alla scienza
-e alla tecnologia per mettere in discussione
+In un certo senso,
+possiamo trascenderla.
 
 795
 00:37:44,929 --> 00:37:47,265
-alcuni degli aspetti fondamentali
-dell'essere umano,
+Quindi, lasciando andare gli aspetti
+religiosi e di fede
 
 796
 00:37:47,306 --> 00:37:49,850
-il primo dei quali
-è: perché moriamo?
+e guardando invece alla scienza
+e alla tecnologia per mettere in discussione
 
 797
 00:37:49,892 --> 00:37:51,769
-Perché invecchiamo e moriamo?
-È assolutamente essenziale?
+alcuni degli aspetti fondamentali
+dell'essere umano,
 
 798
 00:37:51,811 --> 00:37:53,813
-Possiamo fare qualcosa al riguardo?
+il primo dei quali
+è: perché moriamo?
 
 799
 00:37:53,854 --> 00:37:55,815
-E tutte quelle idee
-si sono unite
+Perché invecchiamo e moriamo?
+È assolutamente essenziale?
 
 800
 00:37:55,856 --> 00:37:57,358
-nel concetto di estropia,
+Possiamo fare qualcosa al riguardo?
 
 801
 00:37:57,400 --> 00:37:58,859
-essendo una sorta di opposto
-metaforico dell'entropia.
+E tutte quelle idee
+si sono unite
 
 802
 00:37:58,901 --> 00:38:00,278
-Con l'entropia, tutto cade
-a pezzi e decade nel tempo.
+nel concetto di estropia,
 
 803
 00:38:00,319 --> 00:38:02,822
-Con l'estropia,
-immetti energia nel sistema
+essendo una sorta di opposto
+metaforico dell'entropia.
 
 804
 00:38:02,863 --> 00:38:05,825
-e ottieni più intelligenza,
-più complessità
+Con l'entropia, tutto cade
+a pezzi e decade nel tempo.
 
 805
 00:38:05,866 --> 00:38:07,451
-e le cose, si spera, migliorano.
+Con l'estropia,
+immetti energia nel sistema
 
 806
 00:38:07,493 --> 00:38:09,078
-Dunque, tutti i nostri pazienti sono qui
-nella sala cure.
+e ottieni più intelligenza,
+più complessità
 
 807
 00:38:09,120 --> 00:38:10,955
--Wow. -[Tyler] E tutti i membri
+e le cose, si spera, migliorano.
 
 808
 00:38:13,582 --> 00:38:15,751
-che sono stati preservati
-sono qui?
+Dunque, tutti i nostri pazienti sono qui
+nella sala cure.
 
 809
 00:38:15,793 --> 00:38:17,295
-[Max] Sì, tutti i nostri 201 pazienti.
+-[donna] Wow. 
+-[Tyler] E tutti i membri
 
 810
 00:38:17,336 --> 00:38:18,879
-Puoi toccare l'esterno.
-È solo freddo acciaio inossidabile.
+che sono stati preservati
+sono qui?
 
 811
 00:38:18,921 --> 00:38:21,382
-Ma all'interno ci sono -320 gradi Fahrenheit.
+[Max] Sì, 
+tutti i nostri 201 pazienti.
 
 812
 00:38:21,424 --> 00:38:23,968
-A quella temperatura, davvero,
+Puoi toccare l'esterno.
+È solo freddo acciaio inossidabile.
 
 813
 00:38:24,010 --> 00:38:26,804
-nulla accade
-biologicamente.
+Ma all'interno ci sono -320 gradi Fahrenheit.
 
 814
 00:38:26,846 --> 00:38:28,347
-Non c'è metabolismo. Non succede nulla.
+A quella temperatura, davvero,
 
 815
 00:38:28,389 --> 00:38:30,099
-Certamente non ci sono ricordi.
+nulla accade
+biologicamente.
 
 816
 00:38:30,141 --> 00:38:32,184
-Non è come
-nel film Vanilla Sky,
+Non c'è metabolismo. Non succede nulla.
 
 817
 00:38:32,226 --> 00:38:33,686
-dove puoi fare sogni lucidi.
+Certamente non ci sono ricordi.
 
 818
 00:38:33,728 --> 00:38:35,396
-Non succederà.
+Non è come
+nel film Vanilla Sky,
 
 819
 00:38:35,438 --> 00:38:37,565
-[Finn] Gli Estropici
-sono un movimento
+dove puoi fare sogni lucidi.
+Non succederà.
 
 820
 00:38:37,606 --> 00:38:39,608
-che non è molto conosciuto ora
+[Finn] Gli Estropici
+sono un movimento
 
 821
 00:38:39,650 --> 00:38:41,944
-per via delle loro idee,
+che non è molto conosciuto ora
 
 822
 00:38:41,986 --> 00:38:43,279
-ma le tecnologie
+per via delle loro idee,
 
 823
 00:38:43,321 --> 00:38:44,780
+ma le tecnologie
 che sostenevano,
 
 824
