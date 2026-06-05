@@ -2682,7 +2682,8 @@ solo tramite un'app crittografata.
 
 570
 00:27:42,994 --> 00:27:44,996
--Phil, grazie per essere qui. -Piacere mio.
+-Phil, grazie per essere qui. 
+-Piacere mio.
 
 571
 00:27:45,038 --> 00:27:46,873
@@ -3335,7 +3336,7 @@ A un certo punto, è passato da:
 
 711
 00:33:55,033 --> 00:33:57,660
-"Sviluppo videogioami
+"Sviluppo videogiochi
 per Mattel",
 
 712
@@ -8014,7 +8015,7 @@ che aveva fatto.
 
 1714
 01:16:50,897 --> 01:16:52,608
-Così è?
+Cos'è?
 Non so cosa sia.
 
 1715
@@ -8066,7 +8067,7 @@ Poi il 3 luglio 2011,
 1725
 01:17:27,643 --> 01:17:31,980
 quasi sei mesi dopo
-Satoshi's ultimo post pubblico,
+l'ultimo post pubblico di Satoshi,
 
 1726
 01:17:32,022 --> 01:17:34,983
