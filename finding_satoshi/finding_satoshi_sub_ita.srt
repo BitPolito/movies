@@ -10078,6 +10078,7 @@ Non crede che Hal fosse il tipo da nascondere
 segreti alla sua famiglia o da usare uno pseudonimo.
 
 2141
-01:37:09,000 --> 01:37:16,000
+01:37:09,000 --> 01:37:20,000
 Traduzione a cura di BitPolito e Satoshi Spritz Torino
 Con il prezioso contributo di @LeonardoVol
+In memoria del padre di Leo
