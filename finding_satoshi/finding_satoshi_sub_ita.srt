@@ -2310,6 +2310,42 @@ sui loro curricula dichiarano di essere
 programmatori in C ma non in C++.
 
 488
+00:23:36,800 --> 00:23:40,000
+Mi hai mostrato il codice. È C++.
+
+488
+00:23:40,101 --> 00:23:44,600
+Non si tratta semplicemente di C realizzato con un modello in C++
+
+488
+00:23:44,701 --> 00:23:47,000
+Usava un paio di tecniche che non puoi...
+
+488
+00:23:47,101 --> 00:23:48,300
+fare facilmente
+
+488
+00:23:48,401 --> 00:23:49,000
+in C.
+
+488
+00:23:49,101 --> 00:23:50,000
+Quindi,
+
+488
+00:23:50,101 --> 00:23:51,500
+Direi,
+
+488
+00:23:51,601 --> 00:23:54,500
+dallo stile e dalle funzionalità che usava...
+
+488
+00:23:54,601 --> 00:23:58,800
+...era un programmatore abbastanza bravo per l'epoca.
+
+488
 00:23:59,062 --> 00:24:01,565
 È corretto dire
 che se qualcuno
@@ -2326,6 +2362,18 @@ non è competente in C++,
 00:24:06,862 --> 00:24:11,032
 allora quella persona
 non avrebbe potuto programmare Bitcoin?
+
+492
+00:24:11,462 --> 00:24:14,032
+non avrebbe potuto scriverlo nel modo in cui è stato scritto...
+
+492
+00:24:14,262 --> 00:24:16,032
+nel codice che mi hai mostrato.
+
+492
+00:24:16,162 --> 00:24:18,032
+avrebbe dovuto essere ristrutturato.
 
 492
 00:24:18,248 --> 00:24:21,626
@@ -2367,6 +2415,7 @@ per tutta la sua carriera.
 500
 00:24:39,269 --> 00:24:41,062
 [intervistatore]
+Se si facesse avanti, lo assumeresti?
 
 501
 00:24:42,939 --> 00:24:46,067
@@ -3951,481 +4000,483 @@ Ti sorprende?
 
 842
 00:39:27,907 --> 00:39:29,283
-Sì e no. Immagino che, dal punto di vista
+Uh...
 
 843
 00:39:29,325 --> 00:39:30,993
-di non essere un esperto tecnico
+Sì e no. Immagino che, dal punto di vista
 
 844
 00:39:31,035 --> 00:39:32,995
-per discutere quelle idee,
-beh, sì.
+di non essere un esperto tecnico
 
 845
 00:39:33,037 --> 00:39:34,622
-Ma no nel senso che, sì, ero--
+per discutere quelle idee,
+beh, sì.
 
 846
 00:39:34,663 --> 00:39:36,999
-ho avuto un ruolo importante, insieme ai miei colleghi,
+Ma no nel senso che, sì, ero--
 
 847
 00:39:37,041 --> 00:39:39,126
-nel formare una comunità in cui
-queste idee potessero essere discusse.
+ho avuto un ruolo importante, insieme ai miei colleghi,
 
 848
 00:39:39,168 --> 00:39:41,295
-Già nel 1988, abbiamo iniziato
-la nostra rivista, "Extropy".
+nel formare una comunità in cui
+queste idee potessero essere discusse.
 
 849
 00:39:43,339 --> 00:39:47,259
-La gente leggeva le recensioni,
-e ricevevo chiamate dal
+Già nel 1988, abbiamo iniziato
+la nostra rivista, "Extropy".
 
 850
 00:39:47,301 --> 00:39:49,553
-Kansas o da qualche
-altra parte, e qualcuno diceva:
+La gente leggeva le recensioni,
+e ricevevo chiamate dal
 
 851
 00:39:49,595 --> 00:39:51,680
-"Oh, mio Dio.
-Non pensavo che nessun altro
+Kansas o da qualche
+altra parte, e qualcuno diceva:
 
 852
 00:39:51,722 --> 00:39:53,099
-nel paese
-la pensasse così".
+"Oh, mio Dio.
+Non pensavo che nessun altro
 
 853
 00:39:53,140 --> 00:39:54,600
-Programmatori, esperti di IA, economisti,
+nel paese
+la pensasse così".
 
 854
 00:39:54,642 --> 00:39:56,894
-filosofi, biologi e tutte queste persone diverse
+Programmatori, esperti di IA, economisti,
 
 855
 00:39:56,936 --> 00:39:59,271
-che si univano per discutere le cose
+filosofi, biologi e tutte queste persone diverse
 
 856
 00:39:59,313 --> 00:40:00,773
-da diverse prospettive,
+che si univano per discutere le cose
 
 857
 00:40:00,815 --> 00:40:02,400
-dall'IA
-alla colonizzazione dello spazio
+da diverse prospettive,
 
 858
 00:40:02,441 --> 00:40:03,818
-fino alla crittografia per la privacy,
+dall'IA
+alla colonizzazione dello spazio
 
 859
 00:40:03,859 --> 00:40:05,444
-incluso il settore del denaro.
+fino alla crittografia per la privacy,
 
 860
 00:40:05,486 --> 00:40:07,279
-Per il movimento Estropico,
-la crionica è importante
+incluso il settore del denaro.
 
 861
 00:40:07,321 --> 00:40:11,242
-perché offre un modo
-per risolvere il problema
+Per il movimento Estropico,
+la crionica è importante
 
 862
 00:40:11,283 --> 00:40:15,121
-che siamo sulla soglia
-di questo futuro straordinario.
+perché offre un modo
+per risolvere il problema
 
 863
 00:40:15,162 --> 00:40:18,707
-Ma potremmo morire
-prima che quel futuro arrivi.
+che siamo sulla soglia
+di questo futuro straordinario.
 
 864
 00:40:18,749 --> 00:40:21,544
-Una delle domande
-che questo pone, però,
+Ma potremmo morire
+prima che quel futuro arrivi.
 
 865
 00:40:21,585 --> 00:40:24,255
-è come avresti accesso
+Una delle domande
+che questo pone, però,
 
 866
 00:40:24,296 --> 00:40:27,007
-ai beni e alla ricchezza
-nel futuro?
+è come avresti accesso
 
 867
 00:40:27,049 --> 00:40:29,260
-Quindi, se non ti fidi
+ai beni e alla ricchezza
+nel futuro?
 
 868
 00:40:29,301 --> 00:40:31,720
-della valuta attuale
-per mantenere il suo valore,
+Quindi, se non ti fidi
 
 869
 00:40:31,762 --> 00:40:34,765
-se non ti fidi
-dei sistemi finanziari esistenti
+della valuta attuale
+per mantenere il suo valore,
 
 870
 00:40:34,807 --> 00:40:36,392
-per mantenere il loro valore,
+se non ti fidi
+dei sistemi finanziari esistenti
 
 871
 00:40:36,434 --> 00:40:37,726
-devi creare
-un'alternativa.
+per mantenere il loro valore,
 
 872
 00:40:37,768 --> 00:40:39,645
-Molti dei candidati proposti
+devi creare
+un'alternativa.
 
 873
 00:40:39,687 --> 00:40:41,856
-come Satoshi Nakamoto
-erano Estropici,
+Molti dei candidati proposti
 
 874
 00:40:41,897 --> 00:40:44,275
-il che ci mostra che parte
+come Satoshi Nakamoto
+erano Estropici,
 
 875
 00:40:44,316 --> 00:40:45,943
-di ciò che ha dato vita
-alle criptovalute,
+il che ci mostra che parte
 
 876
 00:40:45,985 --> 00:40:48,946
-parte di ciò che ha dato vita
-a Bitcoin,
+di ciò che ha dato vita
+alle criptovalute,
 
 877
 00:40:48,988 --> 00:40:51,282
-erano le convinzioni e le passioni
-del movimento Estropico.
+parte di ciò che ha dato vita
+a Bitcoin,
 
 878
 00:40:51,323 --> 00:40:54,660
-Dunque, qui abbiamo i nomi
-di quattro persone.
+erano le convinzioni e le passioni
+del movimento Estropico.
 
 879
 00:40:56,454 --> 00:40:59,206
-Adam Back, Hal Finney,
-Nick Szabo e Wei Dai.
+Dunque, qui abbiamo i nomi
+di quattro persone.
 
 880
 00:40:59,248 --> 00:41:03,961
-Tutti e quattro hanno concepito
+Adam Back, Hal Finney,
+Nick Szabo e Wei Dai.
 
 881
 00:41:04,003 --> 00:41:05,463
-una prima versione
-delle criptovalute,
+Tutti e quattro hanno concepito
 
 882
 00:41:05,504 --> 00:41:07,548
-o hanno creato una tecnologia
+una prima versione
+delle criptovalute,
 
 883
 00:41:07,590 --> 00:41:09,383
-fondamentale per
-lo sviluppo di Bitcoin.
+o hanno creato una tecnologia
 
 884
 00:41:09,425 --> 00:41:11,760
-Inizierò con Adam Back.
+fondamentale per
+lo sviluppo di Bitcoin.
 
 885
 00:41:11,802 --> 00:41:13,345
-Ciò che ha creato
-si chiamava Hashcash.
+Inizierò con Adam Back.
 
 886
 00:41:13,387 --> 00:41:16,182
-[Finn] Voleva capire
-come gestire
+Ciò che ha creato
+si chiamava Hashcash.
 
 887
 00:41:16,223 --> 00:41:17,975
-il problema delle email di spam.
+[Finn] Voleva capire
+come gestire
 
 888
 00:41:18,017 --> 00:41:20,269
-Oggi viviamo per lo più dietro
-a filtri
+il problema delle email di spam.
 
 889
 00:41:20,311 --> 00:41:22,605
-che ci impediscono
-di vedere le ondate
+Oggi viviamo per lo più dietro
+a filtri
 
 890
 00:41:22,646 --> 00:41:24,148
-di spam che ci arrivano.
+che ci impediscono
+di vedere le ondate
 
 891
 00:41:24,190 --> 00:41:25,774
-Ma dall'altra parte,
+di spam che ci arrivano.
 
 892
 00:41:25,816 --> 00:41:27,193
-come delle dighe,
-ci sono tsunami di spam
+Ma dall'altra parte,
 
 893
 00:41:27,234 --> 00:41:29,904
-che si infrangono contro di esse
-continuamente.
+come delle dighe,
+ci sono tsunami di spam
 
 894
 00:41:29,945 --> 00:41:32,198
-Back ebbe un modo davvero interessante
-per cercare di risolvere questo problema
+che si infrangono contro di esse
+continuamente.
 
 895
 00:41:32,239 --> 00:41:35,659
-che avrebbe anche preservato
-la privacy delle persone.
+Back ebbe un modo davvero interessante
+per cercare di risolvere questo problema
 
 896
 00:41:35,701 --> 00:41:37,912
-Coinvolgeva un concetto
-chiamato Proof of Work.
+che avrebbe anche preservato
+la privacy delle persone.
 
 897
 00:41:37,953 --> 00:41:41,207
-Back pensò: "E se dovessi
-comprare un francobollo per inviare un'email?
+Coinvolgeva un concetto
+chiamato Proof of Work.
 
 898
 00:41:41,248 --> 00:41:45,377
-E se per comprare quel francobollo,
-il tuo computer dovesse fare
+Back pensò: "E se dovessi
+comprare un francobollo per inviare un'email?
 
 899
 00:41:45,419 --> 00:41:48,380
-un piccolo sforzo?
-Tipo risolvere un problema matematico".
+E se per comprare quel francobollo,
+il tuo computer dovesse fare
 
 900
 00:41:48,422 --> 00:41:51,383
-[musica di suspense]
+un piccolo sforzo?
+Tipo risolvere un problema matematico".
 
 901
 00:41:51,425 --> 00:41:54,428
-Io e te che ci scriviamo email
-non lo noteremmo mai.
+[musica di suspense]
 
 902
 00:41:57,389 --> 00:41:59,642
-Ma se stessi cercando di scrivere
-a un milione di persone
+Io e te che ci scriviamo email
+non lo noteremmo mai.
 
 903
 00:41:59,683 --> 00:42:01,852
-come deve fare uno spammer,
-allora improvvisamente
+Ma se stessi cercando di scrivere
+a un milione di persone
 
 904
 00:42:01,894 --> 00:42:03,896
-risolvere quel milione di problemi
-diventa oneroso.
+come deve fare uno spammer,
+allora improvvisamente
 
 905
 00:42:03,938 --> 00:42:07,066
-Adam Back sviluppò un sistema
+risolvere quel milione di problemi
+diventa oneroso.
 
 906
 00:42:07,107 --> 00:42:09,193
-in cui il computer
-doveva provare
+Adam Back sviluppò un sistema
 
 907
 00:42:09,235 --> 00:42:11,695
-di aver svolto
-un po' di lavoro
+in cui il computer
+doveva provare
 
 908
 00:42:11,737 --> 00:42:14,073
-per poter inviare questo messaggio.
+di aver svolto
+un po' di lavoro
 
 909
 00:42:14,114 --> 00:42:16,116
-Proof of Work.
+per poter inviare questo messaggio.
 
 910
 00:42:16,158 --> 00:42:17,785
-Ed è simile
-a ciò che abbiamo,
+Proof of Work.
 
 911
 00:42:19,912 --> 00:42:22,248
-sai, quando vuoi
-accedere a un sito web
+Ed è simile
+a ciò che abbiamo,
 
 912
 00:42:22,289 --> 00:42:24,625
-o hai quegli enigmi
-che devi risolvere,
+sai, quando vuoi
+accedere a un sito web
 
 913
 00:42:24,667 --> 00:42:27,586
-tipo clicca sull'immagine
-di questo specifico oggetto o...
+o hai quegli enigmi
+che devi risolvere,
 
 914
 00:42:27,628 --> 00:42:29,922
+tipo clicca sull'immagine
+di questo specifico oggetto o...
+
+915
+00:42:29,964 --> 00:42:31,924
 È un buon punto. 
 È un altro
 esempio in cui siamo obbligati
 
-915
-00:42:29,964 --> 00:42:31,924
+916
+00:42:31,966 --> 00:42:34,301
 a fare qualcosa per dimostrare
 chi siamo...
 
-916
-00:42:31,966 --> 00:42:34,301
--Sì, che siamo umani. -O per tenere fuori i cattivi.
-
 917
 00:42:34,343 --> 00:42:36,512
-Tenere fuori i cattivi, esattamente.
+-Sì, che siamo umani. 
+-O per tenere fuori i cattivi.
 
 918
 00:42:36,554 --> 00:42:38,264
-[Tyler] Dunque, Hal Finney ha inventato
-ciò che si chiama RPOW.
+Tenere fuori i cattivi, esattamente.
 
 919
 00:42:38,305 --> 00:42:41,225
-"Reusable Proof of Work".
+[Tyler] Dunque, Hal Finney ha inventato
+ciò che si chiama RPOW.
 
 920
 00:42:41,267 --> 00:42:42,977
-E in breve,
-era un passo avanti
+"Reusable Proof of Work".
 
 921
 00:42:43,018 --> 00:42:45,062
-rispetto all'idea di Adam Back.
+E in breve,
+era un passo avanti
 
 922
 00:42:45,104 --> 00:42:46,939
-[Finn] Hal ha sviluppato un sistema
-di Proof of Work più efficiente.
+rispetto all'idea di Adam Back.
 
 923
 00:42:46,981 --> 00:42:50,234
-Un computer esegue
-la Proof of Work iniziale.
+[Finn] Hal ha sviluppato un sistema
+di Proof of Work più efficiente.
 
 924
 00:42:50,276 --> 00:42:52,528
-Ma invece di ricevere
-un francobollo digitale,
+Un computer esegue
+la Proof of Work iniziale.
 
 925
 00:42:52,570 --> 00:42:54,697
-riceve un token digitale,
+Ma invece di ricevere
+un francobollo digitale,
 
 926
 00:42:54,738 --> 00:42:56,699
-che invia
-al computer successivo.
+riceve un token digitale,
 
 927
 00:42:56,740 --> 00:42:58,867
-Quindi, senza spendere energia
-extra per fare altro lavoro,
+che invia
+al computer successivo.
 
 928
 00:42:58,909 --> 00:43:02,288
-quel computer
-può riutilizzare il token.
+Quindi, senza spendere energia
+extra per fare altro lavoro,
 
 929
 00:43:02,329 --> 00:43:05,457
-E poi scambiarlo
-con qualcun altro.
+quel computer
+può riutilizzare il token.
 
 930
 00:43:05,499 --> 00:43:07,293
-"Reusable Proof Of Work",
+E poi scambiarlo
+con qualcun altro.
 
 931
 00:43:07,334 --> 00:43:09,211
-trasformiamolo
-in un acronimo, "RPOW".
+"Reusable Proof Of Work",
 
 932
 00:43:09,253 --> 00:43:11,547
-Ciò che Nick Szabo ha fatto
-con Bit Gold,
+trasformiamolo
+in un acronimo, "RPOW".
 
 933
 00:43:11,922 --> 00:43:14,967
-che è un terzo tassello
-di Bitcoin, è stato dire:
+Ciò che Nick Szabo ha fatto
+con Bit Gold,
 
 934
 00:43:15,009 --> 00:43:18,178
-"Pensiamo ai token digitali
-come a una commodity come l'oro".
+che è un terzo tassello
+di Bitcoin, è stato dire:
 
 935
 00:43:18,220 --> 00:43:23,350
-[Finn] Se possiedo un lingotto d'oro,
-è molto improbabile
+"Pensiamo ai token digitali
+come a una commodity come l'oro".
 
 936
 00:43:23,392 --> 00:43:27,187
-che lo tenga in casa mia.
+[Finn] Se possiedo un lingotto d'oro,
+è molto improbabile
 
 937
 00:43:27,229 --> 00:43:28,647
-Invece, sta
-in un caveau da qualche parte.
+che lo tenga in casa mia.
 
 938
 00:43:28,689 --> 00:43:30,899
-E quando te lo vendo,
+Invece, sta
+in un caveau da qualche parte.
 
 939
 00:43:30,941 --> 00:43:32,693
-te lo assegno formalmente.
+E quando te lo vendo,
 
 940
 00:43:32,735 --> 00:43:34,778
-Aggiungo la mia firma
-a un sistema di Ledger
+te lo assegno formalmente.
 
 941
 00:43:34,820 --> 00:43:37,239
-che dichiarerà che
+Aggiungo la mia firma
+a un sistema di Ledger
 
 942
 00:43:37,281 --> 00:43:38,616
-quell'oro è ora
-in tuo possesso.
+che dichiarerà che
 
 943
 00:43:38,657 --> 00:43:40,242
-Non viene mai rimosso dallo
+quell'oro è ora
+in tuo possesso.
 
 944
 00:43:40,284 --> 00:43:42,453
+Non viene mai rimosso dallo
 scaffale su cui poggia.
 
 945
@@ -6592,6 +6643,14 @@ finché tuo marito non morirà."
 01:03:28,679 --> 01:03:31,224
 E circa tre anni dopo,
 lo hanno trovato.
+
+1409
+01:03:31,500 --> 01:03:32,700
+Il 28 agosto 2014,
+
+1409
+01:03:32,750 --> 01:03:36,700
+Hal è venuto a mancare a causa della SLA
 
 1409
 01:03:37,772 --> 01:03:39,357
@@ -9055,6 +9114,10 @@ che loro due
 fossero Satoshi Nakamoto.
 
 1936
+01:27:16,140 --> 01:27:18,000
+Un anno dopo
+
+1936
 01:27:19,400 --> 01:27:21,402
 [musica dolce in sottofondo]
 
@@ -10013,3 +10076,8 @@ né la persona che ha minato 1 milione di Bitcoin.
 01:37:03,500 --> 01:37:06,500
 Non crede che Hal fosse il tipo da nascondere 
 segreti alla sua famiglia o da usare uno pseudonimo.
+
+2141
+01:37:09,000 --> 01:37:16,000
+Traduzione a cura di BitPolito e Satoshi Spritz Torino
+Con il prezioso contributo di @LeonardoVol
